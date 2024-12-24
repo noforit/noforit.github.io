@@ -1,0 +1,174 @@
+{# Default section.html template #}
+
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="container">
+  <section class="section">
+    {% if section.content %}
+    <div class="content">
+      {{ section.content | safe }}
+    </div>
+    {% else %}
+    <p class="title">
+      {{ section.title }}
+    </p>
+    {% endif %}
+
+    {% if paginator %}
+    {% set pages = paginator.pages %}
+    {% else %}
+    {% set pages = section.pages %}
+    {% endif %}
+
+    {% block page %}
+    {% for page in pages %}
+
+    <div class="box card">
+      <header class="is-hidden-tablet">
+        <h3 class="title is-4">
+          {% if page.content %}
+          <a href="{{ page.permalink }}">{{ page.title }}</a>
+          {% else %}
+          {{ page.title }}
+          {% endif %}
+        </h3>
+      </header>
+
+      {% if page.extra.image %}
+      <div class="card-image is-hidden-tablet">
+        <figure class="image is-1by1" style="overflow: hidden;">
+          {% if page.extra.image is starting_with("http") %}
+          <img src="{{ page.extra.image }}" style="height: auto; margin: auto;">
+          {% else %}
+          <img src="{{ get_url(path=page.extra.image) }}" style="height: auto; margin: auto;">
+          {% endif %}
+        </figure>
+      </div>
+      {% endif %}
+
+      <div class="card-content is-hidden-tablet">
+        {{ page.description | safe }}
+      </div>
+
+      <article class="media">
+        {% if page.extra.image %}
+        <figure class="media-left is-flex is-justify-content-center is-hidden-mobile image is-128x128" style="overflow: hidden;">
+          {% if page.extra.image is starting_with("http") %}
+          <img src="{{ page.extra.image }}" style="width: auto; margin: auto;">
+          {% else %}
+          <img src="{{ get_url(path=page.extra.image) }}" style="width: auto; margin: auto;">
+          {% endif %}
+        </figure>
+        {% endif %}
+        <div class="media-content">
+          <div class="content is-hidden-mobile">
+            <h3 class="subtitle">
+              {% if page.extra.url %}
+              <a href="{{ page.extra.url }}">{{ page.title }}</a>
+              {% elif page.content %}
+              <a href="{{ page.permalink }}">{{ page.title }}</a>
+              {% else %}
+              {{ page.title }}
+              {% endif %}
+            </h3>
+            {{ page.description | safe }}
+          </div>
+          <nav class="level">
+            <div class="level-left">
+              {% for name, tags in page.taxonomies %}
+              {% for tag in tags %}
+              <div class="level-item">
+                <a href="{{ get_taxonomy_url(kind=name, name=tag, lang=page.lang) }}">
+                  <span class="tag is-primary">
+                    {{ tag }}
+                  </span>
+                </a>
+              </div>
+              {% endfor %}
+              {% endfor %}
+            </div>
+            <div class="level-right is-hidden-tablet">
+              {% if section.extra.date %}
+              <div class="level-item">
+                {% if page.extra.start_date %}
+                <time datetime="{{ page.extra.start_date }}"><span>&#128640;</span> {{ page.extra.start_date }}</time>
+                {% else %}
+                <time datetime="{{ page.date }}">{{ page.date }}</time>
+                {% endif %}
+              </div>
+
+              {% if page.extra.end_date %}
+              <div class="level-item">
+                <time datetime="{{ page.extra.end_date }}"><span>&#127881;</span> {{ page.extra.end_date }}</time>
+              </div>
+              {% endif %}
+
+              {% endif %}
+            </div>
+          </nav>
+        </div>
+        <div class="media-right is-hidden-mobile">
+          {% if section.extra.date %}
+          <div class="level-item">
+            {% if page.extra.start_date %}
+            <time datetime="{{ page.extra.start_date }}"><span>&#128640;</span> {{ page.extra.start_date }}</time>
+            {% else %}
+            <time datetime="{{ page.date }}">{{ page.date }}</time>
+            {% endif %}
+          </div>
+
+          {% if page.extra.end_date %}
+          <div class="level-item">
+            <time datetime="{{ page.extra.end_date }}"><span>&#127881;</span> {{ page.extra.end_date }}</time>
+          </div>
+          {% endif %}
+
+          {% endif %}
+        </div>
+      </article>
+    </div>
+    {% endfor %}
+    {% endblock page %}
+
+    {% set subsections = section.subsections %}
+    {% block subsection %}
+
+    {% endblock subsection %}
+
+    {% if paginator %}
+    <nav class="pagination is-centered" role="navigation" aria-label="pagination">
+      {% if paginator.previous %}
+      <a class="pagination-previous" href="{{ paginator.previous }}">‹ Previous</a>
+      {% endif %}
+      {% if paginator.next %}
+      <a class="pagination-next" href="{{ paginator.next }}">Next ›</a>
+      {% endif %}
+      <ul class="pagination-list">
+        {% if paginator.previous %}
+
+        {% if paginator.current_index - 1 != 1 %}
+        <li><a class="pagination-link" href="{{ paginator.first }}">1</a></li>
+        <li><span class="pagination-ellipsis">&hellip;</span></li>
+        {% endif %}
+
+        <li><a class="pagination-link" href="{{ paginator.previous }}">{{ paginator.current_index - 1}}</a></li>
+        {% endif %}
+        <li><a class="pagination-link is-current" aria-current="page">{{ paginator.current_index }}</a></li>
+        {% if paginator.next %}
+        <li><a class="pagination-link" href="{{ paginator.next }}">{{ paginator.current_index + 1}}</a></li>
+
+        {% if paginator.current_index + 1 != paginator.number_pagers %}
+        <li><span class="pagination-ellipsis">&hellip;</span></li>
+        <li><a class="pagination-link" href="{{ paginator.last }}">{{ paginator.number_pagers }}</a></li>
+        {% endif %}
+
+        {% endif %}
+      </ul>
+    </nav>
+    {% endif %}
+  </section>
+</div>
+
+{% endblock content %}

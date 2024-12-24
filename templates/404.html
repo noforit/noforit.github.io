@@ -1,0 +1,21 @@
+{% extends "index.html" %}
+
+{% block navbar %}
+{% endblock navbar %}
+
+{% block content %}
+
+<section class="hero is-fullheight">
+  <div class="hero-body">
+    <div class="">
+      <p class="title">
+        404: Page not found
+      </p>
+      <p class="subtitle">
+        Sorry, we've misplaced that URL or it's pointing to something that doesn't exist. <a href={{ config.base_url }}>Head back home</a> to try finding it again.
+      </p>
+    </div>
+  </div>
+</section>
+
+{% endblock content %}

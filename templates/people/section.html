@@ -1,0 +1,27 @@
+{% extends "section.html" %}
+{% import 'partials/people.html' as people -%}
+
+{% block content %}
+<div class="container">
+  <section class="section">
+    {% if section.content %}
+    <div class="content">
+      {{ section.content | safe }}
+    </div>
+    {% else %}
+    <p class="title">
+      {{ section.title }}
+    </p>
+    {% endif %}
+  </section>
+
+  {{ people::people(path="people/教师/_index.md") }}
+  {{ people::people(path="people/在读博士生/_index.md") }}
+  {{ people::people(path="people/在读硕士生/_index.md") }}
+  {{ people::people(path="people/在读本科生/_index.md") }}
+  {{ people::people(path="people/毕业博士/_index.md") }}
+  {{ people::people(path="people/毕业硕士/_index.md") }}
+  {{ people::people(path="people/毕业学士/_index.md") }}
+
+</div>
+{% endblock content %}

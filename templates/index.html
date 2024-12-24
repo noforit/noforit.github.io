@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+{% import 'partials/index.html' as index -%}
+
+{% block content %}
+{% set page = get_page(path="about.md") %}
+
+<figure class="image is-fullwidth">
+  <img src="{{ get_url(path=page.extra.image) }}">
+</figure>
+
+<div class="container">
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container has-text-centered">
+        <p class="title">
+          {{ page.extra.slogan }}
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <h1 class="title">{{ page.title | safe }}</h1>
+    <article class="media">
+      {% if page.extra.media %}
+      <figure class="media-left">
+        <p class="image is-512x512">
+          <img src="{{ get_url(path=page.extra.media) }}" alt="Placeholder image">
+        </p>
+      </figure>
+      {% endif %}
+      <div class="content">
+        {{ page.content | safe }}
+      </div>
+    </article>
+  </section>
+
+  {{ index::index_section(title="近期新闻", path="news/_index.md", image=true) }}
+  {{ index::index_section(title="承担项目", path="projects/_index.md", image=true) }}
+
+</div>
+
+{% endblock content %}

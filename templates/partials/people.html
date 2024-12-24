@@ -1,0 +1,43 @@
+{% macro people(path) %}
+{% set section = get_section(path=path) %}
+
+<section class="section">
+  {% if section.content %}
+  <div class="content">
+    {{ section.content | safe }}
+  </div>
+  {% else %}
+  <p class="title">
+    {{ section.title }}
+  </p>
+  {% endif %}
+
+  {% for page in section.pages | reverse %}
+  {% if loop.first or ( loop.index - 1 ) % 5 == 0 %}
+  <div class="columns">
+    {% endif %}
+    <div class="column is-one-fifth">
+      <div class="card">
+        <div>
+          <figure class="image">
+            <a href="{{ page.extra.homepage }}">
+              {% set image = resize_image(path=page.extra.image, width=300, height=300) %}
+              <img width="300" src="{{ image.url }}" alt="Placeholder image">
+            </a>
+          </figure>
+        </div>
+        <div class="card-content">
+          <div class="content">
+            <p class="title is-4">{{ page.title }}</p>
+            <p class="subtitle is-6">{{ page.extra.title }}</p>
+            <p class="subtitle is-6">{{ page.extra.mail }}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% if loop.last or ( loop.index - 1 ) % 5 == 4 %}
+  </div>
+  {% endif %}
+  {% endfor %}
+</section>
+{% endmacro %}

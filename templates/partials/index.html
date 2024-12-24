@@ -1,0 +1,82 @@
+{% macro index_section(title, path, limit=3,image=true) %}
+{% set section = get_section(path=path) %}
+
+<section class="section">
+  <h1 class="title"><a style="color: inherit;" href="{{ get_url(path=section.path) }}">{{ title }}</a></h1>
+
+  {% for page in section.pages %}
+  {% if loop.index <= limit %} {% if image %} {% if loop.first or ( loop.index - 1 ) % 3==0 %} <div class="columns">
+    {% endif %}
+    <div class="column is-one-third">
+      <div class="card">
+        <header class="card-header">
+          <p class="card-header-title">
+            {% if page.content %}
+            <a href="{{ page.permalink }}">{{ page.title | truncate(length=20) }}</a>
+            {% elif page.extra.url %}
+            <a href="{{ page.extra.url }}">{{ page.title | truncate(length=20) }}</a>
+            {% else %}
+            {{ page.title | truncate(length=20) }}
+            {% endif %}
+          </p>
+        </header>
+
+        <div class="card-image">
+          <figure class="image is-4by3" style="overflow: hidden;">
+            {% if page.extra.image %}
+            {% if page.extra.image is starting_with("http") %}
+            <img src="{{ page.extra.image }}" style="height: auto; margin: auto;" alt="Placeholder image">
+            {% else %}
+            <img src="{{ get_url(path=page.extra.image) }}" style="height: auto; margin: auto;" alt="Placeholder image">
+            {% endif %}
+            {% else %}
+            <img src="https://bulma.io/images/placeholders/640x480.png" alt="Placeholder image">
+            {% endif %}
+          </figure>
+        </div>
+      </div>
+    </div>
+    {% if loop.last or ( loop.index - 1 ) % 3 == 2 %}
+    </div>
+    {% endif %}
+    {% else %}
+    <div class="box">
+      <article class="media">
+        {% if page.extra.image %}
+        <figure class="media-left image is-128x128">
+          {% if page.extra.image is starting_with("http") %}
+          <img src="{{ page.extra.image }}" style="height: auto; margin: auto;" alt="Placeholder image">
+          {% else %}
+          <img src="{{ get_url(path=page.extra.image) }}" style="height: auto; margin: auto;" alt="Placeholder image">
+          {% endif %}
+        </figure>
+        {% endif %}
+        <div class="media-content">
+          <div class="content">
+            <h3 class="subtitle">
+              {% if page.content %}
+              <a href="{{ page.permalink }}">{{ page.title }}</a>
+              {% else %}
+              {{ page.title }}
+              {% endif %}
+            </h3>
+            {{ page.description | safe }}
+          </div>
+        </div>
+        <div class="media-right">
+          {% if page.extra.date %}
+          <time datetime="{{ page.date }}">{{ page.date }}</time>
+          {% endif %}
+          {% if page.extra.url %}
+          <a class="button" href="{{ page.extra.url }}">获取地址</a>
+          {% endif %}
+        </div>
+      </article>
+    </div>
+    {% endif %}
+
+    {% endif %}
+    {% endfor %}
+</section>
+
+{% endmacro %}

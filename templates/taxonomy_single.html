@@ -1,0 +1,85 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container">
+  <section class="hero">
+    <div class="hero-body">
+      {% block body %}
+      <p class="title">
+        {% block name %}
+        {{ term.name }}
+        {% endblock name %}
+      </p>
+      {% endblock body %}
+
+      {% if paginator %}
+      {% set pages = paginator.pages %}
+      {% else %}
+      {% set pages = term.pages %}
+      {% endif %}
+
+      {% block page %}
+      {% for page in pages %}
+      <div class="box">
+        <article class="media">
+          <figure class="media-left image is-128x128">
+            {% if page.extra.image %}
+            {% if page.extra.image is starting_with("http") %}
+            <img src="{{ page.extra.image }}">
+            {% else %}
+            <img src="{{ get_url(path=page.extra.image) }}">
+            {% endif %}
+            {% else %}
+            <img src="https://bulma.io/images/placeholders/256x256.png" alt="Placeholder image">
+            {% endif %}
+          </figure>
+          <div class="media-content">
+            <div class="content">
+              <h3 class="subtitle"><a href="{{ page.permalink }}">{{ page.title }}</a></h3>
+              {{ page.description | safe }}
+            </div>
+          </div>
+          <div class="media-right">
+            <time datetime="{{ page.date }}">{{ page.date }}</time>
+          </div>
+        </article>
+      </div>
+      {% endfor %}
+      {% endblock page %}
+
+      {% if paginator %}
+      <nav class="pagination is-centered" role="navigation" aria-label="pagination">
+        {% if paginator.previous %}
+        <a class="pagination-previous" href="{{ paginator.previous }}">‹ Previous</a>
+        {% endif %}
+        {% if paginator.next %}
+        <a class="pagination-next" href="{{ paginator.next }}">Next ›</a>
+        {% endif %}
+        <ul class="pagination-list">
+          {% if paginator.previous %}
+
+          {% if paginator.current_index - 1 != 1 %}
+          <li><a class="pagination-link" href="{{ paginator.first }}">1</a></li>
+          <li><span class="pagination-ellipsis">&hellip;</span></li>
+          {% endif %}
+
+          <li><a class="pagination-link" href="{{ paginator.previous }}">{{ paginator.current_index - 1}}</a></li>
+          {% endif %}
+          <li><a class="pagination-link is-current" aria-current="page">{{ paginator.current_index }}</a></li>
+          {% if paginator.next %}
+          <li><a class="pagination-link" href="{{ paginator.next }}">{{ paginator.current_index + 1}}</a></li>
+
+          {% if paginator.current_index + 1 != paginator.number_pagers %}
+          <li><span class="pagination-ellipsis">&hellip;</span></li>
+          <li><a class="pagination-link" href="{{ paginator.last }}">{{ paginator.number_pagers }}</a></li>
+          {% endif %}
+
+          {% endif %}
+        </ul>
+      </nav>
+      {% endif %}
+    </div>
+  </section>
+</div>
+
+{% endblock content %}

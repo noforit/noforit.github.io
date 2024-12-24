@@ -1,0 +1,32 @@
+{% extends "section.html" %}
+{% import 'partials/subsection.html' as subsection -%}
+
+{% block content %}
+
+<div class="container">
+  {% if section.extra.image %}
+  <div class="is-flex is-justify-content-center">
+    <figure class="image" style="width: {{ section.extra.width }};">
+      <img src="{{ get_url(path=section.extra.image) }}">
+    </figure>
+  </div>
+  {% endif %}
+
+  <section class="section">
+    {% if section.content %}
+    <div class="content">
+      {{ section.content | safe }}
+    </div>
+    {% else %}
+    <p class="title">
+      {{ section.title }}
+    </p>
+    {% endif %}
+  </section>
+
+  {{ subsection::subsection(path="research/文本规整/_index.md") }}
+  {{ subsection::subsection(path="research/通用语言分析/_index.md") }}
+  {{ subsection::subsection(path="research/专用语言分析/_index.md") }}
+
+</div>
+{% endblock content %}

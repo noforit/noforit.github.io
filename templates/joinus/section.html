@@ -1,0 +1,15 @@
+{% extends "section.html" %}
+
+{% block content %}
+<figure class="image is-fullwidth">
+    <img src="{{ section.extra.image }}">
+</figure>
+
+<div class="container" style=font-size:{{ section.extra.fontsize }}>
+    <section class="section">
+        <div class="content">
+            {{ section.content | safe }}
+        </div>
+    </section>
+</div>
+{% endblock content %}
