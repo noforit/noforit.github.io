@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title> - 2024</title>
-    <link rel="self" type="application/atom+xml" href="http://ir.hit.edu.cn/~la/publish-year/2024/atom.xml"/>
-    <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la"/>
+    <link rel="self" type="application/atom+xml" href="/publish-year/2024/atom.xml"/>
+    <link rel="alternate" type="text/html" href="/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-01-01T00:00:00+00:00</updated>
-    <id>http://ir.hit.edu.cn/~la/publish-year/2024/atom.xml</id>
+    <id>/publish-year/2024/atom.xml</id>
     <entry xml:lang="en">
         <title>A Survey on Natural Language Processing for Programming</title>
         <published>2024-01-01T00:00:00+00:00</published>
@@ -19,10 +19,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2024-a-survey-on-natural-language-processing-for-programming/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2024-a-survey-on-natural-language-processing-for-programming/</id>
+        <link rel="alternate" type="text/html" href="/publications/2024-a-survey-on-natural-language-processing-for-programming/"/>
+        <id>/publications/2024-a-survey-on-natural-language-processing-for-programming/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2024-a-survey-on-natural-language-processing-for-programming/"></content>
+        <content type="html" xml:base="/publications/2024-a-survey-on-natural-language-processing-for-programming/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -38,10 +38,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2024-a-two-stage-framework-with-self-supervised-distillation-for-cross-domain-text-classification/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2024-a-two-stage-framework-with-self-supervised-distillation-for-cross-domain-text-classification/</id>
+        <link rel="alternate" type="text/html" href="/publications/2024-a-two-stage-framework-with-self-supervised-distillation-for-cross-domain-text-classification/"/>
+        <id>/publications/2024-a-two-stage-framework-with-self-supervised-distillation-for-cross-domain-text-classification/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2024-a-two-stage-framework-with-self-supervised-distillation-for-cross-domain-text-classification/"></content>
+        <content type="html" xml:base="/publications/2024-a-two-stage-framework-with-self-supervised-distillation-for-cross-domain-text-classification/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -57,10 +57,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2024-beyond-static-evaluation-a-dynamic-approach-to-assessing-ai-assistants-api-invocation-capabilities/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2024-beyond-static-evaluation-a-dynamic-approach-to-assessing-ai-assistants-api-invocation-capabilities/</id>
+        <link rel="alternate" type="text/html" href="/publications/2024-beyond-static-evaluation-a-dynamic-approach-to-assessing-ai-assistants-api-invocation-capabilities/"/>
+        <id>/publications/2024-beyond-static-evaluation-a-dynamic-approach-to-assessing-ai-assistants-api-invocation-capabilities/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2024-beyond-static-evaluation-a-dynamic-approach-to-assessing-ai-assistants-api-invocation-capabilities/"></content>
+        <content type="html" xml:base="/publications/2024-beyond-static-evaluation-a-dynamic-approach-to-assessing-ai-assistants-api-invocation-capabilities/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -76,10 +76,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2024-can-large-language-models-understand-you-better-an-mbti-personality-detection-dataset-aligned-with-population-traits/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2024-can-large-language-models-understand-you-better-an-mbti-personality-detection-dataset-aligned-with-population-traits/</id>
+        <link rel="alternate" type="text/html" href="/publications/2024-can-large-language-models-understand-you-better-an-mbti-personality-detection-dataset-aligned-with-population-traits/"/>
+        <id>/publications/2024-can-large-language-models-understand-you-better-an-mbti-personality-detection-dataset-aligned-with-population-traits/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2024-can-large-language-models-understand-you-better-an-mbti-personality-detection-dataset-aligned-with-population-traits/"></content>
+        <content type="html" xml:base="/publications/2024-can-large-language-models-understand-you-better-an-mbti-personality-detection-dataset-aligned-with-population-traits/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -95,10 +95,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2024-concise-and-precise-context-compression-for-tool-using-language-models/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2024-concise-and-precise-context-compression-for-tool-using-language-models/</id>
+        <link rel="alternate" type="text/html" href="/publications/2024-concise-and-precise-context-compression-for-tool-using-language-models/"/>
+        <id>/publications/2024-concise-and-precise-context-compression-for-tool-using-language-models/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2024-concise-and-precise-context-compression-for-tool-using-language-models/"></content>
+        <content type="html" xml:base="/publications/2024-concise-and-precise-context-compression-for-tool-using-language-models/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -114,10 +114,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2024-enhancing-numerical-reasoning-with-the-guidance-of-reliable-reasoning-processes/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2024-enhancing-numerical-reasoning-with-the-guidance-of-reliable-reasoning-processes/</id>
+        <link rel="alternate" type="text/html" href="/publications/2024-enhancing-numerical-reasoning-with-the-guidance-of-reliable-reasoning-processes/"/>
+        <id>/publications/2024-enhancing-numerical-reasoning-with-the-guidance-of-reliable-reasoning-processes/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2024-enhancing-numerical-reasoning-with-the-guidance-of-reliable-reasoning-processes/"></content>
+        <content type="html" xml:base="/publications/2024-enhancing-numerical-reasoning-with-the-guidance-of-reliable-reasoning-processes/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -133,10 +133,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2024-exploring-equation-as-a-better-intermediate-meaning-representation-for-numerical-reasoning-of-large-language-models/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2024-exploring-equation-as-a-better-intermediate-meaning-representation-for-numerical-reasoning-of-large-language-models/</id>
+        <link rel="alternate" type="text/html" href="/publications/2024-exploring-equation-as-a-better-intermediate-meaning-representation-for-numerical-reasoning-of-large-language-models/"/>
+        <id>/publications/2024-exploring-equation-as-a-better-intermediate-meaning-representation-for-numerical-reasoning-of-large-language-models/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2024-exploring-equation-as-a-better-intermediate-meaning-representation-for-numerical-reasoning-of-large-language-models/"></content>
+        <content type="html" xml:base="/publications/2024-exploring-equation-as-a-better-intermediate-meaning-representation-for-numerical-reasoning-of-large-language-models/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -152,10 +152,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2024-exploring-hybrid-question-answering-via-program-based-prompting/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2024-exploring-hybrid-question-answering-via-program-based-prompting/</id>
+        <link rel="alternate" type="text/html" href="/publications/2024-exploring-hybrid-question-answering-via-program-based-prompting/"/>
+        <id>/publications/2024-exploring-hybrid-question-answering-via-program-based-prompting/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2024-exploring-hybrid-question-answering-via-program-based-prompting/"></content>
+        <content type="html" xml:base="/publications/2024-exploring-hybrid-question-answering-via-program-based-prompting/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -171,10 +171,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2024-improving-demonstration-diversity-by-human-free-fusing-for-text-to-sql/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2024-improving-demonstration-diversity-by-human-free-fusing-for-text-to-sql/</id>
+        <link rel="alternate" type="text/html" href="/publications/2024-improving-demonstration-diversity-by-human-free-fusing-for-text-to-sql/"/>
+        <id>/publications/2024-improving-demonstration-diversity-by-human-free-fusing-for-text-to-sql/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2024-improving-demonstration-diversity-by-human-free-fusing-for-text-to-sql/"></content>
+        <content type="html" xml:base="/publications/2024-improving-demonstration-diversity-by-human-free-fusing-for-text-to-sql/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -190,10 +190,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2024-improving-grammatical-error-correction-via-contextual-data-augmentation/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2024-improving-grammatical-error-correction-via-contextual-data-augmentation/</id>
+        <link rel="alternate" type="text/html" href="/publications/2024-improving-grammatical-error-correction-via-contextual-data-augmentation/"/>
+        <id>/publications/2024-improving-grammatical-error-correction-via-contextual-data-augmentation/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2024-improving-grammatical-error-correction-via-contextual-data-augmentation/"></content>
+        <content type="html" xml:base="/publications/2024-improving-grammatical-error-correction-via-contextual-data-augmentation/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -209,10 +209,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2024-lm-combiner-a-contextual-rewriting-model-for-chinese-grammatical-error-correction/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2024-lm-combiner-a-contextual-rewriting-model-for-chinese-grammatical-error-correction/</id>
+        <link rel="alternate" type="text/html" href="/publications/2024-lm-combiner-a-contextual-rewriting-model-for-chinese-grammatical-error-correction/"/>
+        <id>/publications/2024-lm-combiner-a-contextual-rewriting-model-for-chinese-grammatical-error-correction/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2024-lm-combiner-a-contextual-rewriting-model-for-chinese-grammatical-error-correction/"></content>
+        <content type="html" xml:base="/publications/2024-lm-combiner-a-contextual-rewriting-model-for-chinese-grammatical-error-correction/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -228,10 +228,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2024-m3cot-a-novel-benchmark-for-multi-domain-multi-step-multi-modal-chain-of-thought/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2024-m3cot-a-novel-benchmark-for-multi-domain-multi-step-multi-modal-chain-of-thought/</id>
+        <link rel="alternate" type="text/html" href="/publications/2024-m3cot-a-novel-benchmark-for-multi-domain-multi-step-multi-modal-chain-of-thought/"/>
+        <id>/publications/2024-m3cot-a-novel-benchmark-for-multi-domain-multi-step-multi-modal-chain-of-thought/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2024-m3cot-a-novel-benchmark-for-multi-domain-multi-step-multi-modal-chain-of-thought/"></content>
+        <content type="html" xml:base="/publications/2024-m3cot-a-novel-benchmark-for-multi-domain-multi-step-multi-modal-chain-of-thought/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -247,10 +247,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2024-make-some-noise-unlocking-language-model-parallel-inference-capability-through-noisy-training/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2024-make-some-noise-unlocking-language-model-parallel-inference-capability-through-noisy-training/</id>
+        <link rel="alternate" type="text/html" href="/publications/2024-make-some-noise-unlocking-language-model-parallel-inference-capability-through-noisy-training/"/>
+        <id>/publications/2024-make-some-noise-unlocking-language-model-parallel-inference-capability-through-noisy-training/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2024-make-some-noise-unlocking-language-model-parallel-inference-capability-through-noisy-training/"></content>
+        <content type="html" xml:base="/publications/2024-make-some-noise-unlocking-language-model-parallel-inference-capability-through-noisy-training/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -266,10 +266,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2024-multi-hop-table-retrieval-for-open-domain-text-to-sql/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2024-multi-hop-table-retrieval-for-open-domain-text-to-sql/</id>
+        <link rel="alternate" type="text/html" href="/publications/2024-multi-hop-table-retrieval-for-open-domain-text-to-sql/"/>
+        <id>/publications/2024-multi-hop-table-retrieval-for-open-domain-text-to-sql/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2024-multi-hop-table-retrieval-for-open-domain-text-to-sql/"></content>
+        <content type="html" xml:base="/publications/2024-multi-hop-table-retrieval-for-open-domain-text-to-sql/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -285,10 +285,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2024-onebit-towards-extremely-low-bit-large-language-models/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2024-onebit-towards-extremely-low-bit-large-language-models/</id>
+        <link rel="alternate" type="text/html" href="/publications/2024-onebit-towards-extremely-low-bit-large-language-models/"/>
+        <id>/publications/2024-onebit-towards-extremely-low-bit-large-language-models/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2024-onebit-towards-extremely-low-bit-large-language-models/"></content>
+        <content type="html" xml:base="/publications/2024-onebit-towards-extremely-low-bit-large-language-models/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -304,10 +304,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2024-self-constructed-context-decompilation-with-fined-grained-alignment-enhancement/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2024-self-constructed-context-decompilation-with-fined-grained-alignment-enhancement/</id>
+        <link rel="alternate" type="text/html" href="/publications/2024-self-constructed-context-decompilation-with-fined-grained-alignment-enhancement/"/>
+        <id>/publications/2024-self-constructed-context-decompilation-with-fined-grained-alignment-enhancement/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2024-self-constructed-context-decompilation-with-fined-grained-alignment-enhancement/"></content>
+        <content type="html" xml:base="/publications/2024-self-constructed-context-decompilation-with-fined-grained-alignment-enhancement/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -323,10 +323,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2024-semantic-guided-generative-image-augmentation-method-with-diffusion-models-for-image-classification/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2024-semantic-guided-generative-image-augmentation-method-with-diffusion-models-for-image-classification/</id>
+        <link rel="alternate" type="text/html" href="/publications/2024-semantic-guided-generative-image-augmentation-method-with-diffusion-models-for-image-classification/"/>
+        <id>/publications/2024-semantic-guided-generative-image-augmentation-method-with-diffusion-models-for-image-classification/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2024-semantic-guided-generative-image-augmentation-method-with-diffusion-models-for-image-classification/"></content>
+        <content type="html" xml:base="/publications/2024-semantic-guided-generative-image-augmentation-method-with-diffusion-models-for-image-classification/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -342,10 +342,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2024-unlocking-the-capabilities-of-thought-a-reasoning-boundary-framework-to-quantify-and-optimize-chain-of-thought/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2024-unlocking-the-capabilities-of-thought-a-reasoning-boundary-framework-to-quantify-and-optimize-chain-of-thought/</id>
+        <link rel="alternate" type="text/html" href="/publications/2024-unlocking-the-capabilities-of-thought-a-reasoning-boundary-framework-to-quantify-and-optimize-chain-of-thought/"/>
+        <id>/publications/2024-unlocking-the-capabilities-of-thought-a-reasoning-boundary-framework-to-quantify-and-optimize-chain-of-thought/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2024-unlocking-the-capabilities-of-thought-a-reasoning-boundary-framework-to-quantify-and-optimize-chain-of-thought/"></content>
+        <content type="html" xml:base="/publications/2024-unlocking-the-capabilities-of-thought-a-reasoning-boundary-framework-to-quantify-and-optimize-chain-of-thought/"></content>
         
     </entry>
 </feed>

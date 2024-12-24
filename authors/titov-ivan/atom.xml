@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title> - Titov Ivan</title>
-    <link rel="self" type="application/atom+xml" href="http://ir.hit.edu.cn/~la/authors/titov-ivan/atom.xml"/>
-    <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la"/>
+    <link rel="self" type="application/atom+xml" href="/authors/titov-ivan/atom.xml"/>
+    <link rel="alternate" type="text/html" href="/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2021-01-01T00:00:00+00:00</updated>
-    <id>http://ir.hit.edu.cn/~la/authors/titov-ivan/atom.xml</id>
+    <id>/authors/titov-ivan/atom.xml</id>
     <entry xml:lang="en">
         <title>A Closer Look into the Robustness of Neural Dependency Parsers Using Better Adversarial Examples</title>
         <published>2021-01-01T00:00:00+00:00</published>
@@ -19,10 +19,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2021-a-closer-look-into-the-robustness-of-neural-dependency-parsers-using-better-adversarial-examples/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2021-a-closer-look-into-the-robustness-of-neural-dependency-parsers-using-better-adversarial-examples/</id>
+        <link rel="alternate" type="text/html" href="/publications/2021-a-closer-look-into-the-robustness-of-neural-dependency-parsers-using-better-adversarial-examples/"/>
+        <id>/publications/2021-a-closer-look-into-the-robustness-of-neural-dependency-parsers-using-better-adversarial-examples/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2021-a-closer-look-into-the-robustness-of-neural-dependency-parsers-using-better-adversarial-examples/"></content>
+        <content type="html" xml:base="/publications/2021-a-closer-look-into-the-robustness-of-neural-dependency-parsers-using-better-adversarial-examples/"></content>
         
     </entry>
 </feed>

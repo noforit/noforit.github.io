@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title> - Wanxiang Che</title>
-    <link rel="self" type="application/atom+xml" href="http://ir.hit.edu.cn/~la/authors/wanxiang-che/atom.xml"/>
-    <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la"/>
+    <link rel="self" type="application/atom+xml" href="/authors/wanxiang-che/atom.xml"/>
+    <link rel="alternate" type="text/html" href="/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-01-01T00:00:00+00:00</updated>
-    <id>http://ir.hit.edu.cn/~la/authors/wanxiang-che/atom.xml</id>
+    <id>/authors/wanxiang-che/atom.xml</id>
     <entry xml:lang="en">
         <title>Can Large Language Models Understand You Better An MBTI Personality Detection Dataset Aligned with Population Traits</title>
         <published>2024-01-01T00:00:00+00:00</published>
@@ -19,10 +19,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2024-can-large-language-models-understand-you-better-an-mbti-personality-detection-dataset-aligned-with-population-traits/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2024-can-large-language-models-understand-you-better-an-mbti-personality-detection-dataset-aligned-with-population-traits/</id>
+        <link rel="alternate" type="text/html" href="/publications/2024-can-large-language-models-understand-you-better-an-mbti-personality-detection-dataset-aligned-with-population-traits/"/>
+        <id>/publications/2024-can-large-language-models-understand-you-better-an-mbti-personality-detection-dataset-aligned-with-population-traits/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2024-can-large-language-models-understand-you-better-an-mbti-personality-detection-dataset-aligned-with-population-traits/"></content>
+        <content type="html" xml:base="/publications/2024-can-large-language-models-understand-you-better-an-mbti-personality-detection-dataset-aligned-with-population-traits/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -38,10 +38,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2023-a-preliminary-evaluation-of-chatgpt-for-zero-shot-dialogue-understanding/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2023-a-preliminary-evaluation-of-chatgpt-for-zero-shot-dialogue-understanding/</id>
+        <link rel="alternate" type="text/html" href="/publications/2023-a-preliminary-evaluation-of-chatgpt-for-zero-shot-dialogue-understanding/"/>
+        <id>/publications/2023-a-preliminary-evaluation-of-chatgpt-for-zero-shot-dialogue-understanding/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2023-a-preliminary-evaluation-of-chatgpt-for-zero-shot-dialogue-understanding/"></content>
+        <content type="html" xml:base="/publications/2023-a-preliminary-evaluation-of-chatgpt-for-zero-shot-dialogue-understanding/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -57,10 +57,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2023-bridgetower-building-bridges-between-encoders-in-vision-language-representation-learning/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2023-bridgetower-building-bridges-between-encoders-in-vision-language-representation-learning/</id>
+        <link rel="alternate" type="text/html" href="/publications/2023-bridgetower-building-bridges-between-encoders-in-vision-language-representation-learning/"/>
+        <id>/publications/2023-bridgetower-building-bridges-between-encoders-in-vision-language-representation-learning/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2023-bridgetower-building-bridges-between-encoders-in-vision-language-representation-learning/"></content>
+        <content type="html" xml:base="/publications/2023-bridgetower-building-bridges-between-encoders-in-vision-language-representation-learning/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -76,10 +76,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2023-combating-with-extremely-noisy-samples-in-weakly-supervised-slot-filling-for-automatic-diagnosis/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2023-combating-with-extremely-noisy-samples-in-weakly-supervised-slot-filling-for-automatic-diagnosis/</id>
+        <link rel="alternate" type="text/html" href="/publications/2023-combating-with-extremely-noisy-samples-in-weakly-supervised-slot-filling-for-automatic-diagnosis/"/>
+        <id>/publications/2023-combating-with-extremely-noisy-samples-in-weakly-supervised-slot-filling-for-automatic-diagnosis/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2023-combating-with-extremely-noisy-samples-in-weakly-supervised-slot-filling-for-automatic-diagnosis/"></content>
+        <content type="html" xml:base="/publications/2023-combating-with-extremely-noisy-samples-in-weakly-supervised-slot-filling-for-automatic-diagnosis/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -95,10 +95,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2023-controllable-data-augmentation-for-context-dependent-text-to-sql/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2023-controllable-data-augmentation-for-context-dependent-text-to-sql/</id>
+        <link rel="alternate" type="text/html" href="/publications/2023-controllable-data-augmentation-for-context-dependent-text-to-sql/"/>
+        <id>/publications/2023-controllable-data-augmentation-for-context-dependent-text-to-sql/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2023-controllable-data-augmentation-for-context-dependent-text-to-sql/"></content>
+        <content type="html" xml:base="/publications/2023-controllable-data-augmentation-for-context-dependent-text-to-sql/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -114,10 +114,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2023-csed-a-chinese-semantic-error-diagnosis-corpus/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2023-csed-a-chinese-semantic-error-diagnosis-corpus/</id>
+        <link rel="alternate" type="text/html" href="/publications/2023-csed-a-chinese-semantic-error-diagnosis-corpus/"/>
+        <id>/publications/2023-csed-a-chinese-semantic-error-diagnosis-corpus/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2023-csed-a-chinese-semantic-error-diagnosis-corpus/"></content>
+        <content type="html" xml:base="/publications/2023-csed-a-chinese-semantic-error-diagnosis-corpus/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -133,10 +133,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2023-improving-cross-lingual-language-understanding-with-consistency-regularization-based-fine-tuning/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2023-improving-cross-lingual-language-understanding-with-consistency-regularization-based-fine-tuning/</id>
+        <link rel="alternate" type="text/html" href="/publications/2023-improving-cross-lingual-language-understanding-with-consistency-regularization-based-fine-tuning/"/>
+        <id>/publications/2023-improving-cross-lingual-language-understanding-with-consistency-regularization-based-fine-tuning/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2023-improving-cross-lingual-language-understanding-with-consistency-regularization-based-fine-tuning/"></content>
+        <content type="html" xml:base="/publications/2023-improving-cross-lingual-language-understanding-with-consistency-regularization-based-fine-tuning/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -152,10 +152,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2023-language-anisotropic-cross-lingual-model-editing/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2023-language-anisotropic-cross-lingual-model-editing/</id>
+        <link rel="alternate" type="text/html" href="/publications/2023-language-anisotropic-cross-lingual-model-editing/"/>
+        <id>/publications/2023-language-anisotropic-cross-lingual-model-editing/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2023-language-anisotropic-cross-lingual-model-editing/"></content>
+        <content type="html" xml:base="/publications/2023-language-anisotropic-cross-lingual-model-editing/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -171,10 +171,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2023-managertower-aggregating-the-insights-of-uni-modal-experts-for-vision-language-representation-learning/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2023-managertower-aggregating-the-insights-of-uni-modal-experts-for-vision-language-representation-learning/</id>
+        <link rel="alternate" type="text/html" href="/publications/2023-managertower-aggregating-the-insights-of-uni-modal-experts-for-vision-language-representation-learning/"/>
+        <id>/publications/2023-managertower-aggregating-the-insights-of-uni-modal-experts-for-vision-language-representation-learning/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2023-managertower-aggregating-the-insights-of-uni-modal-experts-for-vision-language-representation-learning/"></content>
+        <content type="html" xml:base="/publications/2023-managertower-aggregating-the-insights-of-uni-modal-experts-for-vision-language-representation-learning/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -190,10 +190,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2023-metricprompt-prompting-model-as-a-relevance-metric-for-few-shot-text-classification/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2023-metricprompt-prompting-model-as-a-relevance-metric-for-few-shot-text-classification/</id>
+        <link rel="alternate" type="text/html" href="/publications/2023-metricprompt-prompting-model-as-a-relevance-metric-for-few-shot-text-classification/"/>
+        <id>/publications/2023-metricprompt-prompting-model-as-a-relevance-metric-for-few-shot-text-classification/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2023-metricprompt-prompting-model-as-a-relevance-metric-for-few-shot-text-classification/"></content>
+        <content type="html" xml:base="/publications/2023-metricprompt-prompting-model-as-a-relevance-metric-for-few-shot-text-classification/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -209,10 +209,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2023-mixpro-simple-yet-effective-data-augmentation-for-prompt-based-learning/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2023-mixpro-simple-yet-effective-data-augmentation-for-prompt-based-learning/</id>
+        <link rel="alternate" type="text/html" href="/publications/2023-mixpro-simple-yet-effective-data-augmentation-for-prompt-based-learning/"/>
+        <id>/publications/2023-mixpro-simple-yet-effective-data-augmentation-for-prompt-based-learning/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2023-mixpro-simple-yet-effective-data-augmentation-for-prompt-based-learning/"></content>
+        <content type="html" xml:base="/publications/2023-mixpro-simple-yet-effective-data-augmentation-for-prompt-based-learning/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -228,10 +228,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2023-openslu-a-unified-modularized-and-extensible-toolkit-for-spoken-language-understanding/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2023-openslu-a-unified-modularized-and-extensible-toolkit-for-spoken-language-understanding/</id>
+        <link rel="alternate" type="text/html" href="/publications/2023-openslu-a-unified-modularized-and-extensible-toolkit-for-spoken-language-understanding/"/>
+        <id>/publications/2023-openslu-a-unified-modularized-and-extensible-toolkit-for-spoken-language-understanding/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2023-openslu-a-unified-modularized-and-extensible-toolkit-for-spoken-language-understanding/"></content>
+        <content type="html" xml:base="/publications/2023-openslu-a-unified-modularized-and-extensible-toolkit-for-spoken-language-understanding/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -247,10 +247,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2023-semantic-guided-image-augmentation-with-pre-trained-models/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2023-semantic-guided-image-augmentation-with-pre-trained-models/</id>
+        <link rel="alternate" type="text/html" href="/publications/2023-semantic-guided-image-augmentation-with-pre-trained-models/"/>
+        <id>/publications/2023-semantic-guided-image-augmentation-with-pre-trained-models/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2023-semantic-guided-image-augmentation-with-pre-trained-models/"></content>
+        <content type="html" xml:base="/publications/2023-semantic-guided-image-augmentation-with-pre-trained-models/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -266,10 +266,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2022-towards-knowledge-intensive-text-to-sql-semantic-parsing-with-formulaic-knowledge/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2022-towards-knowledge-intensive-text-to-sql-semantic-parsing-with-formulaic-knowledge/</id>
+        <link rel="alternate" type="text/html" href="/publications/2022-towards-knowledge-intensive-text-to-sql-semantic-parsing-with-formulaic-knowledge/"/>
+        <id>/publications/2022-towards-knowledge-intensive-text-to-sql-semantic-parsing-with-formulaic-knowledge/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2022-towards-knowledge-intensive-text-to-sql-semantic-parsing-with-formulaic-knowledge/"></content>
+        <content type="html" xml:base="/publications/2022-towards-knowledge-intensive-text-to-sql-semantic-parsing-with-formulaic-knowledge/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -285,10 +285,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2020-cosda-ml-multi-lingual-code-switching-data-augmentation-for-zero-shotcross-lingual-nlp/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2020-cosda-ml-multi-lingual-code-switching-data-augmentation-for-zero-shotcross-lingual-nlp/</id>
+        <link rel="alternate" type="text/html" href="/publications/2020-cosda-ml-multi-lingual-code-switching-data-augmentation-for-zero-shotcross-lingual-nlp/"/>
+        <id>/publications/2020-cosda-ml-multi-lingual-code-switching-data-augmentation-for-zero-shotcross-lingual-nlp/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2020-cosda-ml-multi-lingual-code-switching-data-augmentation-for-zero-shotcross-lingual-nlp/"></content>
+        <content type="html" xml:base="/publications/2020-cosda-ml-multi-lingual-code-switching-data-augmentation-for-zero-shotcross-lingual-nlp/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -304,10 +304,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2020-discriminative-sentence-modeling-for-story-ending-prediction/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2020-discriminative-sentence-modeling-for-story-ending-prediction/</id>
+        <link rel="alternate" type="text/html" href="/publications/2020-discriminative-sentence-modeling-for-story-ending-prediction/"/>
+        <id>/publications/2020-discriminative-sentence-modeling-for-story-ending-prediction/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2020-discriminative-sentence-modeling-for-story-ending-prediction/"></content>
+        <content type="html" xml:base="/publications/2020-discriminative-sentence-modeling-for-story-ending-prediction/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -323,10 +323,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2020-enhancing-dialog-coherence-with-event-graph-grounded-content-planning/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2020-enhancing-dialog-coherence-with-event-graph-grounded-content-planning/</id>
+        <link rel="alternate" type="text/html" href="/publications/2020-enhancing-dialog-coherence-with-event-graph-grounded-content-planning/"/>
+        <id>/publications/2020-enhancing-dialog-coherence-with-event-graph-grounded-content-planning/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2020-enhancing-dialog-coherence-with-event-graph-grounded-content-planning/"></content>
+        <content type="html" xml:base="/publications/2020-enhancing-dialog-coherence-with-event-graph-grounded-content-planning/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -342,10 +342,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2020-keywords-generation-improves-e-commerce-session-based-recommendation/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2020-keywords-generation-improves-e-commerce-session-based-recommendation/</id>
+        <link rel="alternate" type="text/html" href="/publications/2020-keywords-generation-improves-e-commerce-session-based-recommendation/"/>
+        <id>/publications/2020-keywords-generation-improves-e-commerce-session-based-recommendation/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2020-keywords-generation-improves-e-commerce-session-based-recommendation/"></content>
+        <content type="html" xml:base="/publications/2020-keywords-generation-improves-e-commerce-session-based-recommendation/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -361,10 +361,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2018-a-neural-transition-based-approach-for-semantic-dependency-graph-parsing/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2018-a-neural-transition-based-approach-for-semantic-dependency-graph-parsing/</id>
+        <link rel="alternate" type="text/html" href="/publications/2018-a-neural-transition-based-approach-for-semantic-dependency-graph-parsing/"/>
+        <id>/publications/2018-a-neural-transition-based-approach-for-semantic-dependency-graph-parsing/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2018-a-neural-transition-based-approach-for-semantic-dependency-graph-parsing/"></content>
+        <content type="html" xml:base="/publications/2018-a-neural-transition-based-approach-for-semantic-dependency-graph-parsing/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -380,10 +380,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2018-joint-extraction-of-entities-and-relations-based-on-a-novel-graphscheme/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2018-joint-extraction-of-entities-and-relations-based-on-a-novel-graphscheme/</id>
+        <link rel="alternate" type="text/html" href="/publications/2018-joint-extraction-of-entities-and-relations-based-on-a-novel-graphscheme/"/>
+        <id>/publications/2018-joint-extraction-of-entities-and-relations-based-on-a-novel-graphscheme/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2018-joint-extraction-of-entities-and-relations-based-on-a-novel-graphscheme/"></content>
+        <content type="html" xml:base="/publications/2018-joint-extraction-of-entities-and-relations-based-on-a-novel-graphscheme/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -399,10 +399,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2016-a-representation-learning-framework-for-multi-source-transfer-parsing/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2016-a-representation-learning-framework-for-multi-source-transfer-parsing/</id>
+        <link rel="alternate" type="text/html" href="/publications/2016-a-representation-learning-framework-for-multi-source-transfer-parsing/"/>
+        <id>/publications/2016-a-representation-learning-framework-for-multi-source-transfer-parsing/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2016-a-representation-learning-framework-for-multi-source-transfer-parsing/"></content>
+        <content type="html" xml:base="/publications/2016-a-representation-learning-framework-for-multi-source-transfer-parsing/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -418,10 +418,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2016-exploring-segment-representations-for-neural-segmentation-models/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2016-exploring-segment-representations-for-neural-segmentation-models/</id>
+        <link rel="alternate" type="text/html" href="/publications/2016-exploring-segment-representations-for-neural-segmentation-models/"/>
+        <id>/publications/2016-exploring-segment-representations-for-neural-segmentation-models/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2016-exploring-segment-representations-for-neural-segmentation-models/"></content>
+        <content type="html" xml:base="/publications/2016-exploring-segment-representations-for-neural-segmentation-models/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -437,10 +437,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2016-hc-search-for-incremental-parsing/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2016-hc-search-for-incremental-parsing/</id>
+        <link rel="alternate" type="text/html" href="/publications/2016-hc-search-for-incremental-parsing/"/>
+        <id>/publications/2016-hc-search-for-incremental-parsing/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2016-hc-search-for-incremental-parsing/"></content>
+        <content type="html" xml:base="/publications/2016-hc-search-for-incremental-parsing/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -456,10 +456,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2013-effective-bilingual-constraints-for-semi-supervised-learning-of-namedentity-recognizers/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2013-effective-bilingual-constraints-for-semi-supervised-learning-of-namedentity-recognizers/</id>
+        <link rel="alternate" type="text/html" href="/publications/2013-effective-bilingual-constraints-for-semi-supervised-learning-of-namedentity-recognizers/"/>
+        <id>/publications/2013-effective-bilingual-constraints-for-semi-supervised-learning-of-namedentity-recognizers/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2013-effective-bilingual-constraints-for-semi-supervised-learning-of-namedentity-recognizers/"></content>
+        <content type="html" xml:base="/publications/2013-effective-bilingual-constraints-for-semi-supervised-learning-of-namedentity-recognizers/"></content>
         
     </entry>
 </feed>

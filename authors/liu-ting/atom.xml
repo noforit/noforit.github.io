@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title> - Liu Ting</title>
-    <link rel="self" type="application/atom+xml" href="http://ir.hit.edu.cn/~la/authors/liu-ting/atom.xml"/>
-    <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la"/>
+    <link rel="self" type="application/atom+xml" href="/authors/liu-ting/atom.xml"/>
+    <link rel="alternate" type="text/html" href="/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-01-01T00:00:00+00:00</updated>
-    <id>http://ir.hit.edu.cn/~la/authors/liu-ting/atom.xml</id>
+    <id>/authors/liu-ting/atom.xml</id>
     <entry xml:lang="en">
         <title>Exploring Hybrid Question Answering via Program-based Prompting</title>
         <published>2024-01-01T00:00:00+00:00</published>
@@ -19,10 +19,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2024-exploring-hybrid-question-answering-via-program-based-prompting/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2024-exploring-hybrid-question-answering-via-program-based-prompting/</id>
+        <link rel="alternate" type="text/html" href="/publications/2024-exploring-hybrid-question-answering-via-program-based-prompting/"/>
+        <id>/publications/2024-exploring-hybrid-question-answering-via-program-based-prompting/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2024-exploring-hybrid-question-answering-via-program-based-prompting/"></content>
+        <content type="html" xml:base="/publications/2024-exploring-hybrid-question-answering-via-program-based-prompting/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -38,10 +38,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2022-expmrc-explainability-evaluation-for-machine-reading-comprehension/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2022-expmrc-explainability-evaluation-for-machine-reading-comprehension/</id>
+        <link rel="alternate" type="text/html" href="/publications/2022-expmrc-explainability-evaluation-for-machine-reading-comprehension/"/>
+        <id>/publications/2022-expmrc-explainability-evaluation-for-machine-reading-comprehension/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2022-expmrc-explainability-evaluation-for-machine-reading-comprehension/"></content>
+        <content type="html" xml:base="/publications/2022-expmrc-explainability-evaluation-for-machine-reading-comprehension/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -57,10 +57,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2022-graph-grounded-goal-planning-for-conversational-recommendation/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2022-graph-grounded-goal-planning-for-conversational-recommendation/</id>
+        <link rel="alternate" type="text/html" href="/publications/2022-graph-grounded-goal-planning-for-conversational-recommendation/"/>
+        <id>/publications/2022-graph-grounded-goal-planning-for-conversational-recommendation/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2022-graph-grounded-goal-planning-for-conversational-recommendation/"></content>
+        <content type="html" xml:base="/publications/2022-graph-grounded-goal-planning-for-conversational-recommendation/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -76,10 +76,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2022-improving-pre-trained-language-models-with-syntactic-dependency-prediction-task-for-chinese-semantic-error-recognition/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2022-improving-pre-trained-language-models-with-syntactic-dependency-prediction-task-for-chinese-semantic-error-recognition/</id>
+        <link rel="alternate" type="text/html" href="/publications/2022-improving-pre-trained-language-models-with-syntactic-dependency-prediction-task-for-chinese-semantic-error-recognition/"/>
+        <id>/publications/2022-improving-pre-trained-language-models-with-syntactic-dependency-prediction-task-for-chinese-semantic-error-recognition/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2022-improving-pre-trained-language-models-with-syntactic-dependency-prediction-task-for-chinese-semantic-error-recognition/"></content>
+        <content type="html" xml:base="/publications/2022-improving-pre-trained-language-models-with-syntactic-dependency-prediction-task-for-chinese-semantic-error-recognition/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -95,10 +95,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2022-multilingual-multi-aspect-explainability-analyses-on-machine-reading-comprehension-models/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2022-multilingual-multi-aspect-explainability-analyses-on-machine-reading-comprehension-models/</id>
+        <link rel="alternate" type="text/html" href="/publications/2022-multilingual-multi-aspect-explainability-analyses-on-machine-reading-comprehension-models/"/>
+        <id>/publications/2022-multilingual-multi-aspect-explainability-analyses-on-machine-reading-comprehension-models/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2022-multilingual-multi-aspect-explainability-analyses-on-machine-reading-comprehension-models/"></content>
+        <content type="html" xml:base="/publications/2022-multilingual-multi-aspect-explainability-analyses-on-machine-reading-comprehension-models/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -114,10 +114,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2022-teaching-machines-to-read-answer-and-explain/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2022-teaching-machines-to-read-answer-and-explain/</id>
+        <link rel="alternate" type="text/html" href="/publications/2022-teaching-machines-to-read-answer-and-explain/"/>
+        <id>/publications/2022-teaching-machines-to-read-answer-and-explain/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2022-teaching-machines-to-read-answer-and-explain/"></content>
+        <content type="html" xml:base="/publications/2022-teaching-machines-to-read-answer-and-explain/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -133,10 +133,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2021-a-closer-look-into-the-robustness-of-neural-dependency-parsers-using-better-adversarial-examples/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2021-a-closer-look-into-the-robustness-of-neural-dependency-parsers-using-better-adversarial-examples/</id>
+        <link rel="alternate" type="text/html" href="/publications/2021-a-closer-look-into-the-robustness-of-neural-dependency-parsers-using-better-adversarial-examples/"/>
+        <id>/publications/2021-a-closer-look-into-the-robustness-of-neural-dependency-parsers-using-better-adversarial-examples/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2021-a-closer-look-into-the-robustness-of-neural-dependency-parsers-using-better-adversarial-examples/"></content>
+        <content type="html" xml:base="/publications/2021-a-closer-look-into-the-robustness-of-neural-dependency-parsers-using-better-adversarial-examples/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -152,10 +152,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2021-a-survey-on-spoken-language-understanding-recent-advances-and-new-frontiers/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2021-a-survey-on-spoken-language-understanding-recent-advances-and-new-frontiers/</id>
+        <link rel="alternate" type="text/html" href="/publications/2021-a-survey-on-spoken-language-understanding-recent-advances-and-new-frontiers/"/>
+        <id>/publications/2021-a-survey-on-spoken-language-understanding-recent-advances-and-new-frontiers/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2021-a-survey-on-spoken-language-understanding-recent-advances-and-new-frontiers/"></content>
+        <content type="html" xml:base="/publications/2021-a-survey-on-spoken-language-understanding-recent-advances-and-new-frontiers/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -171,10 +171,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2021-adversarial-training-for-machine-reading-comprehension-with-virtual-embeddings/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2021-adversarial-training-for-machine-reading-comprehension-with-virtual-embeddings/</id>
+        <link rel="alternate" type="text/html" href="/publications/2021-adversarial-training-for-machine-reading-comprehension-with-virtual-embeddings/"/>
+        <id>/publications/2021-adversarial-training-for-machine-reading-comprehension-with-virtual-embeddings/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2021-adversarial-training-for-machine-reading-comprehension-with-virtual-embeddings/"></content>
+        <content type="html" xml:base="/publications/2021-adversarial-training-for-machine-reading-comprehension-with-virtual-embeddings/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -190,10 +190,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2021-allocating-large-vocabulary-capacity-for-cross-lingual-language-model-pre-training/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2021-allocating-large-vocabulary-capacity-for-cross-lingual-language-model-pre-training/</id>
+        <link rel="alternate" type="text/html" href="/publications/2021-allocating-large-vocabulary-capacity-for-cross-lingual-language-model-pre-training/"/>
+        <id>/publications/2021-allocating-large-vocabulary-capacity-for-cross-lingual-language-model-pre-training/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2021-allocating-large-vocabulary-capacity-for-cross-lingual-language-model-pre-training/"></content>
+        <content type="html" xml:base="/publications/2021-allocating-large-vocabulary-capacity-for-cross-lingual-language-model-pre-training/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -209,10 +209,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2021-c2c-genda-cluster-to-cluster-generation-for-data-augmentation-of-slot-filling/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2021-c2c-genda-cluster-to-cluster-generation-for-data-augmentation-of-slot-filling/</id>
+        <link rel="alternate" type="text/html" href="/publications/2021-c2c-genda-cluster-to-cluster-generation-for-data-augmentation-of-slot-filling/"/>
+        <id>/publications/2021-c2c-genda-cluster-to-cluster-generation-for-data-augmentation-of-slot-filling/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2021-c2c-genda-cluster-to-cluster-generation-for-data-augmentation-of-slot-filling/"></content>
+        <content type="html" xml:base="/publications/2021-c2c-genda-cluster-to-cluster-generation-for-data-augmentation-of-slot-filling/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -228,10 +228,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2021-consistency-regularization-for-cross-lingual-fine-tuning/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2021-consistency-regularization-for-cross-lingual-fine-tuning/</id>
+        <link rel="alternate" type="text/html" href="/publications/2021-consistency-regularization-for-cross-lingual-fine-tuning/"/>
+        <id>/publications/2021-consistency-regularization-for-cross-lingual-fine-tuning/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2021-consistency-regularization-for-cross-lingual-fine-tuning/"></content>
+        <content type="html" xml:base="/publications/2021-consistency-regularization-for-cross-lingual-fine-tuning/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -247,10 +247,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2021-dynamic-connected-networks-for-chinese-spelling-check/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2021-dynamic-connected-networks-for-chinese-spelling-check/</id>
+        <link rel="alternate" type="text/html" href="/publications/2021-dynamic-connected-networks-for-chinese-spelling-check/"/>
+        <id>/publications/2021-dynamic-connected-networks-for-chinese-spelling-check/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2021-dynamic-connected-networks-for-chinese-spelling-check/"></content>
+        <content type="html" xml:base="/publications/2021-dynamic-connected-networks-for-chinese-spelling-check/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -266,10 +266,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2021-few-shot-learning-for-multi-label-intent-detection/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2021-few-shot-learning-for-multi-label-intent-detection/</id>
+        <link rel="alternate" type="text/html" href="/publications/2021-few-shot-learning-for-multi-label-intent-detection/"/>
+        <id>/publications/2021-few-shot-learning-for-multi-label-intent-detection/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2021-few-shot-learning-for-multi-label-intent-detection/"></content>
+        <content type="html" xml:base="/publications/2021-few-shot-learning-for-multi-label-intent-detection/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -285,10 +285,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2021-gl-gin-fast-and-accurate-non-autoregressive-model-for-joint-multiple-intent-detection-and-slot-filling/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2021-gl-gin-fast-and-accurate-non-autoregressive-model-for-joint-multiple-intent-detection-and-slot-filling/</id>
+        <link rel="alternate" type="text/html" href="/publications/2021-gl-gin-fast-and-accurate-non-autoregressive-model-for-joint-multiple-intent-detection-and-slot-filling/"/>
+        <id>/publications/2021-gl-gin-fast-and-accurate-non-autoregressive-model-for-joint-multiple-intent-detection-and-slot-filling/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2021-gl-gin-fast-and-accurate-non-autoregressive-model-for-joint-multiple-intent-detection-and-slot-filling/"></content>
+        <content type="html" xml:base="/publications/2021-gl-gin-fast-and-accurate-non-autoregressive-model-for-joint-multiple-intent-detection-and-slot-filling/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -304,10 +304,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2021-knowing-where-to-leverage-context-aware-graph-convolutional-network-with-an-adaptive-fusion-layer-for-contextual-spoken-lan/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2021-knowing-where-to-leverage-context-aware-graph-convolutional-network-with-an-adaptive-fusion-layer-for-contextual-spoken-lan/</id>
+        <link rel="alternate" type="text/html" href="/publications/2021-knowing-where-to-leverage-context-aware-graph-convolutional-network-with-an-adaptive-fusion-layer-for-contextual-spoken-lan/"/>
+        <id>/publications/2021-knowing-where-to-leverage-context-aware-graph-convolutional-network-with-an-adaptive-fusion-layer-for-contextual-spoken-lan/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2021-knowing-where-to-leverage-context-aware-graph-convolutional-network-with-an-adaptive-fusion-layer-for-contextual-spoken-lan/"></content>
+        <content type="html" xml:base="/publications/2021-knowing-where-to-leverage-context-aware-graph-convolutional-network-with-an-adaptive-fusion-layer-for-contextual-spoken-lan/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -323,10 +323,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2021-learning-to-bridge-metric-spaces-few-shot-joint-learning-of-intent-detection-and-slot-filling/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2021-learning-to-bridge-metric-spaces-few-shot-joint-learning-of-intent-detection-and-slot-filling/</id>
+        <link rel="alternate" type="text/html" href="/publications/2021-learning-to-bridge-metric-spaces-few-shot-joint-learning-of-intent-detection-and-slot-filling/"/>
+        <id>/publications/2021-learning-to-bridge-metric-spaces-few-shot-joint-learning-of-intent-detection-and-slot-filling/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2021-learning-to-bridge-metric-spaces-few-shot-joint-learning-of-intent-detection-and-slot-filling/"></content>
+        <content type="html" xml:base="/publications/2021-learning-to-bridge-metric-spaces-few-shot-joint-learning-of-intent-detection-and-slot-filling/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -342,10 +342,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2021-n-ltp-an-open-source-neural-language-technology-platform-for-chinese/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2021-n-ltp-an-open-source-neural-language-technology-platform-for-chinese/</id>
+        <link rel="alternate" type="text/html" href="/publications/2021-n-ltp-an-open-source-neural-language-technology-platform-for-chinese/"/>
+        <id>/publications/2021-n-ltp-an-open-source-neural-language-technology-platform-for-chinese/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2021-n-ltp-an-open-source-neural-language-technology-platform-for-chinese/"></content>
+        <content type="html" xml:base="/publications/2021-n-ltp-an-open-source-neural-language-technology-platform-for-chinese/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -361,10 +361,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2021-understanding-attention-in-machine-reading-comprehension/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2021-understanding-attention-in-machine-reading-comprehension/</id>
+        <link rel="alternate" type="text/html" href="/publications/2021-understanding-attention-in-machine-reading-comprehension/"/>
+        <id>/publications/2021-understanding-attention-in-machine-reading-comprehension/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2021-understanding-attention-in-machine-reading-comprehension/"></content>
+        <content type="html" xml:base="/publications/2021-understanding-attention-in-machine-reading-comprehension/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -380,10 +380,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2020-a-co-interactive-transformer-for-joint-slot-filling-and-intent-detection/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2020-a-co-interactive-transformer-for-joint-slot-filling-and-intent-detection/</id>
+        <link rel="alternate" type="text/html" href="/publications/2020-a-co-interactive-transformer-for-joint-slot-filling-and-intent-detection/"/>
+        <id>/publications/2020-a-co-interactive-transformer-for-joint-slot-filling-and-intent-detection/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2020-a-co-interactive-transformer-for-joint-slot-filling-and-intent-detection/"></content>
+        <content type="html" xml:base="/publications/2020-a-co-interactive-transformer-for-joint-slot-filling-and-intent-detection/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -399,10 +399,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2020-a-sentence-cloze-dataset-for-chinese-machine-reading-comprehension/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2020-a-sentence-cloze-dataset-for-chinese-machine-reading-comprehension/</id>
+        <link rel="alternate" type="text/html" href="/publications/2020-a-sentence-cloze-dataset-for-chinese-machine-reading-comprehension/"/>
+        <id>/publications/2020-a-sentence-cloze-dataset-for-chinese-machine-reading-comprehension/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2020-a-sentence-cloze-dataset-for-chinese-machine-reading-comprehension/"></content>
+        <content type="html" xml:base="/publications/2020-a-sentence-cloze-dataset-for-chinese-machine-reading-comprehension/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -418,10 +418,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2020-agif-an-adaptive-graph-interactive-framework-for-joint-multiple-intent-detection-and-slot-filling/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2020-agif-an-adaptive-graph-interactive-framework-for-joint-multiple-intent-detection-and-slot-filling/</id>
+        <link rel="alternate" type="text/html" href="/publications/2020-agif-an-adaptive-graph-interactive-framework-for-joint-multiple-intent-detection-and-slot-filling/"/>
+        <id>/publications/2020-agif-an-adaptive-graph-interactive-framework-for-joint-multiple-intent-detection-and-slot-filling/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2020-agif-an-adaptive-graph-interactive-framework-for-joint-multiple-intent-detection-and-slot-filling/"></content>
+        <content type="html" xml:base="/publications/2020-agif-an-adaptive-graph-interactive-framework-for-joint-multiple-intent-detection-and-slot-filling/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -437,10 +437,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2020-combining-self-training-and-self-supervised-learning-for-unsupervised-disfluency-detection/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2020-combining-self-training-and-self-supervised-learning-for-unsupervised-disfluency-detection/</id>
+        <link rel="alternate" type="text/html" href="/publications/2020-combining-self-training-and-self-supervised-learning-for-unsupervised-disfluency-detection/"/>
+        <id>/publications/2020-combining-self-training-and-self-supervised-learning-for-unsupervised-disfluency-detection/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2020-combining-self-training-and-self-supervised-learning-for-unsupervised-disfluency-detection/"></content>
+        <content type="html" xml:base="/publications/2020-combining-self-training-and-self-supervised-learning-for-unsupervised-disfluency-detection/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -456,10 +456,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2020-conversational-graph-grounded-policy-learning-for-open-domain-conversation-generation/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2020-conversational-graph-grounded-policy-learning-for-open-domain-conversation-generation/</id>
+        <link rel="alternate" type="text/html" href="/publications/2020-conversational-graph-grounded-policy-learning-for-open-domain-conversation-generation/"/>
+        <id>/publications/2020-conversational-graph-grounded-policy-learning-for-open-domain-conversation-generation/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2020-conversational-graph-grounded-policy-learning-for-open-domain-conversation-generation/"></content>
+        <content type="html" xml:base="/publications/2020-conversational-graph-grounded-policy-learning-for-open-domain-conversation-generation/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -475,10 +475,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2020-dcr-net-a-deep-co-interactive-relation-network-for-joint-dialog-act-recognition-and-sentiment-classification/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2020-dcr-net-a-deep-co-interactive-relation-network-for-joint-dialog-act-recognition-and-sentiment-classification/</id>
+        <link rel="alternate" type="text/html" href="/publications/2020-dcr-net-a-deep-co-interactive-relation-network-for-joint-dialog-act-recognition-and-sentiment-classification/"/>
+        <id>/publications/2020-dcr-net-a-deep-co-interactive-relation-network-for-joint-dialog-act-recognition-and-sentiment-classification/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2020-dcr-net-a-deep-co-interactive-relation-network-for-joint-dialog-act-recognition-and-sentiment-classification/"></content>
+        <content type="html" xml:base="/publications/2020-dcr-net-a-deep-co-interactive-relation-network-for-joint-dialog-act-recognition-and-sentiment-classification/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -494,10 +494,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2020-discovering-dialog-structure-graph-for-open-domain-dialog-generation/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2020-discovering-dialog-structure-graph-for-open-domain-dialog-generation/</id>
+        <link rel="alternate" type="text/html" href="/publications/2020-discovering-dialog-structure-graph-for-open-domain-dialog-generation/"/>
+        <id>/publications/2020-discovering-dialog-structure-graph-for-open-domain-dialog-generation/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2020-discovering-dialog-structure-graph-for-open-domain-dialog-generation/"></content>
+        <content type="html" xml:base="/publications/2020-discovering-dialog-structure-graph-for-open-domain-dialog-generation/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -513,10 +513,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2020-document-modeling-with-graph-attention-networks-for-multi-grained-machine-reading-comprehension/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2020-document-modeling-with-graph-attention-networks-for-multi-grained-machine-reading-comprehension/</id>
+        <link rel="alternate" type="text/html" href="/publications/2020-document-modeling-with-graph-attention-networks-for-multi-grained-machine-reading-comprehension/"/>
+        <id>/publications/2020-document-modeling-with-graph-attention-networks-for-multi-grained-machine-reading-comprehension/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2020-document-modeling-with-graph-attention-networks-for-multi-grained-machine-reading-comprehension/"></content>
+        <content type="html" xml:base="/publications/2020-document-modeling-with-graph-attention-networks-for-multi-grained-machine-reading-comprehension/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -532,10 +532,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2020-dynamic-fusion-network-for-multi-domain-end-to-end-task-oriented-dialog/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2020-dynamic-fusion-network-for-multi-domain-end-to-end-task-oriented-dialog/</id>
+        <link rel="alternate" type="text/html" href="/publications/2020-dynamic-fusion-network-for-multi-domain-end-to-end-task-oriented-dialog/"/>
+        <id>/publications/2020-dynamic-fusion-network-for-multi-domain-end-to-end-task-oriented-dialog/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2020-dynamic-fusion-network-for-multi-domain-end-to-end-task-oriented-dialog/"></content>
+        <content type="html" xml:base="/publications/2020-dynamic-fusion-network-for-multi-domain-end-to-end-task-oriented-dialog/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -551,10 +551,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2020-exploring-segment-representations-for-neural-semi-markov-conditional-random-fields/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2020-exploring-segment-representations-for-neural-semi-markov-conditional-random-fields/</id>
+        <link rel="alternate" type="text/html" href="/publications/2020-exploring-segment-representations-for-neural-semi-markov-conditional-random-fields/"/>
+        <id>/publications/2020-exploring-segment-representations-for-neural-semi-markov-conditional-random-fields/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2020-exploring-segment-representations-for-neural-semi-markov-conditional-random-fields/"></content>
+        <content type="html" xml:base="/publications/2020-exploring-segment-representations-for-neural-semi-markov-conditional-random-fields/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -570,10 +570,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2020-few-shot-slot-tagging-with-collapsed-dependency-transfer-and-label-enhanced-task-adaptive-projection-network/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2020-few-shot-slot-tagging-with-collapsed-dependency-transfer-and-label-enhanced-task-adaptive-projection-network/</id>
+        <link rel="alternate" type="text/html" href="/publications/2020-few-shot-slot-tagging-with-collapsed-dependency-transfer-and-label-enhanced-task-adaptive-projection-network/"/>
+        <id>/publications/2020-few-shot-slot-tagging-with-collapsed-dependency-transfer-and-label-enhanced-task-adaptive-projection-network/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2020-few-shot-slot-tagging-with-collapsed-dependency-transfer-and-label-enhanced-task-adaptive-projection-network/"></content>
+        <content type="html" xml:base="/publications/2020-few-shot-slot-tagging-with-collapsed-dependency-transfer-and-label-enhanced-task-adaptive-projection-network/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -589,10 +589,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2020-fewjoint-a-few-shot-learning-benchmark-for-joint-language-understanding/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2020-fewjoint-a-few-shot-learning-benchmark-for-joint-language-understanding/</id>
+        <link rel="alternate" type="text/html" href="/publications/2020-fewjoint-a-few-shot-learning-benchmark-for-joint-language-understanding/"/>
+        <id>/publications/2020-fewjoint-a-few-shot-learning-benchmark-for-joint-language-understanding/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2020-fewjoint-a-few-shot-learning-benchmark-for-joint-language-understanding/"></content>
+        <content type="html" xml:base="/publications/2020-fewjoint-a-few-shot-learning-benchmark-for-joint-language-understanding/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -608,10 +608,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2020-from-static-to-dynamic-word-representations-a-survey/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2020-from-static-to-dynamic-word-representations-a-survey/</id>
+        <link rel="alternate" type="text/html" href="/publications/2020-from-static-to-dynamic-word-representations-a-survey/"/>
+        <id>/publications/2020-from-static-to-dynamic-word-representations-a-survey/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2020-from-static-to-dynamic-word-representations-a-survey/"></content>
+        <content type="html" xml:base="/publications/2020-from-static-to-dynamic-word-representations-a-survey/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -627,10 +627,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2020-hit-scir-at-mrp-2020-transition-based-parser-and-iterative-inference-parser/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2020-hit-scir-at-mrp-2020-transition-based-parser-and-iterative-inference-parser/</id>
+        <link rel="alternate" type="text/html" href="/publications/2020-hit-scir-at-mrp-2020-transition-based-parser-and-iterative-inference-parser/"/>
+        <id>/publications/2020-hit-scir-at-mrp-2020-transition-based-parser-and-iterative-inference-parser/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2020-hit-scir-at-mrp-2020-transition-based-parser-and-iterative-inference-parser/"></content>
+        <content type="html" xml:base="/publications/2020-hit-scir-at-mrp-2020-transition-based-parser-and-iterative-inference-parser/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -646,10 +646,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2020-injecting-word-information-with-multi-level-word-adapter-for-chinese-spoken-language-understanding/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2020-injecting-word-information-with-multi-level-word-adapter-for-chinese-spoken-language-understanding/</id>
+        <link rel="alternate" type="text/html" href="/publications/2020-injecting-word-information-with-multi-level-word-adapter-for-chinese-spoken-language-understanding/"/>
+        <id>/publications/2020-injecting-word-information-with-multi-level-word-adapter-for-chinese-spoken-language-understanding/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2020-injecting-word-information-with-multi-level-word-adapter-for-chinese-spoken-language-understanding/"></content>
+        <content type="html" xml:base="/publications/2020-injecting-word-information-with-multi-level-word-adapter-for-chinese-spoken-language-understanding/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -665,10 +665,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2020-multi-domain-spoken-language-understanding-using-domain-and-task-aware-parameterization/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2020-multi-domain-spoken-language-understanding-using-domain-and-task-aware-parameterization/</id>
+        <link rel="alternate" type="text/html" href="/publications/2020-multi-domain-spoken-language-understanding-using-domain-and-task-aware-parameterization/"/>
+        <id>/publications/2020-multi-domain-spoken-language-understanding-using-domain-and-task-aware-parameterization/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2020-multi-domain-spoken-language-understanding-using-domain-and-task-aware-parameterization/"></content>
+        <content type="html" xml:base="/publications/2020-multi-domain-spoken-language-understanding-using-domain-and-task-aware-parameterization/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -684,10 +684,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2020-multi-task-self-supervised-learning-for-disfluency-detection/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2020-multi-task-self-supervised-learning-for-disfluency-detection/</id>
+        <link rel="alternate" type="text/html" href="/publications/2020-multi-task-self-supervised-learning-for-disfluency-detection/"/>
+        <id>/publications/2020-multi-task-self-supervised-learning-for-disfluency-detection/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2020-multi-task-self-supervised-learning-for-disfluency-detection/"></content>
+        <content type="html" xml:base="/publications/2020-multi-task-self-supervised-learning-for-disfluency-detection/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -703,10 +703,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2020-recall-and-learn-fine-tuning-deep-pretrained-language-models-with-less-forgetting/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2020-recall-and-learn-fine-tuning-deep-pretrained-language-models-with-less-forgetting/</id>
+        <link rel="alternate" type="text/html" href="/publications/2020-recall-and-learn-fine-tuning-deep-pretrained-language-models-with-less-forgetting/"/>
+        <id>/publications/2020-recall-and-learn-fine-tuning-deep-pretrained-language-models-with-less-forgetting/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2020-recall-and-learn-fine-tuning-deep-pretrained-language-models-with-less-forgetting/"></content>
+        <content type="html" xml:base="/publications/2020-recall-and-learn-fine-tuning-deep-pretrained-language-models-with-less-forgetting/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -722,10 +722,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2020-revisiting-pre-trained-models-for-chinese-natural-language-processing/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2020-revisiting-pre-trained-models-for-chinese-natural-language-processing/</id>
+        <link rel="alternate" type="text/html" href="/publications/2020-revisiting-pre-trained-models-for-chinese-natural-language-processing/"/>
+        <id>/publications/2020-revisiting-pre-trained-models-for-chinese-natural-language-processing/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2020-revisiting-pre-trained-models-for-chinese-natural-language-processing/"></content>
+        <content type="html" xml:base="/publications/2020-revisiting-pre-trained-models-for-chinese-natural-language-processing/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -741,10 +741,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2020-slot-consistent-nlg-for-task-oriented-dialogue-systems-with-iterative-rectification-network/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2020-slot-consistent-nlg-for-task-oriented-dialogue-systems-with-iterative-rectification-network/</id>
+        <link rel="alternate" type="text/html" href="/publications/2020-slot-consistent-nlg-for-task-oriented-dialogue-systems-with-iterative-rectification-network/"/>
+        <id>/publications/2020-slot-consistent-nlg-for-task-oriented-dialogue-systems-with-iterative-rectification-network/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2020-slot-consistent-nlg-for-task-oriented-dialogue-systems-with-iterative-rectification-network/"></content>
+        <content type="html" xml:base="/publications/2020-slot-consistent-nlg-for-task-oriented-dialogue-systems-with-iterative-rectification-network/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -760,10 +760,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2020-textbrewer-an-open-source-knowledge-distillation-toolkit-for-natural-language-processing/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2020-textbrewer-an-open-source-knowledge-distillation-toolkit-for-natural-language-processing/</id>
+        <link rel="alternate" type="text/html" href="/publications/2020-textbrewer-an-open-source-knowledge-distillation-toolkit-for-natural-language-processing/"/>
+        <id>/publications/2020-textbrewer-an-open-source-knowledge-distillation-toolkit-for-natural-language-processing/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2020-textbrewer-an-open-source-knowledge-distillation-toolkit-for-natural-language-processing/"></content>
+        <content type="html" xml:base="/publications/2020-textbrewer-an-open-source-knowledge-distillation-toolkit-for-natural-language-processing/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -779,10 +779,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2020-towards-conversational-recommendation-over-multi-type-dialogs/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2020-towards-conversational-recommendation-over-multi-type-dialogs/</id>
+        <link rel="alternate" type="text/html" href="/publications/2020-towards-conversational-recommendation-over-multi-type-dialogs/"/>
+        <id>/publications/2020-towards-conversational-recommendation-over-multi-type-dialogs/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2020-towards-conversational-recommendation-over-multi-type-dialogs/"></content>
+        <content type="html" xml:base="/publications/2020-towards-conversational-recommendation-over-multi-type-dialogs/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -798,10 +798,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2020-understanding-medical-conversations-with-scattered-keyword-attention-and-weak-supervision-from-responses/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2020-understanding-medical-conversations-with-scattered-keyword-attention-and-weak-supervision-from-responses/</id>
+        <link rel="alternate" type="text/html" href="/publications/2020-understanding-medical-conversations-with-scattered-keyword-attention-and-weak-supervision-from-responses/"/>
+        <id>/publications/2020-understanding-medical-conversations-with-scattered-keyword-attention-and-weak-supervision-from-responses/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2020-understanding-medical-conversations-with-scattered-keyword-attention-and-weak-supervision-from-responses/"></content>
+        <content type="html" xml:base="/publications/2020-understanding-medical-conversations-with-scattered-keyword-attention-and-weak-supervision-from-responses/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -817,10 +817,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2019-a-corpus-free-state2seq-user-simulator-for-task-oriented-dialogue/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2019-a-corpus-free-state2seq-user-simulator-for-task-oriented-dialogue/</id>
+        <link rel="alternate" type="text/html" href="/publications/2019-a-corpus-free-state2seq-user-simulator-for-task-oriented-dialogue/"/>
+        <id>/publications/2019-a-corpus-free-state2seq-user-simulator-for-task-oriented-dialogue/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2019-a-corpus-free-state2seq-user-simulator-for-task-oriented-dialogue/"></content>
+        <content type="html" xml:base="/publications/2019-a-corpus-free-state2seq-user-simulator-for-task-oriented-dialogue/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -836,10 +836,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2019-a-span-extraction-dataset-for-chinese-machine-reading-comprehension/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2019-a-span-extraction-dataset-for-chinese-machine-reading-comprehension/</id>
+        <link rel="alternate" type="text/html" href="/publications/2019-a-span-extraction-dataset-for-chinese-machine-reading-comprehension/"/>
+        <id>/publications/2019-a-span-extraction-dataset-for-chinese-machine-reading-comprehension/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2019-a-span-extraction-dataset-for-chinese-machine-reading-comprehension/"></content>
+        <content type="html" xml:base="/publications/2019-a-span-extraction-dataset-for-chinese-machine-reading-comprehension/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -855,10 +855,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2019-a-stack-propagation-framework-with-token-level-intent-detection-for-spoken-language-understanding/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2019-a-stack-propagation-framework-with-token-level-intent-detection-for-spoken-language-understanding/</id>
+        <link rel="alternate" type="text/html" href="/publications/2019-a-stack-propagation-framework-with-token-level-intent-detection-for-spoken-language-understanding/"/>
+        <id>/publications/2019-a-stack-propagation-framework-with-token-level-intent-detection-for-spoken-language-understanding/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2019-a-stack-propagation-framework-with-token-level-intent-detection-for-spoken-language-understanding/"></content>
+        <content type="html" xml:base="/publications/2019-a-stack-propagation-framework-with-token-level-intent-detection-for-spoken-language-understanding/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -874,10 +874,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2019-contextual-recurrent-units-for-cloze-style-reading-comprehension/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2019-contextual-recurrent-units-for-cloze-style-reading-comprehension/</id>
+        <link rel="alternate" type="text/html" href="/publications/2019-contextual-recurrent-units-for-cloze-style-reading-comprehension/"/>
+        <id>/publications/2019-contextual-recurrent-units-for-cloze-style-reading-comprehension/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2019-contextual-recurrent-units-for-cloze-style-reading-comprehension/"></content>
+        <content type="html" xml:base="/publications/2019-contextual-recurrent-units-for-cloze-style-reading-comprehension/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -893,10 +893,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2019-cross-lingual-bert-transformation-for-zero-shot-dependency-parsing/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2019-cross-lingual-bert-transformation-for-zero-shot-dependency-parsing/</id>
+        <link rel="alternate" type="text/html" href="/publications/2019-cross-lingual-bert-transformation-for-zero-shot-dependency-parsing/"/>
+        <id>/publications/2019-cross-lingual-bert-transformation-for-zero-shot-dependency-parsing/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2019-cross-lingual-bert-transformation-for-zero-shot-dependency-parsing/"></content>
+        <content type="html" xml:base="/publications/2019-cross-lingual-bert-transformation-for-zero-shot-dependency-parsing/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -912,10 +912,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2019-cross-lingual-machine-reading-comprehension/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2019-cross-lingual-machine-reading-comprehension/</id>
+        <link rel="alternate" type="text/html" href="/publications/2019-cross-lingual-machine-reading-comprehension/"/>
+        <id>/publications/2019-cross-lingual-machine-reading-comprehension/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2019-cross-lingual-machine-reading-comprehension/"></content>
+        <content type="html" xml:base="/publications/2019-cross-lingual-machine-reading-comprehension/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -931,10 +931,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2019-deep-contextualized-word-embeddings-for-universal-dependency-parsing/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2019-deep-contextualized-word-embeddings-for-universal-dependency-parsing/</id>
+        <link rel="alternate" type="text/html" href="/publications/2019-deep-contextualized-word-embeddings-for-universal-dependency-parsing/"/>
+        <id>/publications/2019-deep-contextualized-word-embeddings-for-universal-dependency-parsing/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2019-deep-contextualized-word-embeddings-for-universal-dependency-parsing/"></content>
+        <content type="html" xml:base="/publications/2019-deep-contextualized-word-embeddings-for-universal-dependency-parsing/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -950,10 +950,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2019-entity-consistent-end-to-end-task-oriented-dialogue-system-with-kb-retriever/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2019-entity-consistent-end-to-end-task-oriented-dialogue-system-with-kb-retriever/</id>
+        <link rel="alternate" type="text/html" href="/publications/2019-entity-consistent-end-to-end-task-oriented-dialogue-system-with-kb-retriever/"/>
+        <id>/publications/2019-entity-consistent-end-to-end-task-oriented-dialogue-system-with-kb-retriever/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2019-entity-consistent-end-to-end-task-oriented-dialogue-system-with-kb-retriever/"></content>
+        <content type="html" xml:base="/publications/2019-entity-consistent-end-to-end-task-oriented-dialogue-system-with-kb-retriever/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -969,10 +969,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2019-hit-scir-at-mrp-2019-a-unified-pipeline-for-meaning-representation-parsing-via-efficient-training-and-effective-encoding/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2019-hit-scir-at-mrp-2019-a-unified-pipeline-for-meaning-representation-parsing-via-efficient-training-and-effective-encoding/</id>
+        <link rel="alternate" type="text/html" href="/publications/2019-hit-scir-at-mrp-2019-a-unified-pipeline-for-meaning-representation-parsing-via-efficient-training-and-effective-encoding/"/>
+        <id>/publications/2019-hit-scir-at-mrp-2019-a-unified-pipeline-for-meaning-representation-parsing-via-efficient-training-and-effective-encoding/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2019-hit-scir-at-mrp-2019-a-unified-pipeline-for-meaning-representation-parsing-via-efficient-training-and-effective-encoding/"></content>
+        <content type="html" xml:base="/publications/2019-hit-scir-at-mrp-2019-a-unified-pipeline-for-meaning-representation-parsing-via-efficient-training-and-effective-encoding/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -988,10 +988,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2019-improving-machine-reading-comprehension-via-adversarial-training/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2019-improving-machine-reading-comprehension-via-adversarial-training/</id>
+        <link rel="alternate" type="text/html" href="/publications/2019-improving-machine-reading-comprehension-via-adversarial-training/"/>
+        <id>/publications/2019-improving-machine-reading-comprehension-via-adversarial-training/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2019-improving-machine-reading-comprehension-via-adversarial-training/"></content>
+        <content type="html" xml:base="/publications/2019-improving-machine-reading-comprehension-via-adversarial-training/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1007,10 +1007,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2019-learning-semantic-hierarchies-a-continuous-vector-space-approach/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2019-learning-semantic-hierarchies-a-continuous-vector-space-approach/</id>
+        <link rel="alternate" type="text/html" href="/publications/2019-learning-semantic-hierarchies-a-continuous-vector-space-approach/"/>
+        <id>/publications/2019-learning-semantic-hierarchies-a-continuous-vector-space-approach/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2019-learning-semantic-hierarchies-a-continuous-vector-space-approach/"></content>
+        <content type="html" xml:base="/publications/2019-learning-semantic-hierarchies-a-continuous-vector-space-approach/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1026,10 +1026,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2019-pre-training-with-whole-word-masking-for-chinese-bert/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2019-pre-training-with-whole-word-masking-for-chinese-bert/</id>
+        <link rel="alternate" type="text/html" href="/publications/2019-pre-training-with-whole-word-masking-for-chinese-bert/"/>
+        <id>/publications/2019-pre-training-with-whole-word-masking-for-chinese-bert/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2019-pre-training-with-whole-word-masking-for-chinese-bert/"></content>
+        <content type="html" xml:base="/publications/2019-pre-training-with-whole-word-masking-for-chinese-bert/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1045,10 +1045,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2018-an-amr-aligner-tuned-by-transition-based-parser/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2018-an-amr-aligner-tuned-by-transition-based-parser/</id>
+        <link rel="alternate" type="text/html" href="/publications/2018-an-amr-aligner-tuned-by-transition-based-parser/"/>
+        <id>/publications/2018-an-amr-aligner-tuned-by-transition-based-parser/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2018-an-amr-aligner-tuned-by-transition-based-parser/"></content>
+        <content type="html" xml:base="/publications/2018-an-amr-aligner-tuned-by-transition-based-parser/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1064,10 +1064,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2018-chinese-grammatical-error-diagnosis-using-statistical-and-prior-knowledge-driven-features-with-probabilistic-ensemble-enhan/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2018-chinese-grammatical-error-diagnosis-using-statistical-and-prior-knowledge-driven-features-with-probabilistic-ensemble-enhan/</id>
+        <link rel="alternate" type="text/html" href="/publications/2018-chinese-grammatical-error-diagnosis-using-statistical-and-prior-knowledge-driven-features-with-probabilistic-ensemble-enhan/"/>
+        <id>/publications/2018-chinese-grammatical-error-diagnosis-using-statistical-and-prior-knowledge-driven-features-with-probabilistic-ensemble-enhan/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2018-chinese-grammatical-error-diagnosis-using-statistical-and-prior-knowledge-driven-features-with-probabilistic-ensemble-enhan/"></content>
+        <content type="html" xml:base="/publications/2018-chinese-grammatical-error-diagnosis-using-statistical-and-prior-knowledge-driven-features-with-probabilistic-ensemble-enhan/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1083,10 +1083,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2018-distilling-knowledge-for-search-based-structured-prediction/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2018-distilling-knowledge-for-search-based-structured-prediction/</id>
+        <link rel="alternate" type="text/html" href="/publications/2018-distilling-knowledge-for-search-based-structured-prediction/"/>
+        <id>/publications/2018-distilling-knowledge-for-search-based-structured-prediction/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2018-distilling-knowledge-for-search-based-structured-prediction/"></content>
+        <content type="html" xml:base="/publications/2018-distilling-knowledge-for-search-based-structured-prediction/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1102,10 +1102,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2018-sequence-to-sequence-data-augmentation-for-dialogue-language-understanding/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2018-sequence-to-sequence-data-augmentation-for-dialogue-language-understanding/</id>
+        <link rel="alternate" type="text/html" href="/publications/2018-sequence-to-sequence-data-augmentation-for-dialogue-language-understanding/"/>
+        <id>/publications/2018-sequence-to-sequence-data-augmentation-for-dialogue-language-understanding/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2018-sequence-to-sequence-data-augmentation-for-dialogue-language-understanding/"></content>
+        <content type="html" xml:base="/publications/2018-sequence-to-sequence-data-augmentation-for-dialogue-language-understanding/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1121,10 +1121,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2018-sequence-to-sequence-learning-for-task-oriented-dialogue-with-dialogue-state-representation/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2018-sequence-to-sequence-learning-for-task-oriented-dialogue-with-dialogue-state-representation/</id>
+        <link rel="alternate" type="text/html" href="/publications/2018-sequence-to-sequence-learning-for-task-oriented-dialogue-with-dialogue-state-representation/"/>
+        <id>/publications/2018-sequence-to-sequence-learning-for-task-oriented-dialogue-with-dialogue-state-representation/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2018-sequence-to-sequence-learning-for-task-oriented-dialogue-with-dialogue-state-representation/"></content>
+        <content type="html" xml:base="/publications/2018-sequence-to-sequence-learning-for-task-oriented-dialogue-with-dialogue-state-representation/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1140,10 +1140,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2018-towards-better-ud-parsing-deep-contextualized-word-embeddings-ensemble-and-treebank-concatenation/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2018-towards-better-ud-parsing-deep-contextualized-word-embeddings-ensemble-and-treebank-concatenation/</id>
+        <link rel="alternate" type="text/html" href="/publications/2018-towards-better-ud-parsing-deep-contextualized-word-embeddings-ensemble-and-treebank-concatenation/"/>
+        <id>/publications/2018-towards-better-ud-parsing-deep-contextualized-word-embeddings-ensemble-and-treebank-concatenation/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2018-towards-better-ud-parsing-deep-contextualized-word-embeddings-ensemble-and-treebank-concatenation/"></content>
+        <content type="html" xml:base="/publications/2018-towards-better-ud-parsing-deep-contextualized-word-embeddings-ensemble-and-treebank-concatenation/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1159,10 +1159,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2017-benben-a-chinese-intelligent-conversational-robot/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2017-benben-a-chinese-intelligent-conversational-robot/</id>
+        <link rel="alternate" type="text/html" href="/publications/2017-benben-a-chinese-intelligent-conversational-robot/"/>
+        <id>/publications/2017-benben-a-chinese-intelligent-conversational-robot/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2017-benben-a-chinese-intelligent-conversational-robot/"></content>
+        <content type="html" xml:base="/publications/2017-benben-a-chinese-intelligent-conversational-robot/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1178,10 +1178,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2017-enhancing-lstm-based-word-segmentation-using-unlabeled-data/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2017-enhancing-lstm-based-word-segmentation-using-unlabeled-data/</id>
+        <link rel="alternate" type="text/html" href="/publications/2017-enhancing-lstm-based-word-segmentation-using-unlabeled-data/"/>
+        <id>/publications/2017-enhancing-lstm-based-word-segmentation-using-unlabeled-data/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2017-enhancing-lstm-based-word-segmentation-using-unlabeled-data/"></content>
+        <content type="html" xml:base="/publications/2017-enhancing-lstm-based-word-segmentation-using-unlabeled-data/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1197,10 +1197,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2017-the-first-evaluation-of-chinese-human-computer-dialogue-technology/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2017-the-first-evaluation-of-chinese-human-computer-dialogue-technology/</id>
+        <link rel="alternate" type="text/html" href="/publications/2017-the-first-evaluation-of-chinese-human-computer-dialogue-technology/"/>
+        <id>/publications/2017-the-first-evaluation-of-chinese-human-computer-dialogue-technology/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2017-the-first-evaluation-of-chinese-human-computer-dialogue-technology/"></content>
+        <content type="html" xml:base="/publications/2017-the-first-evaluation-of-chinese-human-computer-dialogue-technology/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1216,10 +1216,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2017-the-hit-scir-system-for-end-to-end-parsing-of-universal-dependencies/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2017-the-hit-scir-system-for-end-to-end-parsing-of-universal-dependencies/</id>
+        <link rel="alternate" type="text/html" href="/publications/2017-the-hit-scir-system-for-end-to-end-parsing-of-universal-dependencies/"/>
+        <id>/publications/2017-the-hit-scir-system-for-end-to-end-parsing-of-universal-dependencies/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2017-the-hit-scir-system-for-end-to-end-parsing-of-universal-dependencies/"></content>
+        <content type="html" xml:base="/publications/2017-the-hit-scir-system-for-end-to-end-parsing-of-universal-dependencies/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1235,10 +1235,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2017-transition-based-disfluency-detection-using-lstms/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2017-transition-based-disfluency-detection-using-lstms/</id>
+        <link rel="alternate" type="text/html" href="/publications/2017-transition-based-disfluency-detection-using-lstms/"/>
+        <id>/publications/2017-transition-based-disfluency-detection-using-lstms/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2017-transition-based-disfluency-detection-using-lstms/"></content>
+        <content type="html" xml:base="/publications/2017-transition-based-disfluency-detection-using-lstms/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1254,10 +1254,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2016-a-distributed-representation-based-framework-for-cross-lingual-transfer-parsing/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2016-a-distributed-representation-based-framework-for-cross-lingual-transfer-parsing/</id>
+        <link rel="alternate" type="text/html" href="/publications/2016-a-distributed-representation-based-framework-for-cross-lingual-transfer-parsing/"/>
+        <id>/publications/2016-a-distributed-representation-based-framework-for-cross-lingual-transfer-parsing/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2016-a-distributed-representation-based-framework-for-cross-lingual-transfer-parsing/"></content>
+        <content type="html" xml:base="/publications/2016-a-distributed-representation-based-framework-for-cross-lingual-transfer-parsing/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1273,10 +1273,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2016-a-neural-attention-model-for-disfluency-detection/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2016-a-neural-attention-model-for-disfluency-detection/</id>
+        <link rel="alternate" type="text/html" href="/publications/2016-a-neural-attention-model-for-disfluency-detection/"/>
+        <id>/publications/2016-a-neural-attention-model-for-disfluency-detection/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2016-a-neural-attention-model-for-disfluency-detection/"></content>
+        <content type="html" xml:base="/publications/2016-a-neural-attention-model-for-disfluency-detection/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1292,10 +1292,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2016-a-unified-architecture-for-semantic-role-labeling-and-relation-classification/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2016-a-unified-architecture-for-semantic-role-labeling-and-relation-classification/</id>
+        <link rel="alternate" type="text/html" href="/publications/2016-a-unified-architecture-for-semantic-role-labeling-and-relation-classification/"/>
+        <id>/publications/2016-a-unified-architecture-for-semantic-role-labeling-and-relation-classification/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2016-a-unified-architecture-for-semantic-role-labeling-and-relation-classification/"></content>
+        <content type="html" xml:base="/publications/2016-a-unified-architecture-for-semantic-role-labeling-and-relation-classification/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1311,10 +1311,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2016-a-universal-framework-for-inductive-transfer-parsing-across-multi-typed-treebanks/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2016-a-universal-framework-for-inductive-transfer-parsing-across-multi-typed-treebanks/</id>
+        <link rel="alternate" type="text/html" href="/publications/2016-a-universal-framework-for-inductive-transfer-parsing-across-multi-typed-treebanks/"/>
+        <id>/publications/2016-a-universal-framework-for-inductive-transfer-parsing-across-multi-typed-treebanks/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2016-a-universal-framework-for-inductive-transfer-parsing-across-multi-typed-treebanks/"></content>
+        <content type="html" xml:base="/publications/2016-a-universal-framework-for-inductive-transfer-parsing-across-multi-typed-treebanks/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1330,10 +1330,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2016-chinese-grammatical-error-diagnosis-with-long-short-term-memory-networks/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2016-chinese-grammatical-error-diagnosis-with-long-short-term-memory-networks/</id>
+        <link rel="alternate" type="text/html" href="/publications/2016-chinese-grammatical-error-diagnosis-with-long-short-term-memory-networks/"/>
+        <id>/publications/2016-chinese-grammatical-error-diagnosis-with-long-short-term-memory-networks/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2016-chinese-grammatical-error-diagnosis-with-long-short-term-memory-networks/"></content>
+        <content type="html" xml:base="/publications/2016-chinese-grammatical-error-diagnosis-with-long-short-term-memory-networks/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1349,10 +1349,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2016-enhancing-neural-disfluency-detection-with-hand-crafted-features/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2016-enhancing-neural-disfluency-detection-with-hand-crafted-features/</id>
+        <link rel="alternate" type="text/html" href="/publications/2016-enhancing-neural-disfluency-detection-with-hand-crafted-features/"/>
+        <id>/publications/2016-enhancing-neural-disfluency-detection-with-hand-crafted-features/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2016-enhancing-neural-disfluency-detection-with-hand-crafted-features/"></content>
+        <content type="html" xml:base="/publications/2016-enhancing-neural-disfluency-detection-with-hand-crafted-features/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1368,10 +1368,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2016-exploiting-multi-typed-treebanks-for-parsing-with-deep-multi-task-learning/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2016-exploiting-multi-typed-treebanks-for-parsing-with-deep-multi-task-learning/</id>
+        <link rel="alternate" type="text/html" href="/publications/2016-exploiting-multi-typed-treebanks-for-parsing-with-deep-multi-task-learning/"/>
+        <id>/publications/2016-exploiting-multi-typed-treebanks-for-parsing-with-deep-multi-task-learning/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2016-exploiting-multi-typed-treebanks-for-parsing-with-deep-multi-task-learning/"></content>
+        <content type="html" xml:base="/publications/2016-exploiting-multi-typed-treebanks-for-parsing-with-deep-multi-task-learning/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1387,10 +1387,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2016-transition-based-chinese-semantic-dependency-graph-parsing/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2016-transition-based-chinese-semantic-dependency-graph-parsing/</id>
+        <link rel="alternate" type="text/html" href="/publications/2016-transition-based-chinese-semantic-dependency-graph-parsing/"/>
+        <id>/publications/2016-transition-based-chinese-semantic-dependency-graph-parsing/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2016-transition-based-chinese-semantic-dependency-graph-parsing/"></content>
+        <content type="html" xml:base="/publications/2016-transition-based-chinese-semantic-dependency-graph-parsing/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1406,10 +1406,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2015-cross-lingual-dependency-parsing-based-on-distributed-representations/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2015-cross-lingual-dependency-parsing-based-on-distributed-representations/</id>
+        <link rel="alternate" type="text/html" href="/publications/2015-cross-lingual-dependency-parsing-based-on-distributed-representations/"/>
+        <id>/publications/2015-cross-lingual-dependency-parsing-based-on-distributed-representations/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2015-cross-lingual-dependency-parsing-based-on-distributed-representations/"></content>
+        <content type="html" xml:base="/publications/2015-cross-lingual-dependency-parsing-based-on-distributed-representations/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1425,10 +1425,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2015-sentence-compression-for-aspect-based-sentiment-analysis/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2015-sentence-compression-for-aspect-based-sentiment-analysis/</id>
+        <link rel="alternate" type="text/html" href="/publications/2015-sentence-compression-for-aspect-based-sentiment-analysis/"/>
+        <id>/publications/2015-sentence-compression-for-aspect-based-sentiment-analysis/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2015-sentence-compression-for-aspect-based-sentiment-analysis/"></content>
+        <content type="html" xml:base="/publications/2015-sentence-compression-for-aspect-based-sentiment-analysis/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1444,10 +1444,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2014-a-semantics-oriented-grammar-for-chinese-treebanking/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2014-a-semantics-oriented-grammar-for-chinese-treebanking/</id>
+        <link rel="alternate" type="text/html" href="/publications/2014-a-semantics-oriented-grammar-for-chinese-treebanking/"/>
+        <id>/publications/2014-a-semantics-oriented-grammar-for-chinese-treebanking/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2014-a-semantics-oriented-grammar-for-chinese-treebanking/"></content>
+        <content type="html" xml:base="/publications/2014-a-semantics-oriented-grammar-for-chinese-treebanking/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1463,10 +1463,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2014-character-level-chinese-dependency-parsing/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2014-character-level-chinese-dependency-parsing/</id>
+        <link rel="alternate" type="text/html" href="/publications/2014-character-level-chinese-dependency-parsing/"/>
+        <id>/publications/2014-character-level-chinese-dependency-parsing/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2014-character-level-chinese-dependency-parsing/"></content>
+        <content type="html" xml:base="/publications/2014-character-level-chinese-dependency-parsing/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1482,10 +1482,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2014-dependency-graph-based-chinese-semantic-parsing/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2014-dependency-graph-based-chinese-semantic-parsing/</id>
+        <link rel="alternate" type="text/html" href="/publications/2014-dependency-graph-based-chinese-semantic-parsing/"/>
+        <id>/publications/2014-dependency-graph-based-chinese-semantic-parsing/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2014-dependency-graph-based-chinese-semantic-parsing/"></content>
+        <content type="html" xml:base="/publications/2014-dependency-graph-based-chinese-semantic-parsing/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1501,10 +1501,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2014-domain-adaptation-for-crf-based-chinese-word-segmentation-using-free-annotations/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2014-domain-adaptation-for-crf-based-chinese-word-segmentation-using-free-annotations/</id>
+        <link rel="alternate" type="text/html" href="/publications/2014-domain-adaptation-for-crf-based-chinese-word-segmentation-using-free-annotations/"/>
+        <id>/publications/2014-domain-adaptation-for-crf-based-chinese-word-segmentation-using-free-annotations/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2014-domain-adaptation-for-crf-based-chinese-word-segmentation-using-free-annotations/"></content>
+        <content type="html" xml:base="/publications/2014-domain-adaptation-for-crf-based-chinese-word-segmentation-using-free-annotations/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1520,10 +1520,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2014-jointly-or-separately-which-is-better-for-parsing-heterogeneous-dependencies/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2014-jointly-or-separately-which-is-better-for-parsing-heterogeneous-dependencies/</id>
+        <link rel="alternate" type="text/html" href="/publications/2014-jointly-or-separately-which-is-better-for-parsing-heterogeneous-dependencies/"/>
+        <id>/publications/2014-jointly-or-separately-which-is-better-for-parsing-heterogeneous-dependencies/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2014-jointly-or-separately-which-is-better-for-parsing-heterogeneous-dependencies/"></content>
+        <content type="html" xml:base="/publications/2014-jointly-or-separately-which-is-better-for-parsing-heterogeneous-dependencies/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1539,10 +1539,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2014-learning-semantic-hierarchies-via-word-embeddings/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2014-learning-semantic-hierarchies-via-word-embeddings/</id>
+        <link rel="alternate" type="text/html" href="/publications/2014-learning-semantic-hierarchies-via-word-embeddings/"/>
+        <id>/publications/2014-learning-semantic-hierarchies-via-word-embeddings/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2014-learning-semantic-hierarchies-via-word-embeddings/"></content>
+        <content type="html" xml:base="/publications/2014-learning-semantic-hierarchies-via-word-embeddings/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1558,10 +1558,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2014-learning-sense-specific-word-embeddings-by-exploiting-bilingual-resources/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2014-learning-sense-specific-word-embeddings-by-exploiting-bilingual-resources/</id>
+        <link rel="alternate" type="text/html" href="/publications/2014-learning-sense-specific-word-embeddings-by-exploiting-bilingual-resources/"/>
+        <id>/publications/2014-learning-sense-specific-word-embeddings-by-exploiting-bilingual-resources/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2014-learning-sense-specific-word-embeddings-by-exploiting-bilingual-resources/"></content>
+        <content type="html" xml:base="/publications/2014-learning-sense-specific-word-embeddings-by-exploiting-bilingual-resources/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1577,10 +1577,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2014-reliable-dependency-arc-recognition/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2014-reliable-dependency-arc-recognition/</id>
+        <link rel="alternate" type="text/html" href="/publications/2014-reliable-dependency-arc-recognition/"/>
+        <id>/publications/2014-reliable-dependency-arc-recognition/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2014-reliable-dependency-arc-recognition/"></content>
+        <content type="html" xml:base="/publications/2014-reliable-dependency-arc-recognition/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1596,10 +1596,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2014-revisiting-embedding-features-for-simple-semi-supervised-learning/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2014-revisiting-embedding-features-for-simple-semi-supervised-learning/</id>
+        <link rel="alternate" type="text/html" href="/publications/2014-revisiting-embedding-features-for-simple-semi-supervised-learning/"/>
+        <id>/publications/2014-revisiting-embedding-features-for-simple-semi-supervised-learning/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2014-revisiting-embedding-features-for-simple-semi-supervised-learning/"></content>
+        <content type="html" xml:base="/publications/2014-revisiting-embedding-features-for-simple-semi-supervised-learning/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1615,10 +1615,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2014-sentence-compression-for-target-polarity-word-collocation-extraction/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2014-sentence-compression-for-target-polarity-word-collocation-extraction/</id>
+        <link rel="alternate" type="text/html" href="/publications/2014-sentence-compression-for-target-polarity-word-collocation-extraction/"/>
+        <id>/publications/2014-sentence-compression-for-target-polarity-word-collocation-extraction/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2014-sentence-compression-for-target-polarity-word-collocation-extraction/"></content>
+        <content type="html" xml:base="/publications/2014-sentence-compression-for-target-polarity-word-collocation-extraction/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1634,10 +1634,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2014-type-supervised-domain-adaptation-for-joint-segmentation-and-pos-tagging/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2014-type-supervised-domain-adaptation-for-joint-segmentation-and-pos-tagging/</id>
+        <link rel="alternate" type="text/html" href="/publications/2014-type-supervised-domain-adaptation-for-joint-segmentation-and-pos-tagging/"/>
+        <id>/publications/2014-type-supervised-domain-adaptation-for-joint-segmentation-and-pos-tagging/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2014-type-supervised-domain-adaptation-for-joint-segmentation-and-pos-tagging/"></content>
+        <content type="html" xml:base="/publications/2014-type-supervised-domain-adaptation-for-joint-segmentation-and-pos-tagging/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1653,10 +1653,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2013-a-comparison-sthdy-of-sequence-labeling-methods-for-chinesewords-segmentation-pos-tagging-models/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2013-a-comparison-sthdy-of-sequence-labeling-methods-for-chinesewords-segmentation-pos-tagging-models/</id>
+        <link rel="alternate" type="text/html" href="/publications/2013-a-comparison-sthdy-of-sequence-labeling-methods-for-chinesewords-segmentation-pos-tagging-models/"/>
+        <id>/publications/2013-a-comparison-sthdy-of-sequence-labeling-methods-for-chinesewords-segmentation-pos-tagging-models/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2013-a-comparison-sthdy-of-sequence-labeling-methods-for-chinesewords-segmentation-pos-tagging-models/"></content>
+        <content type="html" xml:base="/publications/2013-a-comparison-sthdy-of-sequence-labeling-methods-for-chinesewords-segmentation-pos-tagging-models/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1672,10 +1672,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2013-chinese-parsing-exploiting-characters/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2013-chinese-parsing-exploiting-characters/</id>
+        <link rel="alternate" type="text/html" href="/publications/2013-chinese-parsing-exploiting-characters/"/>
+        <id>/publications/2013-chinese-parsing-exploiting-characters/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2013-chinese-parsing-exploiting-characters/"></content>
+        <content type="html" xml:base="/publications/2013-chinese-parsing-exploiting-characters/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1691,10 +1691,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2013-enhancing-chinese-word-segmentation-with-character-clustering/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2013-enhancing-chinese-word-segmentation-with-character-clustering/</id>
+        <link rel="alternate" type="text/html" href="/publications/2013-enhancing-chinese-word-segmentation-with-character-clustering/"/>
+        <id>/publications/2013-enhancing-chinese-word-segmentation-with-character-clustering/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2013-enhancing-chinese-word-segmentation-with-character-clustering/"></content>
+        <content type="html" xml:base="/publications/2013-enhancing-chinese-word-segmentation-with-character-clustering/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1710,10 +1710,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2013-joint-optimization-for-chinese-pos-tagging-and-dependency-parsing/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2013-joint-optimization-for-chinese-pos-tagging-and-dependency-parsing/</id>
+        <link rel="alternate" type="text/html" href="/publications/2013-joint-optimization-for-chinese-pos-tagging-and-dependency-parsing/"/>
+        <id>/publications/2013-joint-optimization-for-chinese-pos-tagging-and-dependency-parsing/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2013-joint-optimization-for-chinese-pos-tagging-and-dependency-parsing/"></content>
+        <content type="html" xml:base="/publications/2013-joint-optimization-for-chinese-pos-tagging-and-dependency-parsing/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1729,10 +1729,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2013-named-entity-recognition-with-bilingual-constraints/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2013-named-entity-recognition-with-bilingual-constraints/</id>
+        <link rel="alternate" type="text/html" href="/publications/2013-named-entity-recognition-with-bilingual-constraints/"/>
+        <id>/publications/2013-named-entity-recognition-with-bilingual-constraints/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2013-named-entity-recognition-with-bilingual-constraints/"></content>
+        <content type="html" xml:base="/publications/2013-named-entity-recognition-with-bilingual-constraints/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1748,10 +1748,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2012-a-comparison-of-chinese-parsers-for-stanford-dependencies/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2012-a-comparison-of-chinese-parsers-for-stanford-dependencies/</id>
+        <link rel="alternate" type="text/html" href="/publications/2012-a-comparison-of-chinese-parsers-for-stanford-dependencies/"/>
+        <id>/publications/2012-a-comparison-of-chinese-parsers-for-stanford-dependencies/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2012-a-comparison-of-chinese-parsers-for-stanford-dependencies/"></content>
+        <content type="html" xml:base="/publications/2012-a-comparison-of-chinese-parsers-for-stanford-dependencies/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1767,10 +1767,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2012-a-separately-passive-aggressive-training-algorithm-for-joint-pos-tagging-and-dependency-parsing/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2012-a-separately-passive-aggressive-training-algorithm-for-joint-pos-tagging-and-dependency-parsing/</id>
+        <link rel="alternate" type="text/html" href="/publications/2012-a-separately-passive-aggressive-training-algorithm-for-joint-pos-tagging-and-dependency-parsing/"/>
+        <id>/publications/2012-a-separately-passive-aggressive-training-algorithm-for-joint-pos-tagging-and-dependency-parsing/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2012-a-separately-passive-aggressive-training-algorithm-for-joint-pos-tagging-and-dependency-parsing/"></content>
+        <content type="html" xml:base="/publications/2012-a-separately-passive-aggressive-training-algorithm-for-joint-pos-tagging-and-dependency-parsing/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1786,10 +1786,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2012-active-learning-for-chinese-dependency-parsing/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2012-active-learning-for-chinese-dependency-parsing/</id>
+        <link rel="alternate" type="text/html" href="/publications/2012-active-learning-for-chinese-dependency-parsing/"/>
+        <id>/publications/2012-active-learning-for-chinese-dependency-parsing/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2012-active-learning-for-chinese-dependency-parsing/"></content>
+        <content type="html" xml:base="/publications/2012-active-learning-for-chinese-dependency-parsing/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1805,10 +1805,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2012-combining-statistical-model-and-dictionary-for-domain-adaption-of-chinese-word-segmentation/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2012-combining-statistical-model-and-dictionary-for-domain-adaption-of-chinese-word-segmentation/</id>
+        <link rel="alternate" type="text/html" href="/publications/2012-combining-statistical-model-and-dictionary-for-domain-adaption-of-chinese-word-segmentation/"/>
+        <id>/publications/2012-combining-statistical-model-and-dictionary-for-domain-adaption-of-chinese-word-segmentation/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2012-combining-statistical-model-and-dictionary-for-domain-adaption-of-chinese-word-segmentation/"></content>
+        <content type="html" xml:base="/publications/2012-combining-statistical-model-and-dictionary-for-domain-adaption-of-chinese-word-segmentation/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1824,10 +1824,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2012-exploiting-multiple-treebanks-for-parsing-with-quasi-synchronous-grammars/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2012-exploiting-multiple-treebanks-for-parsing-with-quasi-synchronous-grammars/</id>
+        <link rel="alternate" type="text/html" href="/publications/2012-exploiting-multiple-treebanks-for-parsing-with-quasi-synchronous-grammars/"/>
+        <id>/publications/2012-exploiting-multiple-treebanks-for-parsing-with-quasi-synchronous-grammars/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2012-exploiting-multiple-treebanks-for-parsing-with-quasi-synchronous-grammars/"></content>
+        <content type="html" xml:base="/publications/2012-exploiting-multiple-treebanks-for-parsing-with-quasi-synchronous-grammars/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1843,10 +1843,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2012-hit-dependency-parsing-bootstrap-aggregating-heterogeneous-parsers/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2012-hit-dependency-parsing-bootstrap-aggregating-heterogeneous-parsers/</id>
+        <link rel="alternate" type="text/html" href="/publications/2012-hit-dependency-parsing-bootstrap-aggregating-heterogeneous-parsers/"/>
+        <id>/publications/2012-hit-dependency-parsing-bootstrap-aggregating-heterogeneous-parsers/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2012-hit-dependency-parsing-bootstrap-aggregating-heterogeneous-parsers/"></content>
+        <content type="html" xml:base="/publications/2012-hit-dependency-parsing-bootstrap-aggregating-heterogeneous-parsers/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1862,10 +1862,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2012-improve-chinese-semantic-dependency-parsing-via-syntactic-dependency-parsing/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2012-improve-chinese-semantic-dependency-parsing-via-syntactic-dependency-parsing/</id>
+        <link rel="alternate" type="text/html" href="/publications/2012-improve-chinese-semantic-dependency-parsing-via-syntactic-dependency-parsing/"/>
+        <id>/publications/2012-improve-chinese-semantic-dependency-parsing-via-syntactic-dependency-parsing/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2012-improve-chinese-semantic-dependency-parsing-via-syntactic-dependency-parsing/"></content>
+        <content type="html" xml:base="/publications/2012-improve-chinese-semantic-dependency-parsing-via-syntactic-dependency-parsing/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1881,10 +1881,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2012-micro-blogs-oriented-word-segmentation-system/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2012-micro-blogs-oriented-word-segmentation-system/</id>
+        <link rel="alternate" type="text/html" href="/publications/2012-micro-blogs-oriented-word-segmentation-system/"/>
+        <id>/publications/2012-micro-blogs-oriented-word-segmentation-system/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2012-micro-blogs-oriented-word-segmentation-system/"></content>
+        <content type="html" xml:base="/publications/2012-micro-blogs-oriented-word-segmentation-system/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1900,10 +1900,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2012-multiple-treebanks-integration-for-chinese-phrase-structure-grammar-parsing-using-bagging/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2012-multiple-treebanks-integration-for-chinese-phrase-structure-grammar-parsing-using-bagging/</id>
+        <link rel="alternate" type="text/html" href="/publications/2012-multiple-treebanks-integration-for-chinese-phrase-structure-grammar-parsing-using-bagging/"/>
+        <id>/publications/2012-multiple-treebanks-integration-for-chinese-phrase-structure-grammar-parsing-using-bagging/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2012-multiple-treebanks-integration-for-chinese-phrase-structure-grammar-parsing-using-bagging/"></content>
+        <content type="html" xml:base="/publications/2012-multiple-treebanks-integration-for-chinese-phrase-structure-grammar-parsing-using-bagging/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1919,10 +1919,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2012-semeval-2012-task-5-chinese-semantic-dependency-parsing/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2012-semeval-2012-task-5-chinese-semantic-dependency-parsing/</id>
+        <link rel="alternate" type="text/html" href="/publications/2012-semeval-2012-task-5-chinese-semantic-dependency-parsing/"/>
+        <id>/publications/2012-semeval-2012-task-5-chinese-semantic-dependency-parsing/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2012-semeval-2012-task-5-chinese-semantic-dependency-parsing/"></content>
+        <content type="html" xml:base="/publications/2012-semeval-2012-task-5-chinese-semantic-dependency-parsing/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1938,10 +1938,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2012-stacking-heterogeneous-joint-models-of-chinese-pos-tagging-and-dependency-parsing/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2012-stacking-heterogeneous-joint-models-of-chinese-pos-tagging-and-dependency-parsing/</id>
+        <link rel="alternate" type="text/html" href="/publications/2012-stacking-heterogeneous-joint-models-of-chinese-pos-tagging-and-dependency-parsing/"/>
+        <id>/publications/2012-stacking-heterogeneous-joint-models-of-chinese-pos-tagging-and-dependency-parsing/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2012-stacking-heterogeneous-joint-models-of-chinese-pos-tagging-and-dependency-parsing/"></content>
+        <content type="html" xml:base="/publications/2012-stacking-heterogeneous-joint-models-of-chinese-pos-tagging-and-dependency-parsing/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1957,10 +1957,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2011-a-graph-based-method-for-entity-linking/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2011-a-graph-based-method-for-entity-linking/</id>
+        <link rel="alternate" type="text/html" href="/publications/2011-a-graph-based-method-for-entity-linking/"/>
+        <id>/publications/2011-a-graph-based-method-for-entity-linking/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2011-a-graph-based-method-for-entity-linking/"></content>
+        <content type="html" xml:base="/publications/2011-a-graph-based-method-for-entity-linking/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1976,10 +1976,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2011-hit-approaches-to-entity-linking-at-tac-2011/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2011-hit-approaches-to-entity-linking-at-tac-2011/</id>
+        <link rel="alternate" type="text/html" href="/publications/2011-hit-approaches-to-entity-linking-at-tac-2011/"/>
+        <id>/publications/2011-hit-approaches-to-entity-linking-at-tac-2011/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2011-hit-approaches-to-entity-linking-at-tac-2011/"></content>
+        <content type="html" xml:base="/publications/2011-hit-approaches-to-entity-linking-at-tac-2011/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -1995,10 +1995,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2011-improving-chinese-pos-tagging-with-dependency-parsing/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2011-improving-chinese-pos-tagging-with-dependency-parsing/</id>
+        <link rel="alternate" type="text/html" href="/publications/2011-improving-chinese-pos-tagging-with-dependency-parsing/"/>
+        <id>/publications/2011-improving-chinese-pos-tagging-with-dependency-parsing/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2011-improving-chinese-pos-tagging-with-dependency-parsing/"></content>
+        <content type="html" xml:base="/publications/2011-improving-chinese-pos-tagging-with-dependency-parsing/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -2014,10 +2014,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2011-joint-models-for-chinese-pos-tagging-and-dependency-parsing/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2011-joint-models-for-chinese-pos-tagging-and-dependency-parsing/</id>
+        <link rel="alternate" type="text/html" href="/publications/2011-joint-models-for-chinese-pos-tagging-and-dependency-parsing/"/>
+        <id>/publications/2011-joint-models-for-chinese-pos-tagging-and-dependency-parsing/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2011-joint-models-for-chinese-pos-tagging-and-dependency-parsing/"></content>
+        <content type="html" xml:base="/publications/2011-joint-models-for-chinese-pos-tagging-and-dependency-parsing/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -2033,10 +2033,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2011-word-sense-disambiguation-corpora-acquisition-via-confirmation-code/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2011-word-sense-disambiguation-corpora-acquisition-via-confirmation-code/</id>
+        <link rel="alternate" type="text/html" href="/publications/2011-word-sense-disambiguation-corpora-acquisition-via-confirmation-code/"/>
+        <id>/publications/2011-word-sense-disambiguation-corpora-acquisition-via-confirmation-code/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2011-word-sense-disambiguation-corpora-acquisition-via-confirmation-code/"></content>
+        <content type="html" xml:base="/publications/2011-word-sense-disambiguation-corpora-acquisition-via-confirmation-code/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -2052,10 +2052,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2010-appraisal-expression-recognition-with-syntactic-path-for-sentence-sentiment-classification/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2010-appraisal-expression-recognition-with-syntactic-path-for-sentence-sentiment-classification/</id>
+        <link rel="alternate" type="text/html" href="/publications/2010-appraisal-expression-recognition-with-syntactic-path-for-sentence-sentiment-classification/"/>
+        <id>/publications/2010-appraisal-expression-recognition-with-syntactic-path-for-sentence-sentiment-classification/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2010-appraisal-expression-recognition-with-syntactic-path-for-sentence-sentiment-classification/"></content>
+        <content type="html" xml:base="/publications/2010-appraisal-expression-recognition-with-syntactic-path-for-sentence-sentiment-classification/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -2071,10 +2071,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2010-beam-search-based-high-order-dependency-parser-j/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2010-beam-search-based-high-order-dependency-parser-j/</id>
+        <link rel="alternate" type="text/html" href="/publications/2010-beam-search-based-high-order-dependency-parser-j/"/>
+        <id>/publications/2010-beam-search-based-high-order-dependency-parser-j/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2010-beam-search-based-high-order-dependency-parser-j/"></content>
+        <content type="html" xml:base="/publications/2010-beam-search-based-high-order-dependency-parser-j/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -2090,10 +2090,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2010-coherent-dialog-generation-with-query-graph/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2010-coherent-dialog-generation-with-query-graph/</id>
+        <link rel="alternate" type="text/html" href="/publications/2010-coherent-dialog-generation-with-query-graph/"/>
+        <id>/publications/2010-coherent-dialog-generation-with-query-graph/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2010-coherent-dialog-generation-with-query-graph/"></content>
+        <content type="html" xml:base="/publications/2010-coherent-dialog-generation-with-query-graph/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -2109,10 +2109,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2010-combining-self-supervised-learning-and-active-learning-for-disfluency-detection/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2010-combining-self-supervised-learning-and-active-learning-for-disfluency-detection/</id>
+        <link rel="alternate" type="text/html" href="/publications/2010-combining-self-supervised-learning-and-active-learning-for-disfluency-detection/"/>
+        <id>/publications/2010-combining-self-supervised-learning-and-active-learning-for-disfluency-detection/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2010-combining-self-supervised-learning-and-active-learning-for-disfluency-detection/"></content>
+        <content type="html" xml:base="/publications/2010-combining-self-supervised-learning-and-active-learning-for-disfluency-detection/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -2128,10 +2128,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2010-hit-cir-an-unsupervised-wsd-system-based-on-domain-most-frequent-sense-estimation/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2010-hit-cir-an-unsupervised-wsd-system-based-on-domain-most-frequent-sense-estimation/</id>
+        <link rel="alternate" type="text/html" href="/publications/2010-hit-cir-an-unsupervised-wsd-system-based-on-domain-most-frequent-sense-estimation/"/>
+        <id>/publications/2010-hit-cir-an-unsupervised-wsd-system-based-on-domain-most-frequent-sense-estimation/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2010-hit-cir-an-unsupervised-wsd-system-based-on-domain-most-frequent-sense-estimation/"></content>
+        <content type="html" xml:base="/publications/2010-hit-cir-an-unsupervised-wsd-system-based-on-domain-most-frequent-sense-estimation/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -2147,10 +2147,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2010-improving-dependency-parsing-using-punctuation/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2010-improving-dependency-parsing-using-punctuation/</id>
+        <link rel="alternate" type="text/html" href="/publications/2010-improving-dependency-parsing-using-punctuation/"/>
+        <id>/publications/2010-improving-dependency-parsing-using-punctuation/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2010-improving-dependency-parsing-using-punctuation/"></content>
+        <content type="html" xml:base="/publications/2010-improving-dependency-parsing-using-punctuation/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -2166,10 +2166,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2010-improving-semantic-role-labeling-with-word-sense/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2010-improving-semantic-role-labeling-with-word-sense/</id>
+        <link rel="alternate" type="text/html" href="/publications/2010-improving-semantic-role-labeling-with-word-sense/"/>
+        <id>/publications/2010-improving-semantic-role-labeling-with-word-sense/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2010-improving-semantic-role-labeling-with-word-sense/"></content>
+        <content type="html" xml:base="/publications/2010-improving-semantic-role-labeling-with-word-sense/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -2185,10 +2185,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2010-interactive-gated-decoder-for-machine-reading-comprehension/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2010-interactive-gated-decoder-for-machine-reading-comprehension/</id>
+        <link rel="alternate" type="text/html" href="/publications/2010-interactive-gated-decoder-for-machine-reading-comprehension/"/>
+        <id>/publications/2010-interactive-gated-decoder-for-machine-reading-comprehension/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2010-interactive-gated-decoder-for-machine-reading-comprehension/"></content>
+        <content type="html" xml:base="/publications/2010-interactive-gated-decoder-for-machine-reading-comprehension/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -2204,10 +2204,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2010-jointly-modeling-wsd-and-srl-with-markov-logic/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2010-jointly-modeling-wsd-and-srl-with-markov-logic/</id>
+        <link rel="alternate" type="text/html" href="/publications/2010-jointly-modeling-wsd-and-srl-with-markov-logic/"/>
+        <id>/publications/2010-jointly-modeling-wsd-and-srl-with-markov-logic/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2010-jointly-modeling-wsd-and-srl-with-markov-logic/"></content>
+        <content type="html" xml:base="/publications/2010-jointly-modeling-wsd-and-srl-with-markov-logic/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -2223,10 +2223,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2010-ltp-a-chinese-language-technology-platform/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2010-ltp-a-chinese-language-technology-platform/</id>
+        <link rel="alternate" type="text/html" href="/publications/2010-ltp-a-chinese-language-technology-platform/"/>
+        <id>/publications/2010-ltp-a-chinese-language-technology-platform/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2010-ltp-a-chinese-language-technology-platform/"></content>
+        <content type="html" xml:base="/publications/2010-ltp-a-chinese-language-technology-platform/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -2242,10 +2242,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2010-semi-supervised-domain-adaptation-for-wsd-using-a-word-by-word-model-selection-approach/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2010-semi-supervised-domain-adaptation-for-wsd-using-a-word-by-word-model-selection-approach/</id>
+        <link rel="alternate" type="text/html" href="/publications/2010-semi-supervised-domain-adaptation-for-wsd-using-a-word-by-word-model-selection-approach/"/>
+        <id>/publications/2010-semi-supervised-domain-adaptation-for-wsd-using-a-word-by-word-model-selection-approach/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2010-semi-supervised-domain-adaptation-for-wsd-using-a-word-by-word-model-selection-approach/"></content>
+        <content type="html" xml:base="/publications/2010-semi-supervised-domain-adaptation-for-wsd-using-a-word-by-word-model-selection-approach/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -2261,10 +2261,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2010-sou-suo-yin-qing-xin-xi-jian-suo-shi-jian/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2010-sou-suo-yin-qing-xin-xi-jian-suo-shi-jian/</id>
+        <link rel="alternate" type="text/html" href="/publications/2010-sou-suo-yin-qing-xin-xi-jian-suo-shi-jian/"/>
+        <id>/publications/2010-sou-suo-yin-qing-xin-xi-jian-suo-shi-jian/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2010-sou-suo-yin-qing-xin-xi-jian-suo-shi-jian/"></content>
+        <content type="html" xml:base="/publications/2010-sou-suo-yin-qing-xin-xi-jian-suo-shi-jian/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -2280,10 +2280,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2010-using-word-sense-disambiguation-for-semantic-role-labeling/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2010-using-word-sense-disambiguation-for-semantic-role-labeling/</id>
+        <link rel="alternate" type="text/html" href="/publications/2010-using-word-sense-disambiguation-for-semantic-role-labeling/"/>
+        <id>/publications/2010-using-word-sense-disambiguation-for-semantic-role-labeling/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2010-using-word-sense-disambiguation-for-semantic-role-labeling/"></content>
+        <content type="html" xml:base="/publications/2010-using-word-sense-disambiguation-for-semantic-role-labeling/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -2299,10 +2299,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2009-multilingual-dependency-based-syntactic-and-semantic-parsing/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2009-multilingual-dependency-based-syntactic-and-semantic-parsing/</id>
+        <link rel="alternate" type="text/html" href="/publications/2009-multilingual-dependency-based-syntactic-and-semantic-parsing/"/>
+        <id>/publications/2009-multilingual-dependency-based-syntactic-and-semantic-parsing/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2009-multilingual-dependency-based-syntactic-and-semantic-parsing/"></content>
+        <content type="html" xml:base="/publications/2009-multilingual-dependency-based-syntactic-and-semantic-parsing/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -2318,10 +2318,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2008-a-cascaded-syntactic-and-semantic-dependency-parsing-system/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2008-a-cascaded-syntactic-and-semantic-dependency-parsing-system/</id>
+        <link rel="alternate" type="text/html" href="/publications/2008-a-cascaded-syntactic-and-semantic-dependency-parsing-system/"/>
+        <id>/publications/2008-a-cascaded-syntactic-and-semantic-dependency-parsing-system/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2008-a-cascaded-syntactic-and-semantic-dependency-parsing-system/"></content>
+        <content type="html" xml:base="/publications/2008-a-cascaded-syntactic-and-semantic-dependency-parsing-system/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -2337,10 +2337,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2008-a-study-on-constituentto-dependency-conversion/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2008-a-study-on-constituentto-dependency-conversion/</id>
+        <link rel="alternate" type="text/html" href="/publications/2008-a-study-on-constituentto-dependency-conversion/"/>
+        <id>/publications/2008-a-study-on-constituentto-dependency-conversion/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2008-a-study-on-constituentto-dependency-conversion/"></content>
+        <content type="html" xml:base="/publications/2008-a-study-on-constituentto-dependency-conversion/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -2356,10 +2356,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2008-fast-computing-grammar-driven-convolution-tree-kernel-for-semantic-role-labeling/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2008-fast-computing-grammar-driven-convolution-tree-kernel-for-semantic-role-labeling/</id>
+        <link rel="alternate" type="text/html" href="/publications/2008-fast-computing-grammar-driven-convolution-tree-kernel-for-semantic-role-labeling/"/>
+        <id>/publications/2008-fast-computing-grammar-driven-convolution-tree-kernel-for-semantic-role-labeling/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2008-fast-computing-grammar-driven-convolution-tree-kernel-for-semantic-role-labeling/"></content>
+        <content type="html" xml:base="/publications/2008-fast-computing-grammar-driven-convolution-tree-kernel-for-semantic-role-labeling/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -2375,10 +2375,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2008-introduction-to-information-retrieval-system/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2008-introduction-to-information-retrieval-system/</id>
+        <link rel="alternate" type="text/html" href="/publications/2008-introduction-to-information-retrieval-system/"/>
+        <id>/publications/2008-introduction-to-information-retrieval-system/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2008-introduction-to-information-retrieval-system/"></content>
+        <content type="html" xml:base="/publications/2008-introduction-to-information-retrieval-system/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -2394,10 +2394,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2008-semantic-role-labeling-using-a-grammar-driven-convolution-tree-kernel/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2008-semantic-role-labeling-using-a-grammar-driven-convolution-tree-kernel/</id>
+        <link rel="alternate" type="text/html" href="/publications/2008-semantic-role-labeling-using-a-grammar-driven-convolution-tree-kernel/"/>
+        <id>/publications/2008-semantic-role-labeling-using-a-grammar-driven-convolution-tree-kernel/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2008-semantic-role-labeling-using-a-grammar-driven-convolution-tree-kernel/"></content>
+        <content type="html" xml:base="/publications/2008-semantic-role-labeling-using-a-grammar-driven-convolution-tree-kernel/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -2413,10 +2413,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2008-using-a-hybrid-convolution-tree-kernel-for-semantic-role-labeling/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2008-using-a-hybrid-convolution-tree-kernel-for-semantic-role-labeling/</id>
+        <link rel="alternate" type="text/html" href="/publications/2008-using-a-hybrid-convolution-tree-kernel-for-semantic-role-labeling/"/>
+        <id>/publications/2008-using-a-hybrid-convolution-tree-kernel-for-semantic-role-labeling/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2008-using-a-hybrid-convolution-tree-kernel-for-semantic-role-labeling/"></content>
+        <content type="html" xml:base="/publications/2008-using-a-hybrid-convolution-tree-kernel-for-semantic-role-labeling/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -2432,10 +2432,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2008-xin-xi-jian-suo-xi-tong-dao-lun/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2008-xin-xi-jian-suo-xi-tong-dao-lun/</id>
+        <link rel="alternate" type="text/html" href="/publications/2008-xin-xi-jian-suo-xi-tong-dao-lun/"/>
+        <id>/publications/2008-xin-xi-jian-suo-xi-tong-dao-lun/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2008-xin-xi-jian-suo-xi-tong-dao-lun/"></content>
+        <content type="html" xml:base="/publications/2008-xin-xi-jian-suo-xi-tong-dao-lun/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -2451,10 +2451,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2007-a-fast-clustering-algorithm-for-abnormal-and-short-texts/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2007-a-fast-clustering-algorithm-for-abnormal-and-short-texts/</id>
+        <link rel="alternate" type="text/html" href="/publications/2007-a-fast-clustering-algorithm-for-abnormal-and-short-texts/"/>
+        <id>/publications/2007-a-fast-clustering-algorithm-for-abnormal-and-short-texts/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2007-a-fast-clustering-algorithm-for-abnormal-and-short-texts/"></content>
+        <content type="html" xml:base="/publications/2007-a-fast-clustering-algorithm-for-abnormal-and-short-texts/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -2470,10 +2470,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2007-a-grammar-driven-convolution-tree-kernel-for-semantic-role-classification/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2007-a-grammar-driven-convolution-tree-kernel-for-semantic-role-classification/</id>
+        <link rel="alternate" type="text/html" href="/publications/2007-a-grammar-driven-convolution-tree-kernel-for-semantic-role-classification/"/>
+        <id>/publications/2007-a-grammar-driven-convolution-tree-kernel-for-semantic-role-classification/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2007-a-grammar-driven-convolution-tree-kernel-for-semantic-role-classification/"></content>
+        <content type="html" xml:base="/publications/2007-a-grammar-driven-convolution-tree-kernel-for-semantic-role-classification/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -2489,10 +2489,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2007-feature-engineering-for-chinese-semantic-role-labeling/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2007-feature-engineering-for-chinese-semantic-role-labeling/</id>
+        <link rel="alternate" type="text/html" href="/publications/2007-feature-engineering-for-chinese-semantic-role-labeling/"/>
+        <id>/publications/2007-feature-engineering-for-chinese-semantic-role-labeling/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2007-feature-engineering-for-chinese-semantic-role-labeling/"></content>
+        <content type="html" xml:base="/publications/2007-feature-engineering-for-chinese-semantic-role-labeling/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -2508,10 +2508,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2007-hit-ir-wsd-a-wsd-system-for-english-lexical-sample-task/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2007-hit-ir-wsd-a-wsd-system-for-english-lexical-sample-task/</id>
+        <link rel="alternate" type="text/html" href="/publications/2007-hit-ir-wsd-a-wsd-system-for-english-lexical-sample-task/"/>
+        <id>/publications/2007-hit-ir-wsd-a-wsd-system-for-english-lexical-sample-task/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2007-hit-ir-wsd-a-wsd-system-for-english-lexical-sample-task/"></content>
+        <content type="html" xml:base="/publications/2007-hit-ir-wsd-a-wsd-system-for-english-lexical-sample-task/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -2527,10 +2527,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2006-a-hybrid-convolution-tree-kernel-for-semantic-role-labeling/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2006-a-hybrid-convolution-tree-kernel-for-semantic-role-labeling/</id>
+        <link rel="alternate" type="text/html" href="/publications/2006-a-hybrid-convolution-tree-kernel-for-semantic-role-labeling/"/>
+        <id>/publications/2006-a-hybrid-convolution-tree-kernel-for-semantic-role-labeling/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2006-a-hybrid-convolution-tree-kernel-for-semantic-role-labeling/"></content>
+        <content type="html" xml:base="/publications/2006-a-hybrid-convolution-tree-kernel-for-semantic-role-labeling/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -2546,10 +2546,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2005-improved-edit-distance-kernel-for-chinese-relation-extraction/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2005-improved-edit-distance-kernel-for-chinese-relation-extraction/</id>
+        <link rel="alternate" type="text/html" href="/publications/2005-improved-edit-distance-kernel-for-chinese-relation-extraction/"/>
+        <id>/publications/2005-improved-edit-distance-kernel-for-chinese-relation-extraction/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2005-improved-edit-distance-kernel-for-chinese-relation-extraction/"></content>
+        <content type="html" xml:base="/publications/2005-improved-edit-distance-kernel-for-chinese-relation-extraction/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -2565,10 +2565,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2005-semantic-role-labeling-system-using-maximum-entropy-classifier/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2005-semantic-role-labeling-system-using-maximum-entropy-classifier/</id>
+        <link rel="alternate" type="text/html" href="/publications/2005-semantic-role-labeling-system-using-maximum-entropy-classifier/"/>
+        <id>/publications/2005-semantic-role-labeling-system-using-maximum-entropy-classifier/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2005-semantic-role-labeling-system-using-maximum-entropy-classifier/"></content>
+        <content type="html" xml:base="/publications/2005-semantic-role-labeling-system-using-maximum-entropy-classifier/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -2584,10 +2584,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2004-a-new-chinese-natural-language-understanding-architecture-based-on-multilayer-search-mechanism/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2004-a-new-chinese-natural-language-understanding-architecture-based-on-multilayer-search-mechanism/</id>
+        <link rel="alternate" type="text/html" href="/publications/2004-a-new-chinese-natural-language-understanding-architecture-based-on-multilayer-search-mechanism/"/>
+        <id>/publications/2004-a-new-chinese-natural-language-understanding-architecture-based-on-multilayer-search-mechanism/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2004-a-new-chinese-natural-language-understanding-architecture-based-on-multilayer-search-mechanism/"></content>
+        <content type="html" xml:base="/publications/2004-a-new-chinese-natural-language-understanding-architecture-based-on-multilayer-search-mechanism/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -2603,10 +2603,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2004-similar-chinese-sentence-retrieval-based-on-improved-edit-distance/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2004-similar-chinese-sentence-retrieval-based-on-improved-edit-distance/</id>
+        <link rel="alternate" type="text/html" href="/publications/2004-similar-chinese-sentence-retrieval-based-on-improved-edit-distance/"/>
+        <id>/publications/2004-similar-chinese-sentence-retrieval-based-on-improved-edit-distance/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2004-similar-chinese-sentence-retrieval-based-on-improved-edit-distance/"></content>
+        <content type="html" xml:base="/publications/2004-similar-chinese-sentence-retrieval-based-on-improved-edit-distance/"></content>
         
     </entry>
 </feed>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title> - 论文推荐</title>
-    <link rel="self" type="application/atom+xml" href="http://ir.hit.edu.cn/~la/news-type/lun-wen-tui-jian/atom.xml"/>
-    <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la"/>
+    <link rel="self" type="application/atom+xml" href="/news-type/lun-wen-tui-jian/atom.xml"/>
+    <link rel="alternate" type="text/html" href="/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-06-29T00:00:00+00:00</updated>
-    <id>http://ir.hit.edu.cn/~la/news-type/lun-wen-tui-jian/atom.xml</id>
+    <id>/news-type/lun-wen-tui-jian/atom.xml</id>
     <entry xml:lang="en">
         <title>赛尔笔记 | 大模型上下文长度扩展中的检索增强技术简述</title>
         <published>2024-06-29T00:00:00+00:00</published>
@@ -19,10 +19,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-bi-ji-da-mo-xing-shang-xia-wen-chang-du-kuo-zhan-zhong-de-jian-suo-zeng-qiang-ji-shu-jian-shu/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-bi-ji-da-mo-xing-shang-xia-wen-chang-du-kuo-zhan-zhong-de-jian-suo-zeng-qiang-ji-shu-jian-shu/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-bi-ji-da-mo-xing-shang-xia-wen-chang-du-kuo-zhan-zhong-de-jian-suo-zeng-qiang-ji-shu-jian-shu/"/>
+        <id>/news/sai-er-bi-ji-da-mo-xing-shang-xia-wen-chang-du-kuo-zhan-zhong-de-jian-suo-zeng-qiang-ji-shu-jian-shu/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-bi-ji-da-mo-xing-shang-xia-wen-chang-du-kuo-zhan-zhong-de-jian-suo-zeng-qiang-ji-shu-jian-shu/"></content>
+        <content type="html" xml:base="/news/sai-er-bi-ji-da-mo-xing-shang-xia-wen-chang-du-kuo-zhan-zhong-de-jian-suo-zeng-qiang-ji-shu-jian-shu/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -38,10 +38,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-coling24-ji-cha-ji-yong-zi-dong-ti-qu-ling-yu-xiang-guan-te-zheng-ti-sheng-fan-hua-neng-li/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-coling24-ji-cha-ji-yong-zi-dong-ti-qu-ling-yu-xiang-guan-te-zheng-ti-sheng-fan-hua-neng-li/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-coling24-ji-cha-ji-yong-zi-dong-ti-qu-ling-yu-xiang-guan-te-zheng-ti-sheng-fan-hua-neng-li/"/>
+        <id>/news/sai-er-yuan-chuang-coling24-ji-cha-ji-yong-zi-dong-ti-qu-ling-yu-xiang-guan-te-zheng-ti-sheng-fan-hua-neng-li/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-coling24-ji-cha-ji-yong-zi-dong-ti-qu-ling-yu-xiang-guan-te-zheng-ti-sheng-fan-hua-neng-li/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-coling24-ji-cha-ji-yong-zi-dong-ti-qu-ling-yu-xiang-guan-te-zheng-ti-sheng-fan-hua-neng-li/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -57,10 +57,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-coling24-wu-xu-biao-zhu-ji-ke-zeng-qiang-mo-xing-cot-neng-li/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-coling24-wu-xu-biao-zhu-ji-ke-zeng-qiang-mo-xing-cot-neng-li/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-coling24-wu-xu-biao-zhu-ji-ke-zeng-qiang-mo-xing-cot-neng-li/"/>
+        <id>/news/sai-er-yuan-chuang-coling24-wu-xu-biao-zhu-ji-ke-zeng-qiang-mo-xing-cot-neng-li/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-coling24-wu-xu-biao-zhu-ji-ke-zeng-qiang-mo-xing-cot-neng-li/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-coling24-wu-xu-biao-zhu-ji-ke-zeng-qiang-mo-xing-cot-neng-li/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -76,10 +76,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-coling2024-ren-gong-zhi-neng-zhu-shou-apidiao-yong-neng-li-de-dong-tai-ping-gu-fang-fa/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-coling2024-ren-gong-zhi-neng-zhu-shou-apidiao-yong-neng-li-de-dong-tai-ping-gu-fang-fa/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-coling2024-ren-gong-zhi-neng-zhu-shou-apidiao-yong-neng-li-de-dong-tai-ping-gu-fang-fa/"/>
+        <id>/news/sai-er-yuan-chuang-coling2024-ren-gong-zhi-neng-zhu-shou-apidiao-yong-neng-li-de-dong-tai-ping-gu-fang-fa/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-coling2024-ren-gong-zhi-neng-zhu-shou-apidiao-yong-neng-li-de-dong-tai-ping-gu-fang-fa/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-coling2024-ren-gong-zhi-neng-zhu-shou-apidiao-yong-neng-li-de-dong-tai-ping-gu-fang-fa/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -95,10 +95,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-coling2024-mian-xiang-bian-cheng-de-zi-ran-yu-yan-chu-li-zong-shu/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-coling2024-mian-xiang-bian-cheng-de-zi-ran-yu-yan-chu-li-zong-shu/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-coling2024-mian-xiang-bian-cheng-de-zi-ran-yu-yan-chu-li-zong-shu/"/>
+        <id>/news/sai-er-yuan-chuang-coling2024-mian-xiang-bian-cheng-de-zi-ran-yu-yan-chu-li-zong-shu/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-coling2024-mian-xiang-bian-cheng-de-zi-ran-yu-yan-chu-li-zong-shu/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-coling2024-mian-xiang-bian-cheng-de-zi-ran-yu-yan-chu-li-zong-shu/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -114,10 +114,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-coling2024-lm-combiner-tong-guo-mo-xing-gai-xie-shi-xian-geng-jing-zhun-de-yu-fa-jiu-cuo/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-coling2024-lm-combiner-tong-guo-mo-xing-gai-xie-shi-xian-geng-jing-zhun-de-yu-fa-jiu-cuo/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-coling2024-lm-combiner-tong-guo-mo-xing-gai-xie-shi-xian-geng-jing-zhun-de-yu-fa-jiu-cuo/"/>
+        <id>/news/sai-er-yuan-chuang-coling2024-lm-combiner-tong-guo-mo-xing-gai-xie-shi-xian-geng-jing-zhun-de-yu-fa-jiu-cuo/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-coling2024-lm-combiner-tong-guo-mo-xing-gai-xie-shi-xian-geng-jing-zhun-de-yu-fa-jiu-cuo/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-coling2024-lm-combiner-tong-guo-mo-xing-gai-xie-shi-xian-geng-jing-zhun-de-yu-fa-jiu-cuo/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -133,10 +133,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/jin-ri-arxivzui-re-nlpda-mo-xing-lun-wen-zuo-dao-tou-liao-qing-hua-he-ha-gong-da-ba-da-mo-xing-liang-hua-zuo-dao-liao-1bi-te/"/>
-        <id>http://ir.hit.edu.cn/~la/news/jin-ri-arxivzui-re-nlpda-mo-xing-lun-wen-zuo-dao-tou-liao-qing-hua-he-ha-gong-da-ba-da-mo-xing-liang-hua-zuo-dao-liao-1bi-te/</id>
+        <link rel="alternate" type="text/html" href="/news/jin-ri-arxivzui-re-nlpda-mo-xing-lun-wen-zuo-dao-tou-liao-qing-hua-he-ha-gong-da-ba-da-mo-xing-liang-hua-zuo-dao-liao-1bi-te/"/>
+        <id>/news/jin-ri-arxivzui-re-nlpda-mo-xing-lun-wen-zuo-dao-tou-liao-qing-hua-he-ha-gong-da-ba-da-mo-xing-liang-hua-zuo-dao-liao-1bi-te/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/jin-ri-arxivzui-re-nlpda-mo-xing-lun-wen-zuo-dao-tou-liao-qing-hua-he-ha-gong-da-ba-da-mo-xing-liang-hua-zuo-dao-liao-1bi-te/"></content>
+        <content type="html" xml:base="/news/jin-ri-arxivzui-re-nlpda-mo-xing-lun-wen-zuo-dao-tou-liao-qing-hua-he-ha-gong-da-ba-da-mo-xing-liang-hua-zuo-dao-liao-1bi-te/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -152,10 +152,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-aaai-2024-yu-yi-yin-dao-de-sheng-cheng-shi-tu-xiang-zeng-yan-fang-fa/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-aaai-2024-yu-yi-yin-dao-de-sheng-cheng-shi-tu-xiang-zeng-yan-fang-fa/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-aaai-2024-yu-yi-yin-dao-de-sheng-cheng-shi-tu-xiang-zeng-yan-fang-fa/"/>
+        <id>/news/sai-er-yuan-chuang-aaai-2024-yu-yi-yin-dao-de-sheng-cheng-shi-tu-xiang-zeng-yan-fang-fa/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-aaai-2024-yu-yi-yin-dao-de-sheng-cheng-shi-tu-xiang-zeng-yan-fang-fa/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-aaai-2024-yu-yi-yin-dao-de-sheng-cheng-shi-tu-xiang-zeng-yan-fang-fa/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -171,10 +171,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-bi-ji-mian-xiang-biao-ge-shu-ju-de-da-mo-xing-tui-li-zong-shu/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-bi-ji-mian-xiang-biao-ge-shu-ju-de-da-mo-xing-tui-li-zong-shu/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-bi-ji-mian-xiang-biao-ge-shu-ju-de-da-mo-xing-tui-li-zong-shu/"/>
+        <id>/news/sai-er-bi-ji-mian-xiang-biao-ge-shu-ju-de-da-mo-xing-tui-li-zong-shu/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-bi-ji-mian-xiang-biao-ge-shu-ju-de-da-mo-xing-tui-li-zong-shu/"></content>
+        <content type="html" xml:base="/news/sai-er-bi-ji-mian-xiang-biao-ge-shu-ju-de-da-mo-xing-tui-li-zong-shu/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -190,10 +190,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-emnlp-2023-tong-guo-kua-yu-yan-ti-shi-gai-jin-ling-yang-ben-cot-tui-li-neng-li/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-emnlp-2023-tong-guo-kua-yu-yan-ti-shi-gai-jin-ling-yang-ben-cot-tui-li-neng-li/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-emnlp-2023-tong-guo-kua-yu-yan-ti-shi-gai-jin-ling-yang-ben-cot-tui-li-neng-li/"/>
+        <id>/news/sai-er-yuan-chuang-emnlp-2023-tong-guo-kua-yu-yan-ti-shi-gai-jin-ling-yang-ben-cot-tui-li-neng-li/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-emnlp-2023-tong-guo-kua-yu-yan-ti-shi-gai-jin-ling-yang-ben-cot-tui-li-neng-li/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-emnlp-2023-tong-guo-kua-yu-yan-ti-shi-gai-jin-ling-yang-ben-cot-tui-li-neng-li/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -209,10 +209,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-aaai-2023-bridgetower-zai-shi-jue-yu-yan-biao-shi-xue-xi-zhong-jian-li-bian-ma-qi-jian-de-qiao-liang/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-aaai-2023-bridgetower-zai-shi-jue-yu-yan-biao-shi-xue-xi-zhong-jian-li-bian-ma-qi-jian-de-qiao-liang/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-aaai-2023-bridgetower-zai-shi-jue-yu-yan-biao-shi-xue-xi-zhong-jian-li-bian-ma-qi-jian-de-qiao-liang/"/>
+        <id>/news/sai-er-yuan-chuang-aaai-2023-bridgetower-zai-shi-jue-yu-yan-biao-shi-xue-xi-zhong-jian-li-bian-ma-qi-jian-de-qiao-liang/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-aaai-2023-bridgetower-zai-shi-jue-yu-yan-biao-shi-xue-xi-zhong-jian-li-bian-ma-qi-jian-de-qiao-liang/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-aaai-2023-bridgetower-zai-shi-jue-yu-yan-biao-shi-xue-xi-zhong-jian-li-bian-ma-qi-jian-de-qiao-liang/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -228,10 +228,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-coling-2022-rong-he-zi-gua-ying-ji-zhi-yu-zi-xun-lian-kuang-jia-de-wu-jian-du-wen-ben-shun-hua-fang-fa/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-coling-2022-rong-he-zi-gua-ying-ji-zhi-yu-zi-xun-lian-kuang-jia-de-wu-jian-du-wen-ben-shun-hua-fang-fa/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-coling-2022-rong-he-zi-gua-ying-ji-zhi-yu-zi-xun-lian-kuang-jia-de-wu-jian-du-wen-ben-shun-hua-fang-fa/"/>
+        <id>/news/sai-er-yuan-chuang-coling-2022-rong-he-zi-gua-ying-ji-zhi-yu-zi-xun-lian-kuang-jia-de-wu-jian-du-wen-ben-shun-hua-fang-fa/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-coling-2022-rong-he-zi-gua-ying-ji-zhi-yu-zi-xun-lian-kuang-jia-de-wu-jian-du-wen-ben-shun-hua-fang-fa/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-coling-2022-rong-he-zi-gua-ying-ji-zhi-yu-zi-xun-lian-kuang-jia-de-wu-jian-du-wen-ben-shun-hua-fang-fa/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -247,10 +247,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-coling-2022-metaprompting-ji-yu-yuan-xue-xi-de-soft-promptchu-shi-hua-fang-fa/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-coling-2022-metaprompting-ji-yu-yuan-xue-xi-de-soft-promptchu-shi-hua-fang-fa/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-coling-2022-metaprompting-ji-yu-yuan-xue-xi-de-soft-promptchu-shi-hua-fang-fa/"/>
+        <id>/news/sai-er-yuan-chuang-coling-2022-metaprompting-ji-yu-yuan-xue-xi-de-soft-promptchu-shi-hua-fang-fa/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-coling-2022-metaprompting-ji-yu-yuan-xue-xi-de-soft-promptchu-shi-hua-fang-fa/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-coling-2022-metaprompting-ji-yu-yuan-xue-xi-de-soft-promptchu-shi-hua-fang-fa/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -266,10 +266,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-coling-2022-cctc-mian-xiang-zhong-wen-mu-yu-shi-yong-zhe-de-kua-ju-zi-wen-ben-jiu-cuo-shu-ju-ji/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-coling-2022-cctc-mian-xiang-zhong-wen-mu-yu-shi-yong-zhe-de-kua-ju-zi-wen-ben-jiu-cuo-shu-ju-ji/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-coling-2022-cctc-mian-xiang-zhong-wen-mu-yu-shi-yong-zhe-de-kua-ju-zi-wen-ben-jiu-cuo-shu-ju-ji/"/>
+        <id>/news/sai-er-yuan-chuang-coling-2022-cctc-mian-xiang-zhong-wen-mu-yu-shi-yong-zhe-de-kua-ju-zi-wen-ben-jiu-cuo-shu-ju-ji/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-coling-2022-cctc-mian-xiang-zhong-wen-mu-yu-shi-yong-zhe-de-kua-ju-zi-wen-ben-jiu-cuo-shu-ju-ji/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-coling-2022-cctc-mian-xiang-zhong-wen-mu-yu-shi-yong-zhe-de-kua-ju-zi-wen-ben-jiu-cuo-shu-ju-ji/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -285,10 +285,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/acl-2022-fan-xiang-yu-ce-geng-hao-ji-yu-fan-xiang-ti-shi-de-xiao-yang-ben-cao-wei-biao-zhu-fang-fa/"/>
-        <id>http://ir.hit.edu.cn/~la/news/acl-2022-fan-xiang-yu-ce-geng-hao-ji-yu-fan-xiang-ti-shi-de-xiao-yang-ben-cao-wei-biao-zhu-fang-fa/</id>
+        <link rel="alternate" type="text/html" href="/news/acl-2022-fan-xiang-yu-ce-geng-hao-ji-yu-fan-xiang-ti-shi-de-xiao-yang-ben-cao-wei-biao-zhu-fang-fa/"/>
+        <id>/news/acl-2022-fan-xiang-yu-ce-geng-hao-ji-yu-fan-xiang-ti-shi-de-xiao-yang-ben-cao-wei-biao-zhu-fang-fa/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/acl-2022-fan-xiang-yu-ce-geng-hao-ji-yu-fan-xiang-ti-shi-de-xiao-yang-ben-cao-wei-biao-zhu-fang-fa/"></content>
+        <content type="html" xml:base="/news/acl-2022-fan-xiang-yu-ce-geng-hao-ji-yu-fan-xiang-ti-shi-de-xiao-yang-ben-cao-wei-biao-zhu-fang-fa/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -304,10 +304,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-aaai-2022-ji-yu-profilexin-xi-de-kou-yu-yu-yan-li-jie-ji-zhun/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-aaai-2022-ji-yu-profilexin-xi-de-kou-yu-yu-yan-li-jie-ji-zhun/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-aaai-2022-ji-yu-profilexin-xi-de-kou-yu-yu-yan-li-jie-ji-zhun/"/>
+        <id>/news/sai-er-yuan-chuang-aaai-2022-ji-yu-profilexin-xi-de-kou-yu-yu-yan-li-jie-ji-zhun/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-aaai-2022-ji-yu-profilexin-xi-de-kou-yu-yu-yan-li-jie-ji-zhun/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-aaai-2022-ji-yu-profilexin-xi-de-kou-yu-yu-yan-li-jie-ji-zhun/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -323,10 +323,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-emnlp-2021-duo-yu-yan-he-kua-yu-yan-dui-hua-tui-jian/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-emnlp-2021-duo-yu-yan-he-kua-yu-yan-dui-hua-tui-jian/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-emnlp-2021-duo-yu-yan-he-kua-yu-yan-dui-hua-tui-jian/"/>
+        <id>/news/sai-er-yuan-chuang-emnlp-2021-duo-yu-yan-he-kua-yu-yan-dui-hua-tui-jian/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-emnlp-2021-duo-yu-yan-he-kua-yu-yan-dui-hua-tui-jian/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-emnlp-2021-duo-yu-yan-he-kua-yu-yan-dui-hua-tui-jian/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -342,10 +342,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-emnlp-2021-yu-xun-lian-kua-yu-yan-mo-xing-zhong-de-da-ci-biao-gou-jian-ji-shi-yong/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-emnlp-2021-yu-xun-lian-kua-yu-yan-mo-xing-zhong-de-da-ci-biao-gou-jian-ji-shi-yong/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-emnlp-2021-yu-xun-lian-kua-yu-yan-mo-xing-zhong-de-da-ci-biao-gou-jian-ji-shi-yong/"/>
+        <id>/news/sai-er-yuan-chuang-emnlp-2021-yu-xun-lian-kua-yu-yan-mo-xing-zhong-de-da-ci-biao-gou-jian-ji-shi-yong/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-emnlp-2021-yu-xun-lian-kua-yu-yan-mo-xing-zhong-de-da-ci-biao-gou-jian-ji-shi-yong/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-emnlp-2021-yu-xun-lian-kua-yu-yan-mo-xing-zhong-de-da-ci-biao-gou-jian-ji-shi-yong/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -361,10 +361,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-acl-findings-ren-wu-gong-wu-xiao-yang-ben-chang-jing-xia-de-duo-ren-wu-lian-he-xue-xi-fang-fa-chu-tan/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-acl-findings-ren-wu-gong-wu-xiao-yang-ben-chang-jing-xia-de-duo-ren-wu-lian-he-xue-xi-fang-fa-chu-tan/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-acl-findings-ren-wu-gong-wu-xiao-yang-ben-chang-jing-xia-de-duo-ren-wu-lian-he-xue-xi-fang-fa-chu-tan/"/>
+        <id>/news/sai-er-yuan-chuang-acl-findings-ren-wu-gong-wu-xiao-yang-ben-chang-jing-xia-de-duo-ren-wu-lian-he-xue-xi-fang-fa-chu-tan/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-acl-findings-ren-wu-gong-wu-xiao-yang-ben-chang-jing-xia-de-duo-ren-wu-lian-he-xue-xi-fang-fa-chu-tan/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-acl-findings-ren-wu-gong-wu-xiao-yang-ben-chang-jing-xia-de-duo-ren-wu-lian-he-xue-xi-fang-fa-chu-tan/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -380,10 +380,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-shou-ge-ren-wu-xing-dui-hua-xi-tong-zhong-sheng-cheng-mo-kuai-zi-yuan-ku-awesome-tod-nlg-surveykai-yuan/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-shou-ge-ren-wu-xing-dui-hua-xi-tong-zhong-sheng-cheng-mo-kuai-zi-yuan-ku-awesome-tod-nlg-surveykai-yuan/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-shou-ge-ren-wu-xing-dui-hua-xi-tong-zhong-sheng-cheng-mo-kuai-zi-yuan-ku-awesome-tod-nlg-surveykai-yuan/"/>
+        <id>/news/sai-er-yuan-chuang-shou-ge-ren-wu-xing-dui-hua-xi-tong-zhong-sheng-cheng-mo-kuai-zi-yuan-ku-awesome-tod-nlg-surveykai-yuan/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-shou-ge-ren-wu-xing-dui-hua-xi-tong-zhong-sheng-cheng-mo-kuai-zi-yuan-ku-awesome-tod-nlg-surveykai-yuan/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-shou-ge-ren-wu-xing-dui-hua-xi-tong-zhong-sheng-cheng-mo-kuai-zi-yuan-ku-awesome-tod-nlg-surveykai-yuan/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -399,10 +399,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-acl-2021-kai-fang-yu-dui-hua-jie-gou-fa-xian/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-acl-2021-kai-fang-yu-dui-hua-jie-gou-fa-xian/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-acl-2021-kai-fang-yu-dui-hua-jie-gou-fa-xian/"/>
+        <id>/news/sai-er-yuan-chuang-acl-2021-kai-fang-yu-dui-hua-jie-gou-fa-xian/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-acl-2021-kai-fang-yu-dui-hua-jie-gou-fa-xian/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-acl-2021-kai-fang-yu-dui-hua-jie-gou-fa-xian/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -418,10 +418,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-acl-findings-ji-yu-gao-zhi-liang-dui-kang-yang-ben-de-yi-cun-fen-xi-qi-lu-bang-xing-tan-jiu/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-acl-findings-ji-yu-gao-zhi-liang-dui-kang-yang-ben-de-yi-cun-fen-xi-qi-lu-bang-xing-tan-jiu/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-acl-findings-ji-yu-gao-zhi-liang-dui-kang-yang-ben-de-yi-cun-fen-xi-qi-lu-bang-xing-tan-jiu/"/>
+        <id>/news/sai-er-yuan-chuang-acl-findings-ji-yu-gao-zhi-liang-dui-kang-yang-ben-de-yi-cun-fen-xi-qi-lu-bang-xing-tan-jiu/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-acl-findings-ji-yu-gao-zhi-liang-dui-kang-yang-ben-de-yi-cun-fen-xi-qi-lu-bang-xing-tan-jiu/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-acl-findings-ji-yu-gao-zhi-liang-dui-kang-yang-ben-de-yi-cun-fen-xi-qi-lu-bang-xing-tan-jiu/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -437,10 +437,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-acl-2021-ji-yu-yi-zhi-xing-zheng-ze-de-kua-yu-yan-wei-diao-fang-fa/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-acl-2021-ji-yu-yi-zhi-xing-zheng-ze-de-kua-yu-yan-wei-diao-fang-fa/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-acl-2021-ji-yu-yi-zhi-xing-zheng-ze-de-kua-yu-yan-wei-diao-fang-fa/"/>
+        <id>/news/sai-er-yuan-chuang-acl-2021-ji-yu-yi-zhi-xing-zheng-ze-de-kua-yu-yan-wei-diao-fang-fa/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-acl-2021-ji-yu-yi-zhi-xing-zheng-ze-de-kua-yu-yan-wei-diao-fang-fa/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-acl-2021-ji-yu-yi-zhi-xing-zheng-ze-de-kua-yu-yan-wei-diao-fang-fa/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -456,10 +456,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-n-ltp-ji-yu-yu-xun-lian-mo-xing-de-zhong-wen-zi-ran-yu-yan-chu-li-ping-tai/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-n-ltp-ji-yu-yu-xun-lian-mo-xing-de-zhong-wen-zi-ran-yu-yan-chu-li-ping-tai/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-n-ltp-ji-yu-yu-xun-lian-mo-xing-de-zhong-wen-zi-ran-yu-yan-chu-li-ping-tai/"/>
+        <id>/news/sai-er-yuan-chuang-n-ltp-ji-yu-yu-xun-lian-mo-xing-de-zhong-wen-zi-ran-yu-yan-chu-li-ping-tai/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-n-ltp-ji-yu-yu-xun-lian-mo-xing-de-zhong-wen-zi-ran-yu-yan-chu-li-ping-tai/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-n-ltp-ji-yu-yu-xun-lian-mo-xing-de-zhong-wen-zi-ran-yu-yan-chu-li-ping-tai/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -475,10 +475,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-che-mo-xiang-jiao-shou-tuan-dui-zui-xin-zong-shu-dui-hua-xi-tong-zhong-kou-yu-yu-yan-li-jie-yan-jiu-de-xin-jin-zhan-yu-xin-ling-yu/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-che-mo-xiang-jiao-shou-tuan-dui-zui-xin-zong-shu-dui-hua-xi-tong-zhong-kou-yu-yu-yan-li-jie-yan-jiu-de-xin-jin-zhan-yu-xin-ling-yu/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-che-mo-xiang-jiao-shou-tuan-dui-zui-xin-zong-shu-dui-hua-xi-tong-zhong-kou-yu-yu-yan-li-jie-yan-jiu-de-xin-jin-zhan-yu-xin-ling-yu/"/>
+        <id>/news/sai-er-yuan-chuang-che-mo-xiang-jiao-shou-tuan-dui-zui-xin-zong-shu-dui-hua-xi-tong-zhong-kou-yu-yu-yan-li-jie-yan-jiu-de-xin-jin-zhan-yu-xin-ling-yu/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-che-mo-xiang-jiao-shou-tuan-dui-zui-xin-zong-shu-dui-hua-xi-tong-zhong-kou-yu-yu-yan-li-jie-yan-jiu-de-xin-jin-zhan-yu-xin-ling-yu/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-che-mo-xiang-jiao-shou-tuan-dui-zui-xin-zong-shu-dui-hua-xi-tong-zhong-kou-yu-yu-yan-li-jie-yan-jiu-de-xin-jin-zhan-yu-xin-ling-yu/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -494,10 +494,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-icassp-2021-shou-ci-tan-suo-zhong-wen-ci-xin-xi-zeng-qiang-zhong-wen-kou-yu-yu-yan-li-jie/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-icassp-2021-shou-ci-tan-suo-zhong-wen-ci-xin-xi-zeng-qiang-zhong-wen-kou-yu-yu-yan-li-jie/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-icassp-2021-shou-ci-tan-suo-zhong-wen-ci-xin-xi-zeng-qiang-zhong-wen-kou-yu-yu-yan-li-jie/"/>
+        <id>/news/sai-er-yuan-chuang-icassp-2021-shou-ci-tan-suo-zhong-wen-ci-xin-xi-zeng-qiang-zhong-wen-kou-yu-yu-yan-li-jie/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-icassp-2021-shou-ci-tan-suo-zhong-wen-ci-xin-xi-zeng-qiang-zhong-wen-kou-yu-yu-yan-li-jie/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-icassp-2021-shou-ci-tan-suo-zhong-wen-ci-xin-xi-zeng-qiang-zhong-wen-kou-yu-yu-yan-li-jie/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -513,10 +513,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-bi-ji-xin-fen-lei-quan-zong-jie-zui-xin-awesome-slu-surveyzi-yuan-ku-kai-yuan/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-bi-ji-xin-fen-lei-quan-zong-jie-zui-xin-awesome-slu-surveyzi-yuan-ku-kai-yuan/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-bi-ji-xin-fen-lei-quan-zong-jie-zui-xin-awesome-slu-surveyzi-yuan-ku-kai-yuan/"/>
+        <id>/news/sai-er-bi-ji-xin-fen-lei-quan-zong-jie-zui-xin-awesome-slu-surveyzi-yuan-ku-kai-yuan/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-bi-ji-xin-fen-lei-quan-zong-jie-zui-xin-awesome-slu-surveyzi-yuan-ku-kai-yuan/"></content>
+        <content type="html" xml:base="/news/sai-er-bi-ji-xin-fen-lei-quan-zong-jie-zui-xin-awesome-slu-surveyzi-yuan-ku-kai-yuan/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -532,10 +532,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-aaai-2021-jiu-jie-yu-lian-he-xue-xi-zhong-de-jian-mo-fang-fa-kuai-lai-kan-kan-tu-wang-luo-xian-shi-jian-mo/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-aaai-2021-jiu-jie-yu-lian-he-xue-xi-zhong-de-jian-mo-fang-fa-kuai-lai-kan-kan-tu-wang-luo-xian-shi-jian-mo/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-aaai-2021-jiu-jie-yu-lian-he-xue-xi-zhong-de-jian-mo-fang-fa-kuai-lai-kan-kan-tu-wang-luo-xian-shi-jian-mo/"/>
+        <id>/news/sai-er-yuan-chuang-aaai-2021-jiu-jie-yu-lian-he-xue-xi-zhong-de-jian-mo-fang-fa-kuai-lai-kan-kan-tu-wang-luo-xian-shi-jian-mo/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-aaai-2021-jiu-jie-yu-lian-he-xue-xi-zhong-de-jian-mo-fang-fa-kuai-lai-kan-kan-tu-wang-luo-xian-shi-jian-mo/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-aaai-2021-jiu-jie-yu-lian-he-xue-xi-zhong-de-jian-mo-fang-fa-kuai-lai-kan-kan-tu-wang-luo-xian-shi-jian-mo/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -551,10 +551,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-aaai-2021-shu-ju-zeng-qiang-mei-xiao-guo-shi-shi-yong-cluster-to-clustersheng-cheng-geng-duo-yang-hua-de-xin-shu-ju-ba/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-aaai-2021-shu-ju-zeng-qiang-mei-xiao-guo-shi-shi-yong-cluster-to-clustersheng-cheng-geng-duo-yang-hua-de-xin-shu-ju-ba/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-aaai-2021-shu-ju-zeng-qiang-mei-xiao-guo-shi-shi-yong-cluster-to-clustersheng-cheng-geng-duo-yang-hua-de-xin-shu-ju-ba/"/>
+        <id>/news/sai-er-yuan-chuang-aaai-2021-shu-ju-zeng-qiang-mei-xiao-guo-shi-shi-yong-cluster-to-clustersheng-cheng-geng-duo-yang-hua-de-xin-shu-ju-ba/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-aaai-2021-shu-ju-zeng-qiang-mei-xiao-guo-shi-shi-yong-cluster-to-clustersheng-cheng-geng-duo-yang-hua-de-xin-shu-ju-ba/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-aaai-2021-shu-ju-zeng-qiang-mei-xiao-guo-shi-shi-yong-cluster-to-clustersheng-cheng-geng-duo-yang-hua-de-xin-shu-ju-ba/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -570,10 +570,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-aaai2021-xiao-yang-ben-xue-xi-xia-de-duo-biao-qian-fen-lei-wen-ti-chu-tan/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-aaai2021-xiao-yang-ben-xue-xi-xia-de-duo-biao-qian-fen-lei-wen-ti-chu-tan/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-aaai2021-xiao-yang-ben-xue-xi-xia-de-duo-biao-qian-fen-lei-wen-ti-chu-tan/"/>
+        <id>/news/sai-er-yuan-chuang-aaai2021-xiao-yang-ben-xue-xi-xia-de-duo-biao-qian-fen-lei-wen-ti-chu-tan/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-aaai2021-xiao-yang-ben-xue-xi-xia-de-duo-biao-qian-fen-lei-wen-ti-chu-tan/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-aaai2021-xiao-yang-ben-xue-xi-xia-de-duo-biao-qian-fen-lei-wen-ti-chu-tan/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -589,10 +589,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-findings-ji-yu-dong-tai-tu-jiao-hu-wang-luo-de-duo-yi-tu-kou-yu-yu-yan-li-jie-kuang-jia/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-findings-ji-yu-dong-tai-tu-jiao-hu-wang-luo-de-duo-yi-tu-kou-yu-yu-yan-li-jie-kuang-jia/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-findings-ji-yu-dong-tai-tu-jiao-hu-wang-luo-de-duo-yi-tu-kou-yu-yu-yan-li-jie-kuang-jia/"/>
+        <id>/news/sai-er-yuan-chuang-findings-ji-yu-dong-tai-tu-jiao-hu-wang-luo-de-duo-yi-tu-kou-yu-yu-yan-li-jie-kuang-jia/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-findings-ji-yu-dong-tai-tu-jiao-hu-wang-luo-de-duo-yi-tu-kou-yu-yu-yan-li-jie-kuang-jia/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-findings-ji-yu-dong-tai-tu-jiao-hu-wang-luo-de-duo-yi-tu-kou-yu-yu-yan-li-jie-kuang-jia/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -608,10 +608,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-findings-zhong-wen-yu-xun-lian-yu-yan-mo-xing-hui-gu/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-findings-zhong-wen-yu-xun-lian-yu-yan-mo-xing-hui-gu/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-findings-zhong-wen-yu-xun-lian-yu-yan-mo-xing-hui-gu/"/>
+        <id>/news/sai-er-yuan-chuang-findings-zhong-wen-yu-xun-lian-yu-yan-mo-xing-hui-gu/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-findings-zhong-wen-yu-xun-lian-yu-yan-mo-xing-hui-gu/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-findings-zhong-wen-yu-xun-lian-yu-yan-mo-xing-hui-gu/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -627,10 +627,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-emnlp-2020-qie-hui-yi-qie-xue-xi-zai-geng-shao-de-yi-wang-xia-jing-diao-shen-ceng-yu-xun-lian-yu-yan-mo-xing/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-emnlp-2020-qie-hui-yi-qie-xue-xi-zai-geng-shao-de-yi-wang-xia-jing-diao-shen-ceng-yu-xun-lian-yu-yan-mo-xing/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-emnlp-2020-qie-hui-yi-qie-xue-xi-zai-geng-shao-de-yi-wang-xia-jing-diao-shen-ceng-yu-xun-lian-yu-yan-mo-xing/"/>
+        <id>/news/sai-er-yuan-chuang-emnlp-2020-qie-hui-yi-qie-xue-xi-zai-geng-shao-de-yi-wang-xia-jing-diao-shen-ceng-yu-xun-lian-yu-yan-mo-xing/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-emnlp-2020-qie-hui-yi-qie-xue-xi-zai-geng-shao-de-yi-wang-xia-jing-diao-shen-ceng-yu-xun-lian-yu-yan-mo-xing/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-emnlp-2020-qie-hui-yi-qie-xue-xi-zai-geng-shao-de-yi-wang-xia-jing-diao-shen-ceng-yu-xun-lian-yu-yan-mo-xing/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -646,10 +646,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-emnlp-2020-rong-he-zi-xun-lian-he-zi-jian-du-fang-fa-de-wu-jian-du-wen-ben-shun-hua-yan-jiu/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-emnlp-2020-rong-he-zi-xun-lian-he-zi-jian-du-fang-fa-de-wu-jian-du-wen-ben-shun-hua-yan-jiu/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-emnlp-2020-rong-he-zi-xun-lian-he-zi-jian-du-fang-fa-de-wu-jian-du-wen-ben-shun-hua-yan-jiu/"/>
+        <id>/news/sai-er-yuan-chuang-emnlp-2020-rong-he-zi-xun-lian-he-zi-jian-du-fang-fa-de-wu-jian-du-wen-ben-shun-hua-yan-jiu/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-emnlp-2020-rong-he-zi-xun-lian-he-zi-jian-du-fang-fa-de-wu-jian-du-wen-ben-shun-hua-yan-jiu/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-emnlp-2020-rong-he-zi-xun-lian-he-zi-jian-du-fang-fa-de-wu-jian-du-wen-ben-shun-hua-yan-jiu/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -665,10 +665,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-acl20-rang-mo-xing-shi-ban-gong-bei-tan-jiu-shao-yang-ben-xu-lie-biao-zhu-fang-fa/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-acl20-rang-mo-xing-shi-ban-gong-bei-tan-jiu-shao-yang-ben-xu-lie-biao-zhu-fang-fa/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-acl20-rang-mo-xing-shi-ban-gong-bei-tan-jiu-shao-yang-ben-xu-lie-biao-zhu-fang-fa/"/>
+        <id>/news/sai-er-yuan-chuang-acl20-rang-mo-xing-shi-ban-gong-bei-tan-jiu-shao-yang-ben-xu-lie-biao-zhu-fang-fa/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-acl20-rang-mo-xing-shi-ban-gong-bei-tan-jiu-shao-yang-ben-xu-lie-biao-zhu-fang-fa/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-acl20-rang-mo-xing-shi-ban-gong-bei-tan-jiu-shao-yang-ben-xu-lie-biao-zhu-fang-fa/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -684,10 +684,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-acl20-yong-yu-duo-ling-yu-duan-dao-duan-ren-wu-xing-dui-hua-xi-tong-de-dong-tai-rong-he-wang-luo/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-acl20-yong-yu-duo-ling-yu-duan-dao-duan-ren-wu-xing-dui-hua-xi-tong-de-dong-tai-rong-he-wang-luo/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-acl20-yong-yu-duo-ling-yu-duan-dao-duan-ren-wu-xing-dui-hua-xi-tong-de-dong-tai-rong-he-wang-luo/"/>
+        <id>/news/sai-er-yuan-chuang-acl20-yong-yu-duo-ling-yu-duan-dao-duan-ren-wu-xing-dui-hua-xi-tong-de-dong-tai-rong-he-wang-luo/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-acl20-yong-yu-duo-ling-yu-duan-dao-duan-ren-wu-xing-dui-hua-xi-tong-de-dong-tai-rong-he-wang-luo/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-acl20-yong-yu-duo-ling-yu-duan-dao-duan-ren-wu-xing-dui-hua-xi-tong-de-dong-tai-rong-he-wang-luo/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -703,10 +703,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-acl20-ji-yu-tu-zhu-yi-li-wang-luo-de-duo-li-du-ji-qi-yue-du-li-jie-wen-dang-jian-mo/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-acl20-ji-yu-tu-zhu-yi-li-wang-luo-de-duo-li-du-ji-qi-yue-du-li-jie-wen-dang-jian-mo/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-acl20-ji-yu-tu-zhu-yi-li-wang-luo-de-duo-li-du-ji-qi-yue-du-li-jie-wen-dang-jian-mo/"/>
+        <id>/news/sai-er-yuan-chuang-acl20-ji-yu-tu-zhu-yi-li-wang-luo-de-duo-li-du-ji-qi-yue-du-li-jie-wen-dang-jian-mo/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-acl20-ji-yu-tu-zhu-yi-li-wang-luo-de-duo-li-du-ji-qi-yue-du-li-jie-wen-dang-jian-mo/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-acl20-ji-yu-tu-zhu-yi-li-wang-luo-de-duo-li-du-ji-qi-yue-du-li-jie-wen-dang-jian-mo/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -722,10 +722,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-acl20-ji-yu-dui-hua-tu-pu-de-kai-fang-yu-duo-lun-dui-hua-ce-lue-xue-xi/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-acl20-ji-yu-dui-hua-tu-pu-de-kai-fang-yu-duo-lun-dui-hua-ce-lue-xue-xi/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-acl20-ji-yu-dui-hua-tu-pu-de-kai-fang-yu-duo-lun-dui-hua-ce-lue-xue-xi/"/>
+        <id>/news/sai-er-yuan-chuang-acl20-ji-yu-dui-hua-tu-pu-de-kai-fang-yu-duo-lun-dui-hua-ce-lue-xue-xi/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-acl20-ji-yu-dui-hua-tu-pu-de-kai-fang-yu-duo-lun-dui-hua-ce-lue-xue-xi/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-acl20-ji-yu-dui-hua-tu-pu-de-kai-fang-yu-duo-lun-dui-hua-ce-lue-xue-xi/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -741,10 +741,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-aaai20-ji-yu-goal-hua-ti-de-kai-fang-yu-duo-lun-dui-hua-gui-hua/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-aaai20-ji-yu-goal-hua-ti-de-kai-fang-yu-duo-lun-dui-hua-gui-hua/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-aaai20-ji-yu-goal-hua-ti-de-kai-fang-yu-duo-lun-dui-hua-gui-hua/"/>
+        <id>/news/sai-er-yuan-chuang-aaai20-ji-yu-goal-hua-ti-de-kai-fang-yu-duo-lun-dui-hua-gui-hua/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-aaai20-ji-yu-goal-hua-ti-de-kai-fang-yu-duo-lun-dui-hua-gui-hua/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-aaai20-ji-yu-goal-hua-ti-de-kai-fang-yu-duo-lun-dui-hua-gui-hua/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -760,10 +760,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-aaai20-yong-yu-lian-he-jian-mo-dui-hua-xing-wei-shi-bie-he-qing-gan-fen-lei-de-shen-du-jiao-hu-guan-xi-wang-luo/"/>
-        <id>http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-aaai20-yong-yu-lian-he-jian-mo-dui-hua-xing-wei-shi-bie-he-qing-gan-fen-lei-de-shen-du-jiao-hu-guan-xi-wang-luo/</id>
+        <link rel="alternate" type="text/html" href="/news/sai-er-yuan-chuang-aaai20-yong-yu-lian-he-jian-mo-dui-hua-xing-wei-shi-bie-he-qing-gan-fen-lei-de-shen-du-jiao-hu-guan-xi-wang-luo/"/>
+        <id>/news/sai-er-yuan-chuang-aaai20-yong-yu-lian-he-jian-mo-dui-hua-xing-wei-shi-bie-he-qing-gan-fen-lei-de-shen-du-jiao-hu-guan-xi-wang-luo/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/sai-er-yuan-chuang-aaai20-yong-yu-lian-he-jian-mo-dui-hua-xing-wei-shi-bie-he-qing-gan-fen-lei-de-shen-du-jiao-hu-guan-xi-wang-luo/"></content>
+        <content type="html" xml:base="/news/sai-er-yuan-chuang-aaai20-yong-yu-lian-he-jian-mo-dui-hua-xing-wei-shi-bie-he-qing-gan-fen-lei-de-shen-du-jiao-hu-guan-xi-wang-luo/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -779,10 +779,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/cong-jing-tai-dao-dong-tai-ci-biao-zheng-jin-ji-shi-nian-fa-zhan-hui-gu/"/>
-        <id>http://ir.hit.edu.cn/~la/news/cong-jing-tai-dao-dong-tai-ci-biao-zheng-jin-ji-shi-nian-fa-zhan-hui-gu/</id>
+        <link rel="alternate" type="text/html" href="/news/cong-jing-tai-dao-dong-tai-ci-biao-zheng-jin-ji-shi-nian-fa-zhan-hui-gu/"/>
+        <id>/news/cong-jing-tai-dao-dong-tai-ci-biao-zheng-jin-ji-shi-nian-fa-zhan-hui-gu/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/cong-jing-tai-dao-dong-tai-ci-biao-zheng-jin-ji-shi-nian-fa-zhan-hui-gu/"></content>
+        <content type="html" xml:base="/news/cong-jing-tai-dao-dong-tai-ci-biao-zheng-jin-ji-shi-nian-fa-zhan-hui-gu/"></content>
         
     </entry>
 </feed>

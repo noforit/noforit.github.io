@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title> - 工程项目</title>
-    <link rel="self" type="application/atom+xml" href="http://ir.hit.edu.cn/~la/news-type/gong-cheng-xiang-mu/atom.xml"/>
-    <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la"/>
+    <link rel="self" type="application/atom+xml" href="/news-type/gong-cheng-xiang-mu/atom.xml"/>
+    <link rel="alternate" type="text/html" href="/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-09-17T00:00:00+00:00</updated>
-    <id>http://ir.hit.edu.cn/~la/news-type/gong-cheng-xiang-mu/atom.xml</id>
+    <id>/news-type/gong-cheng-xiang-mu/atom.xml</id>
     <entry xml:lang="en">
         <title>哈工大发布“珠算”代码大模型</title>
         <published>2024-09-17T00:00:00+00:00</published>
@@ -19,10 +19,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/ha-gong-da-fa-bu-zhu-suan-dai-ma-da-mo-xing/"/>
-        <id>http://ir.hit.edu.cn/~la/news/ha-gong-da-fa-bu-zhu-suan-dai-ma-da-mo-xing/</id>
+        <link rel="alternate" type="text/html" href="/news/ha-gong-da-fa-bu-zhu-suan-dai-ma-da-mo-xing/"/>
+        <id>/news/ha-gong-da-fa-bu-zhu-suan-dai-ma-da-mo-xing/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/ha-gong-da-fa-bu-zhu-suan-dai-ma-da-mo-xing/"></content>
+        <content type="html" xml:base="/news/ha-gong-da-fa-bu-zhu-suan-dai-ma-da-mo-xing/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -38,10 +38,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/ha-gong-da-kai-yuan-huo-zi-3-5-dui-hua-da-mo-xing/"/>
-        <id>http://ir.hit.edu.cn/~la/news/ha-gong-da-kai-yuan-huo-zi-3-5-dui-hua-da-mo-xing/</id>
+        <link rel="alternate" type="text/html" href="/news/ha-gong-da-kai-yuan-huo-zi-3-5-dui-hua-da-mo-xing/"/>
+        <id>/news/ha-gong-da-kai-yuan-huo-zi-3-5-dui-hua-da-mo-xing/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/ha-gong-da-kai-yuan-huo-zi-3-5-dui-hua-da-mo-xing/"></content>
+        <content type="html" xml:base="/news/ha-gong-da-kai-yuan-huo-zi-3-5-dui-hua-da-mo-xing/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -57,10 +57,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/ha-gong-da-kai-yuan-huo-zi-dui-hua-da-mo-xing-3-0ban-ben/"/>
-        <id>http://ir.hit.edu.cn/~la/news/ha-gong-da-kai-yuan-huo-zi-dui-hua-da-mo-xing-3-0ban-ben/</id>
+        <link rel="alternate" type="text/html" href="/news/ha-gong-da-kai-yuan-huo-zi-dui-hua-da-mo-xing-3-0ban-ben/"/>
+        <id>/news/ha-gong-da-kai-yuan-huo-zi-dui-hua-da-mo-xing-3-0ban-ben/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/ha-gong-da-kai-yuan-huo-zi-dui-hua-da-mo-xing-3-0ban-ben/"></content>
+        <content type="html" xml:base="/news/ha-gong-da-kai-yuan-huo-zi-dui-hua-da-mo-xing-3-0ban-ben/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -76,10 +76,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/hit-scirfa-bu-shou-ge-zhong-wen-kuo-ci-biao-zeng-liang-yu-xun-lian-hun-he-zhuan-jia-mo-xing-chinese-mixtral-8x7b/"/>
-        <id>http://ir.hit.edu.cn/~la/news/hit-scirfa-bu-shou-ge-zhong-wen-kuo-ci-biao-zeng-liang-yu-xun-lian-hun-he-zhuan-jia-mo-xing-chinese-mixtral-8x7b/</id>
+        <link rel="alternate" type="text/html" href="/news/hit-scirfa-bu-shou-ge-zhong-wen-kuo-ci-biao-zeng-liang-yu-xun-lian-hun-he-zhuan-jia-mo-xing-chinese-mixtral-8x7b/"/>
+        <id>/news/hit-scirfa-bu-shou-ge-zhong-wen-kuo-ci-biao-zeng-liang-yu-xun-lian-hun-he-zhuan-jia-mo-xing-chinese-mixtral-8x7b/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/hit-scirfa-bu-shou-ge-zhong-wen-kuo-ci-biao-zeng-liang-yu-xun-lian-hun-he-zhuan-jia-mo-xing-chinese-mixtral-8x7b/"></content>
+        <content type="html" xml:base="/news/hit-scirfa-bu-shou-ge-zhong-wen-kuo-ci-biao-zeng-liang-yu-xun-lian-hun-he-zhuan-jia-mo-xing-chinese-mixtral-8x7b/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -95,10 +95,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/ha-gong-da-kai-yuan-huo-zi-dui-hua-da-mo-xing/"/>
-        <id>http://ir.hit.edu.cn/~la/news/ha-gong-da-kai-yuan-huo-zi-dui-hua-da-mo-xing/</id>
+        <link rel="alternate" type="text/html" href="/news/ha-gong-da-kai-yuan-huo-zi-dui-hua-da-mo-xing/"/>
+        <id>/news/ha-gong-da-kai-yuan-huo-zi-dui-hua-da-mo-xing/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/ha-gong-da-kai-yuan-huo-zi-dui-hua-da-mo-xing/"></content>
+        <content type="html" xml:base="/news/ha-gong-da-kai-yuan-huo-zi-dui-hua-da-mo-xing/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -114,10 +114,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/ha-gong-da-zi-ran-yu-yan-chu-li-yan-jiu-suo-gong-kai-chatgptdiao-yan-bao-gao-nei-ce-ha-gong-da-huo-zi-dui-hua-da-mo-xing/"/>
-        <id>http://ir.hit.edu.cn/~la/news/ha-gong-da-zi-ran-yu-yan-chu-li-yan-jiu-suo-gong-kai-chatgptdiao-yan-bao-gao-nei-ce-ha-gong-da-huo-zi-dui-hua-da-mo-xing/</id>
+        <link rel="alternate" type="text/html" href="/news/ha-gong-da-zi-ran-yu-yan-chu-li-yan-jiu-suo-gong-kai-chatgptdiao-yan-bao-gao-nei-ce-ha-gong-da-huo-zi-dui-hua-da-mo-xing/"/>
+        <id>/news/ha-gong-da-zi-ran-yu-yan-chu-li-yan-jiu-suo-gong-kai-chatgptdiao-yan-bao-gao-nei-ce-ha-gong-da-huo-zi-dui-hua-da-mo-xing/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/ha-gong-da-zi-ran-yu-yan-chu-li-yan-jiu-suo-gong-kai-chatgptdiao-yan-bao-gao-nei-ce-ha-gong-da-huo-zi-dui-hua-da-mo-xing/"></content>
+        <content type="html" xml:base="/news/ha-gong-da-zi-ran-yu-yan-chu-li-yan-jiu-suo-gong-kai-chatgptdiao-yan-bao-gao-nei-ce-ha-gong-da-huo-zi-dui-hua-da-mo-xing/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -133,10 +133,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/yu-yan-ji-shu-ping-tai-ltp-tui-chu-v4-2-ban-ben/"/>
-        <id>http://ir.hit.edu.cn/~la/news/yu-yan-ji-shu-ping-tai-ltp-tui-chu-v4-2-ban-ben/</id>
+        <link rel="alternate" type="text/html" href="/news/yu-yan-ji-shu-ping-tai-ltp-tui-chu-v4-2-ban-ben/"/>
+        <id>/news/yu-yan-ji-shu-ping-tai-ltp-tui-chu-v4-2-ban-ben/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/yu-yan-ji-shu-ping-tai-ltp-tui-chu-v4-2-ban-ben/"></content>
+        <content type="html" xml:base="/news/yu-yan-ji-shu-ping-tai-ltp-tui-chu-v4-2-ban-ben/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -152,10 +152,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/ltp-4-0-dan-mo-xing-wan-cheng-6xiang-zi-ran-yu-yan-chu-li-ren-wu/"/>
-        <id>http://ir.hit.edu.cn/~la/news/ltp-4-0-dan-mo-xing-wan-cheng-6xiang-zi-ran-yu-yan-chu-li-ren-wu/</id>
+        <link rel="alternate" type="text/html" href="/news/ltp-4-0-dan-mo-xing-wan-cheng-6xiang-zi-ran-yu-yan-chu-li-ren-wu/"/>
+        <id>/news/ltp-4-0-dan-mo-xing-wan-cheng-6xiang-zi-ran-yu-yan-chu-li-ren-wu/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/ltp-4-0-dan-mo-xing-wan-cheng-6xiang-zi-ran-yu-yan-chu-li-ren-wu/"></content>
+        <content type="html" xml:base="/news/ltp-4-0-dan-mo-xing-wan-cheng-6xiang-zi-ran-yu-yan-chu-li-ren-wu/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -171,10 +171,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/yu-yan-ji-shu-ping-tai-ltp-you-xin-jia-la/"/>
-        <id>http://ir.hit.edu.cn/~la/news/yu-yan-ji-shu-ping-tai-ltp-you-xin-jia-la/</id>
+        <link rel="alternate" type="text/html" href="/news/yu-yan-ji-shu-ping-tai-ltp-you-xin-jia-la/"/>
+        <id>/news/yu-yan-ji-shu-ping-tai-ltp-you-xin-jia-la/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/yu-yan-ji-shu-ping-tai-ltp-you-xin-jia-la/"></content>
+        <content type="html" xml:base="/news/yu-yan-ji-shu-ping-tai-ltp-you-xin-jia-la/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -190,10 +190,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/ha-gong-da-xun-fei-lian-he-shi-yan-shi-yan-zhi-de-wen-ben-shun-hua-ji-shu-cheng-gong-jie-ru-xun-fei-ting-jian-xi-tong/"/>
-        <id>http://ir.hit.edu.cn/~la/news/ha-gong-da-xun-fei-lian-he-shi-yan-shi-yan-zhi-de-wen-ben-shun-hua-ji-shu-cheng-gong-jie-ru-xun-fei-ting-jian-xi-tong/</id>
+        <link rel="alternate" type="text/html" href="/news/ha-gong-da-xun-fei-lian-he-shi-yan-shi-yan-zhi-de-wen-ben-shun-hua-ji-shu-cheng-gong-jie-ru-xun-fei-ting-jian-xi-tong/"/>
+        <id>/news/ha-gong-da-xun-fei-lian-he-shi-yan-shi-yan-zhi-de-wen-ben-shun-hua-ji-shu-cheng-gong-jie-ru-xun-fei-ting-jian-xi-tong/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/ha-gong-da-xun-fei-lian-he-shi-yan-shi-yan-zhi-de-wen-ben-shun-hua-ji-shu-cheng-gong-jie-ru-xun-fei-ting-jian-xi-tong/"></content>
+        <content type="html" xml:base="/news/ha-gong-da-xun-fei-lian-he-shi-yan-shi-yan-zhi-de-wen-ben-shun-hua-ji-shu-cheng-gong-jie-ru-xun-fei-ting-jian-xi-tong/"></content>
         
     </entry>
 </feed>

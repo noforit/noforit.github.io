@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title> - 评测</title>
-    <link rel="self" type="application/atom+xml" href="http://ir.hit.edu.cn/~la/news-type/ping-ce/atom.xml"/>
-    <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la"/>
+    <link rel="self" type="application/atom+xml" href="/news-type/ping-ce/atom.xml"/>
+    <link rel="alternate" type="text/html" href="/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2022-09-21T00:00:00+00:00</updated>
-    <id>http://ir.hit.edu.cn/~la/news-type/ping-ce/atom.xml</id>
+    <id>/news-type/ping-ce/atom.xml</id>
     <entry xml:lang="en">
         <title>哈工大SCIR取得CCIR Cup 2022混合表格与文本数据问答赛道冠军</title>
         <published>2022-09-21T00:00:00+00:00</published>
@@ -19,10 +19,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirqu-de-ccir-cup-2022hun-he-biao-ge-yu-wen-ben-shu-ju-wen-da-sai-dao-guan-jun/"/>
-        <id>http://ir.hit.edu.cn/~la/news/ha-gong-da-scirqu-de-ccir-cup-2022hun-he-biao-ge-yu-wen-ben-shu-ju-wen-da-sai-dao-guan-jun/</id>
+        <link rel="alternate" type="text/html" href="/news/ha-gong-da-scirqu-de-ccir-cup-2022hun-he-biao-ge-yu-wen-ben-shu-ju-wen-da-sai-dao-guan-jun/"/>
+        <id>/news/ha-gong-da-scirqu-de-ccir-cup-2022hun-he-biao-ge-yu-wen-ben-shu-ju-wen-da-sai-dao-guan-jun/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirqu-de-ccir-cup-2022hun-he-biao-ge-yu-wen-ben-shu-ju-wen-da-sai-dao-guan-jun/"></content>
+        <content type="html" xml:base="/news/ha-gong-da-scirqu-de-ccir-cup-2022hun-he-biao-ge-yu-wen-ben-shu-ju-wen-da-sai-dao-guan-jun/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -38,10 +38,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirzai-mmnlu-22duo-yu-yan-ren-wu-xing-dui-hua-zi-ran-yu-yan-li-jie-ping-ce-qu-de-full-datasetsai-dao-di-yi-ming/"/>
-        <id>http://ir.hit.edu.cn/~la/news/ha-gong-da-scirzai-mmnlu-22duo-yu-yan-ren-wu-xing-dui-hua-zi-ran-yu-yan-li-jie-ping-ce-qu-de-full-datasetsai-dao-di-yi-ming/</id>
+        <link rel="alternate" type="text/html" href="/news/ha-gong-da-scirzai-mmnlu-22duo-yu-yan-ren-wu-xing-dui-hua-zi-ran-yu-yan-li-jie-ping-ce-qu-de-full-datasetsai-dao-di-yi-ming/"/>
+        <id>/news/ha-gong-da-scirzai-mmnlu-22duo-yu-yan-ren-wu-xing-dui-hua-zi-ran-yu-yan-li-jie-ping-ce-qu-de-full-datasetsai-dao-di-yi-ming/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirzai-mmnlu-22duo-yu-yan-ren-wu-xing-dui-hua-zi-ran-yu-yan-li-jie-ping-ce-qu-de-full-datasetsai-dao-di-yi-ming/"></content>
+        <content type="html" xml:base="/news/ha-gong-da-scirzai-mmnlu-22duo-yu-yan-ren-wu-xing-dui-hua-zi-ran-yu-yan-li-jie-ping-ce-qu-de-full-datasetsai-dao-di-yi-ming/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -57,10 +57,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirqu-de-guo-jia-dian-wang-diao-kong-aichuang-xin-da-sai-sai-dao-2-text2sql-guan-jun/"/>
-        <id>http://ir.hit.edu.cn/~la/news/ha-gong-da-scirqu-de-guo-jia-dian-wang-diao-kong-aichuang-xin-da-sai-sai-dao-2-text2sql-guan-jun/</id>
+        <link rel="alternate" type="text/html" href="/news/ha-gong-da-scirqu-de-guo-jia-dian-wang-diao-kong-aichuang-xin-da-sai-sai-dao-2-text2sql-guan-jun/"/>
+        <id>/news/ha-gong-da-scirqu-de-guo-jia-dian-wang-diao-kong-aichuang-xin-da-sai-sai-dao-2-text2sql-guan-jun/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirqu-de-guo-jia-dian-wang-diao-kong-aichuang-xin-da-sai-sai-dao-2-text2sql-guan-jun/"></content>
+        <content type="html" xml:base="/news/ha-gong-da-scirqu-de-guo-jia-dian-wang-diao-kong-aichuang-xin-da-sai-sai-dao-2-text2sql-guan-jun/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -76,10 +76,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirzai-conll-2019guo-ji-kua-kuang-jia-yu-yi-fen-xi-ping-ce-zhong-qu-de-di-yi-ming/"/>
-        <id>http://ir.hit.edu.cn/~la/news/ha-gong-da-scirzai-conll-2019guo-ji-kua-kuang-jia-yu-yi-fen-xi-ping-ce-zhong-qu-de-di-yi-ming/</id>
+        <link rel="alternate" type="text/html" href="/news/ha-gong-da-scirzai-conll-2019guo-ji-kua-kuang-jia-yu-yi-fen-xi-ping-ce-zhong-qu-de-di-yi-ming/"/>
+        <id>/news/ha-gong-da-scirzai-conll-2019guo-ji-kua-kuang-jia-yu-yi-fen-xi-ping-ce-zhong-qu-de-di-yi-ming/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirzai-conll-2019guo-ji-kua-kuang-jia-yu-yi-fen-xi-ping-ce-zhong-qu-de-di-yi-ming/"></content>
+        <content type="html" xml:base="/news/ha-gong-da-scirzai-conll-2019guo-ji-kua-kuang-jia-yu-yi-fen-xi-ping-ce-zhong-qu-de-di-yi-ming/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -95,10 +95,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/zui-xin-ha-gong-da-scirzai-guo-ji-duo-yu-yan-tong-yong-yi-cun-fen-xi-ping-ce-zhong-duo-de-guan-jun/"/>
-        <id>http://ir.hit.edu.cn/~la/news/zui-xin-ha-gong-da-scirzai-guo-ji-duo-yu-yan-tong-yong-yi-cun-fen-xi-ping-ce-zhong-duo-de-guan-jun/</id>
+        <link rel="alternate" type="text/html" href="/news/zui-xin-ha-gong-da-scirzai-guo-ji-duo-yu-yan-tong-yong-yi-cun-fen-xi-ping-ce-zhong-duo-de-guan-jun/"/>
+        <id>/news/zui-xin-ha-gong-da-scirzai-guo-ji-duo-yu-yan-tong-yong-yi-cun-fen-xi-ping-ce-zhong-duo-de-guan-jun/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/zui-xin-ha-gong-da-scirzai-guo-ji-duo-yu-yan-tong-yong-yi-cun-fen-xi-ping-ce-zhong-duo-de-guan-jun/"></content>
+        <content type="html" xml:base="/news/zui-xin-ha-gong-da-scirzai-guo-ji-duo-yu-yan-tong-yong-yi-cun-fen-xi-ping-ce-zhong-duo-de-guan-jun/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -114,10 +114,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/semeval-2016-task-9zhong-wen-yu-yi-yi-cun-tu-shu-ju-dui-wai-fa-bu/"/>
-        <id>http://ir.hit.edu.cn/~la/news/semeval-2016-task-9zhong-wen-yu-yi-yi-cun-tu-shu-ju-dui-wai-fa-bu/</id>
+        <link rel="alternate" type="text/html" href="/news/semeval-2016-task-9zhong-wen-yu-yi-yi-cun-tu-shu-ju-dui-wai-fa-bu/"/>
+        <id>/news/semeval-2016-task-9zhong-wen-yu-yi-yi-cun-tu-shu-ju-dui-wai-fa-bu/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/semeval-2016-task-9zhong-wen-yu-yi-yi-cun-tu-shu-ju-dui-wai-fa-bu/"></content>
+        <content type="html" xml:base="/news/semeval-2016-task-9zhong-wen-yu-yi-yi-cun-tu-shu-ju-dui-wai-fa-bu/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -133,10 +133,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirzai-conll-2017duo-yu-yan-tong-yong-yi-cun-ju-fa-fen-xi-ping-ce-zhong-qu-de-jia-ji/"/>
-        <id>http://ir.hit.edu.cn/~la/news/ha-gong-da-scirzai-conll-2017duo-yu-yan-tong-yong-yi-cun-ju-fa-fen-xi-ping-ce-zhong-qu-de-jia-ji/</id>
+        <link rel="alternate" type="text/html" href="/news/ha-gong-da-scirzai-conll-2017duo-yu-yan-tong-yong-yi-cun-ju-fa-fen-xi-ping-ce-zhong-qu-de-jia-ji/"/>
+        <id>/news/ha-gong-da-scirzai-conll-2017duo-yu-yan-tong-yong-yi-cun-ju-fa-fen-xi-ping-ce-zhong-qu-de-jia-ji/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirzai-conll-2017duo-yu-yan-tong-yong-yi-cun-ju-fa-fen-xi-ping-ce-zhong-qu-de-jia-ji/"></content>
+        <content type="html" xml:base="/news/ha-gong-da-scirzai-conll-2017duo-yu-yan-tong-yong-yi-cun-ju-fa-fen-xi-ping-ce-zhong-qu-de-jia-ji/"></content>
         
     </entry>
 </feed>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title> - Shao Yanqiu</title>
-    <link rel="self" type="application/atom+xml" href="http://ir.hit.edu.cn/~la/authors/shao-yanqiu/atom.xml"/>
-    <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la"/>
+    <link rel="self" type="application/atom+xml" href="/authors/shao-yanqiu/atom.xml"/>
+    <link rel="alternate" type="text/html" href="/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2014-01-01T00:00:00+00:00</updated>
-    <id>http://ir.hit.edu.cn/~la/authors/shao-yanqiu/atom.xml</id>
+    <id>/authors/shao-yanqiu/atom.xml</id>
     <entry xml:lang="en">
         <title>Dependency graph based chinese semantic parsing</title>
         <published>2014-01-01T00:00:00+00:00</published>
@@ -19,10 +19,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2014-dependency-graph-based-chinese-semantic-parsing/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2014-dependency-graph-based-chinese-semantic-parsing/</id>
+        <link rel="alternate" type="text/html" href="/publications/2014-dependency-graph-based-chinese-semantic-parsing/"/>
+        <id>/publications/2014-dependency-graph-based-chinese-semantic-parsing/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2014-dependency-graph-based-chinese-semantic-parsing/"></content>
+        <content type="html" xml:base="/publications/2014-dependency-graph-based-chinese-semantic-parsing/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -38,10 +38,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2014-jointly-or-separately-which-is-better-for-parsing-heterogeneous-dependencies/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2014-jointly-or-separately-which-is-better-for-parsing-heterogeneous-dependencies/</id>
+        <link rel="alternate" type="text/html" href="/publications/2014-jointly-or-separately-which-is-better-for-parsing-heterogeneous-dependencies/"/>
+        <id>/publications/2014-jointly-or-separately-which-is-better-for-parsing-heterogeneous-dependencies/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2014-jointly-or-separately-which-is-better-for-parsing-heterogeneous-dependencies/"></content>
+        <content type="html" xml:base="/publications/2014-jointly-or-separately-which-is-better-for-parsing-heterogeneous-dependencies/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -57,10 +57,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2012-improve-chinese-semantic-dependency-parsing-via-syntactic-dependency-parsing/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2012-improve-chinese-semantic-dependency-parsing-via-syntactic-dependency-parsing/</id>
+        <link rel="alternate" type="text/html" href="/publications/2012-improve-chinese-semantic-dependency-parsing-via-syntactic-dependency-parsing/"/>
+        <id>/publications/2012-improve-chinese-semantic-dependency-parsing-via-syntactic-dependency-parsing/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2012-improve-chinese-semantic-dependency-parsing-via-syntactic-dependency-parsing/"></content>
+        <content type="html" xml:base="/publications/2012-improve-chinese-semantic-dependency-parsing-via-syntactic-dependency-parsing/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -76,10 +76,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2012-semeval-2012-task-5-chinese-semantic-dependency-parsing/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2012-semeval-2012-task-5-chinese-semantic-dependency-parsing/</id>
+        <link rel="alternate" type="text/html" href="/publications/2012-semeval-2012-task-5-chinese-semantic-dependency-parsing/"/>
+        <id>/publications/2012-semeval-2012-task-5-chinese-semantic-dependency-parsing/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2012-semeval-2012-task-5-chinese-semantic-dependency-parsing/"></content>
+        <content type="html" xml:base="/publications/2012-semeval-2012-task-5-chinese-semantic-dependency-parsing/"></content>
         
     </entry>
 </feed>

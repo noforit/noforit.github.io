@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title> - WWW</title>
-    <link rel="self" type="application/atom+xml" href="http://ir.hit.edu.cn/~la/publisher/www/atom.xml"/>
-    <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la"/>
+    <link rel="self" type="application/atom+xml" href="/publisher/www/atom.xml"/>
+    <link rel="alternate" type="text/html" href="/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2020-01-01T00:00:00+00:00</updated>
-    <id>http://ir.hit.edu.cn/~la/publisher/www/atom.xml</id>
+    <id>/publisher/www/atom.xml</id>
     <entry xml:lang="en">
         <title>Keywords Generation Improves E-Commerce Session-based Recommendation</title>
         <published>2020-01-01T00:00:00+00:00</published>
@@ -19,10 +19,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2020-keywords-generation-improves-e-commerce-session-based-recommendation/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2020-keywords-generation-improves-e-commerce-session-based-recommendation/</id>
+        <link rel="alternate" type="text/html" href="/publications/2020-keywords-generation-improves-e-commerce-session-based-recommendation/"/>
+        <id>/publications/2020-keywords-generation-improves-e-commerce-session-based-recommendation/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2020-keywords-generation-improves-e-commerce-session-based-recommendation/"></content>
+        <content type="html" xml:base="/publications/2020-keywords-generation-improves-e-commerce-session-based-recommendation/"></content>
         
     </entry>
 </feed>

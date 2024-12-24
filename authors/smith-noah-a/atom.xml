@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title> - Smith Noah A.</title>
-    <link rel="self" type="application/atom+xml" href="http://ir.hit.edu.cn/~la/authors/smith-noah-a/atom.xml"/>
-    <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la"/>
+    <link rel="self" type="application/atom+xml" href="/authors/smith-noah-a/atom.xml"/>
+    <link rel="alternate" type="text/html" href="/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2018-01-01T00:00:00+00:00</updated>
-    <id>http://ir.hit.edu.cn/~la/authors/smith-noah-a/atom.xml</id>
+    <id>/authors/smith-noah-a/atom.xml</id>
     <entry xml:lang="en">
         <title>Parsing Tweets into Universal Dependencies</title>
         <published>2018-01-01T00:00:00+00:00</published>
@@ -19,10 +19,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2018-parsing-tweets-into-universal-dependencies/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2018-parsing-tweets-into-universal-dependencies/</id>
+        <link rel="alternate" type="text/html" href="/publications/2018-parsing-tweets-into-universal-dependencies/"/>
+        <id>/publications/2018-parsing-tweets-into-universal-dependencies/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2018-parsing-tweets-into-universal-dependencies/"></content>
+        <content type="html" xml:base="/publications/2018-parsing-tweets-into-universal-dependencies/"></content>
         
     </entry>
 </feed>

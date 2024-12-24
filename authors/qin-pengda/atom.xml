@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title> - Qin Pengda</title>
-    <link rel="self" type="application/atom+xml" href="http://ir.hit.edu.cn/~la/authors/qin-pengda/atom.xml"/>
-    <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la"/>
+    <link rel="self" type="application/atom+xml" href="/authors/qin-pengda/atom.xml"/>
+    <link rel="alternate" type="text/html" href="/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2020-01-01T00:00:00+00:00</updated>
-    <id>http://ir.hit.edu.cn/~la/authors/qin-pengda/atom.xml</id>
+    <id>/authors/qin-pengda/atom.xml</id>
     <entry xml:lang="en">
         <title>Multi-task self-supervised learning for disfluency detection</title>
         <published>2020-01-01T00:00:00+00:00</published>
@@ -19,10 +19,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2020-multi-task-self-supervised-learning-for-disfluency-detection/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2020-multi-task-self-supervised-learning-for-disfluency-detection/</id>
+        <link rel="alternate" type="text/html" href="/publications/2020-multi-task-self-supervised-learning-for-disfluency-detection/"/>
+        <id>/publications/2020-multi-task-self-supervised-learning-for-disfluency-detection/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2020-multi-task-self-supervised-learning-for-disfluency-detection/"></content>
+        <content type="html" xml:base="/publications/2020-multi-task-self-supervised-learning-for-disfluency-detection/"></content>
         
     </entry>
 </feed>

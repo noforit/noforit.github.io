@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title> - 学术交流</title>
-    <link rel="self" type="application/atom+xml" href="http://ir.hit.edu.cn/~la/news-type/xue-shu-jiao-liu/atom.xml"/>
-    <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la"/>
+    <link rel="self" type="application/atom+xml" href="/news-type/xue-shu-jiao-liu/atom.xml"/>
+    <link rel="alternate" type="text/html" href="/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-07-23T00:00:00+00:00</updated>
-    <id>http://ir.hit.edu.cn/~la/news-type/xue-shu-jiao-liu/atom.xml</id>
+    <id>/news-type/xue-shu-jiao-liu/atom.xml</id>
     <entry xml:lang="en">
         <title>新闻 | 第三届HIT-SCIR&amp;THUNLP&amp;FudanNLP学术联谊会成功举办</title>
         <published>2024-07-23T00:00:00+00:00</published>
@@ -19,10 +19,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/xin-wen-di-san-jie-hit-scir-thunlp-fudannlpxue-shu-lian-yi-hui-cheng-gong-ju-ban/"/>
-        <id>http://ir.hit.edu.cn/~la/news/xin-wen-di-san-jie-hit-scir-thunlp-fudannlpxue-shu-lian-yi-hui-cheng-gong-ju-ban/</id>
+        <link rel="alternate" type="text/html" href="/news/xin-wen-di-san-jie-hit-scir-thunlp-fudannlpxue-shu-lian-yi-hui-cheng-gong-ju-ban/"/>
+        <id>/news/xin-wen-di-san-jie-hit-scir-thunlp-fudannlpxue-shu-lian-yi-hui-cheng-gong-ju-ban/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/xin-wen-di-san-jie-hit-scir-thunlp-fudannlpxue-shu-lian-yi-hui-cheng-gong-ju-ban/"></content>
+        <content type="html" xml:base="/news/xin-wen-di-san-jie-hit-scir-thunlp-fudannlpxue-shu-lian-yi-hui-cheng-gong-ju-ban/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -38,10 +38,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/ccl2021xue-sheng-yan-tao-hui-ru-he-dan-sheng-idea-ru-he-gen-shen-gao-ren-rebuttal-ru-he-xie-zi-ji-de-di-yi-pian-ding-hui-wen-zhang-deng-qiang-xian-kan/"/>
-        <id>http://ir.hit.edu.cn/~la/news/ccl2021xue-sheng-yan-tao-hui-ru-he-dan-sheng-idea-ru-he-gen-shen-gao-ren-rebuttal-ru-he-xie-zi-ji-de-di-yi-pian-ding-hui-wen-zhang-deng-qiang-xian-kan/</id>
+        <link rel="alternate" type="text/html" href="/news/ccl2021xue-sheng-yan-tao-hui-ru-he-dan-sheng-idea-ru-he-gen-shen-gao-ren-rebuttal-ru-he-xie-zi-ji-de-di-yi-pian-ding-hui-wen-zhang-deng-qiang-xian-kan/"/>
+        <id>/news/ccl2021xue-sheng-yan-tao-hui-ru-he-dan-sheng-idea-ru-he-gen-shen-gao-ren-rebuttal-ru-he-xie-zi-ji-de-di-yi-pian-ding-hui-wen-zhang-deng-qiang-xian-kan/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/ccl2021xue-sheng-yan-tao-hui-ru-he-dan-sheng-idea-ru-he-gen-shen-gao-ren-rebuttal-ru-he-xie-zi-ji-de-di-yi-pian-ding-hui-wen-zhang-deng-qiang-xian-kan/"></content>
+        <content type="html" xml:base="/news/ccl2021xue-sheng-yan-tao-hui-ru-he-dan-sheng-idea-ru-he-gen-shen-gao-ren-rebuttal-ru-he-xie-zi-ji-de-di-yi-pian-ding-hui-wen-zhang-deng-qiang-xian-kan/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -57,10 +57,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/di-er-jie-thunlp-hit-scirxue-shu-lian-yi-hui-cheng-gong-ju-ban/"/>
-        <id>http://ir.hit.edu.cn/~la/news/di-er-jie-thunlp-hit-scirxue-shu-lian-yi-hui-cheng-gong-ju-ban/</id>
+        <link rel="alternate" type="text/html" href="/news/di-er-jie-thunlp-hit-scirxue-shu-lian-yi-hui-cheng-gong-ju-ban/"/>
+        <id>/news/di-er-jie-thunlp-hit-scirxue-shu-lian-yi-hui-cheng-gong-ju-ban/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/di-er-jie-thunlp-hit-scirxue-shu-lian-yi-hui-cheng-gong-ju-ban/"></content>
+        <content type="html" xml:base="/news/di-er-jie-thunlp-hit-scirxue-shu-lian-yi-hui-cheng-gong-ju-ban/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -76,10 +76,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/yef2021yan-jiang-shi-lu-ha-er-bin-gong-ye-da-xue-che-mo-xiang-zi-ran-yu-yan-chu-li-xin-fan-shi/"/>
-        <id>http://ir.hit.edu.cn/~la/news/yef2021yan-jiang-shi-lu-ha-er-bin-gong-ye-da-xue-che-mo-xiang-zi-ran-yu-yan-chu-li-xin-fan-shi/</id>
+        <link rel="alternate" type="text/html" href="/news/yef2021yan-jiang-shi-lu-ha-er-bin-gong-ye-da-xue-che-mo-xiang-zi-ran-yu-yan-chu-li-xin-fan-shi/"/>
+        <id>/news/yef2021yan-jiang-shi-lu-ha-er-bin-gong-ye-da-xue-che-mo-xiang-zi-ran-yu-yan-chu-li-xin-fan-shi/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/yef2021yan-jiang-shi-lu-ha-er-bin-gong-ye-da-xue-che-mo-xiang-zi-ran-yu-yan-chu-li-xin-fan-shi/"></content>
+        <content type="html" xml:base="/news/yef2021yan-jiang-shi-lu-ha-er-bin-gong-ye-da-xue-che-mo-xiang-zi-ran-yu-yan-chu-li-xin-fan-shi/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -95,10 +95,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/di-er-shi-jie-zhong-guo-ji-suan-yu-yan-xue-da-hui-ccl-2021-zheng-gao-qi-shi/"/>
-        <id>http://ir.hit.edu.cn/~la/news/di-er-shi-jie-zhong-guo-ji-suan-yu-yan-xue-da-hui-ccl-2021-zheng-gao-qi-shi/</id>
+        <link rel="alternate" type="text/html" href="/news/di-er-shi-jie-zhong-guo-ji-suan-yu-yan-xue-da-hui-ccl-2021-zheng-gao-qi-shi/"/>
+        <id>/news/di-er-shi-jie-zhong-guo-ji-suan-yu-yan-xue-da-hui-ccl-2021-zheng-gao-qi-shi/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/di-er-shi-jie-zhong-guo-ji-suan-yu-yan-xue-da-hui-ccl-2021-zheng-gao-qi-shi/"></content>
+        <content type="html" xml:base="/news/di-er-shi-jie-zhong-guo-ji-suan-yu-yan-xue-da-hui-ccl-2021-zheng-gao-qi-shi/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -114,10 +114,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirduo-wei-shi-sheng-shou-yao-can-jia-di-yi-jie-zhong-guo-zi-ran-yu-yan-chu-li-xue-sheng-yan-tao-hui-cssnlp-2020/"/>
-        <id>http://ir.hit.edu.cn/~la/news/ha-gong-da-scirduo-wei-shi-sheng-shou-yao-can-jia-di-yi-jie-zhong-guo-zi-ran-yu-yan-chu-li-xue-sheng-yan-tao-hui-cssnlp-2020/</id>
+        <link rel="alternate" type="text/html" href="/news/ha-gong-da-scirduo-wei-shi-sheng-shou-yao-can-jia-di-yi-jie-zhong-guo-zi-ran-yu-yan-chu-li-xue-sheng-yan-tao-hui-cssnlp-2020/"/>
+        <id>/news/ha-gong-da-scirduo-wei-shi-sheng-shou-yao-can-jia-di-yi-jie-zhong-guo-zi-ran-yu-yan-chu-li-xue-sheng-yan-tao-hui-cssnlp-2020/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirduo-wei-shi-sheng-shou-yao-can-jia-di-yi-jie-zhong-guo-zi-ran-yu-yan-chu-li-xue-sheng-yan-tao-hui-cssnlp-2020/"></content>
+        <content type="html" xml:base="/news/ha-gong-da-scirduo-wei-shi-sheng-shou-yao-can-jia-di-yi-jie-zhong-guo-zi-ran-yu-yan-chu-li-xue-sheng-yan-tao-hui-cssnlp-2020/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -133,10 +133,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/acl-2010-2020yan-jiu-qu-shi-zong-jie/"/>
-        <id>http://ir.hit.edu.cn/~la/news/acl-2010-2020yan-jiu-qu-shi-zong-jie/</id>
+        <link rel="alternate" type="text/html" href="/news/acl-2010-2020yan-jiu-qu-shi-zong-jie/"/>
+        <id>/news/acl-2010-2020yan-jiu-qu-shi-zong-jie/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/acl-2010-2020yan-jiu-qu-shi-zong-jie/"></content>
+        <content type="html" xml:base="/news/acl-2010-2020yan-jiu-qu-shi-zong-jie/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -152,10 +152,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirshi-sheng-can-jia-ccl-2019/"/>
-        <id>http://ir.hit.edu.cn/~la/news/ha-gong-da-scirshi-sheng-can-jia-ccl-2019/</id>
+        <link rel="alternate" type="text/html" href="/news/ha-gong-da-scirshi-sheng-can-jia-ccl-2019/"/>
+        <id>/news/ha-gong-da-scirshi-sheng-can-jia-ccl-2019/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirshi-sheng-can-jia-ccl-2019/"></content>
+        <content type="html" xml:base="/news/ha-gong-da-scirshi-sheng-can-jia-ccl-2019/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -171,10 +171,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirshi-sheng-can-jia-di-ba-jie-zi-ran-yu-yan-chu-li-he-zhong-wen-ji-suan-hui-yi-nlpcc-2019/"/>
-        <id>http://ir.hit.edu.cn/~la/news/ha-gong-da-scirshi-sheng-can-jia-di-ba-jie-zi-ran-yu-yan-chu-li-he-zhong-wen-ji-suan-hui-yi-nlpcc-2019/</id>
+        <link rel="alternate" type="text/html" href="/news/ha-gong-da-scirshi-sheng-can-jia-di-ba-jie-zi-ran-yu-yan-chu-li-he-zhong-wen-ji-suan-hui-yi-nlpcc-2019/"/>
+        <id>/news/ha-gong-da-scirshi-sheng-can-jia-di-ba-jie-zi-ran-yu-yan-chu-li-he-zhong-wen-ji-suan-hui-yi-nlpcc-2019/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirshi-sheng-can-jia-di-ba-jie-zi-ran-yu-yan-chu-li-he-zhong-wen-ji-suan-hui-yi-nlpcc-2019/"></content>
+        <content type="html" xml:base="/news/ha-gong-da-scirshi-sheng-can-jia-di-ba-jie-zi-ran-yu-yan-chu-li-he-zhong-wen-ji-suan-hui-yi-nlpcc-2019/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -190,10 +190,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirshi-sheng-can-jia-ccir-2019/"/>
-        <id>http://ir.hit.edu.cn/~la/news/ha-gong-da-scirshi-sheng-can-jia-ccir-2019/</id>
+        <link rel="alternate" type="text/html" href="/news/ha-gong-da-scirshi-sheng-can-jia-ccir-2019/"/>
+        <id>/news/ha-gong-da-scirshi-sheng-can-jia-ccir-2019/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirshi-sheng-can-jia-ccir-2019/"></content>
+        <content type="html" xml:base="/news/ha-gong-da-scirshi-sheng-can-jia-ccir-2019/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -209,10 +209,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirduo-ming-jiao-shi-shou-yao-can-jia-yssnlp-2019/"/>
-        <id>http://ir.hit.edu.cn/~la/news/ha-gong-da-scirduo-ming-jiao-shi-shou-yao-can-jia-yssnlp-2019/</id>
+        <link rel="alternate" type="text/html" href="/news/ha-gong-da-scirduo-ming-jiao-shi-shou-yao-can-jia-yssnlp-2019/"/>
+        <id>/news/ha-gong-da-scirduo-ming-jiao-shi-shou-yao-can-jia-yssnlp-2019/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirduo-ming-jiao-shi-shou-yao-can-jia-yssnlp-2019/"></content>
+        <content type="html" xml:base="/news/ha-gong-da-scirduo-ming-jiao-shi-shou-yao-can-jia-yssnlp-2019/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -228,10 +228,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirshi-sheng-can-jia-ccl-2018/"/>
-        <id>http://ir.hit.edu.cn/~la/news/ha-gong-da-scirshi-sheng-can-jia-ccl-2018/</id>
+        <link rel="alternate" type="text/html" href="/news/ha-gong-da-scirshi-sheng-can-jia-ccl-2018/"/>
+        <id>/news/ha-gong-da-scirshi-sheng-can-jia-ccl-2018/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirshi-sheng-can-jia-ccl-2018/"></content>
+        <content type="html" xml:base="/news/ha-gong-da-scirshi-sheng-can-jia-ccl-2018/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -247,10 +247,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirduo-ming-shi-sheng-can-jia-coling-2018/"/>
-        <id>http://ir.hit.edu.cn/~la/news/ha-gong-da-scirduo-ming-shi-sheng-can-jia-coling-2018/</id>
+        <link rel="alternate" type="text/html" href="/news/ha-gong-da-scirduo-ming-shi-sheng-can-jia-coling-2018/"/>
+        <id>/news/ha-gong-da-scirduo-ming-shi-sheng-can-jia-coling-2018/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirduo-ming-shi-sheng-can-jia-coling-2018/"></content>
+        <content type="html" xml:base="/news/ha-gong-da-scirduo-ming-shi-sheng-can-jia-coling-2018/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -266,10 +266,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirduo-ming-shi-sheng-can-jia-ijcai-2018/"/>
-        <id>http://ir.hit.edu.cn/~la/news/ha-gong-da-scirduo-ming-shi-sheng-can-jia-ijcai-2018/</id>
+        <link rel="alternate" type="text/html" href="/news/ha-gong-da-scirduo-ming-shi-sheng-can-jia-ijcai-2018/"/>
+        <id>/news/ha-gong-da-scirduo-ming-shi-sheng-can-jia-ijcai-2018/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirduo-ming-shi-sheng-can-jia-ijcai-2018/"></content>
+        <content type="html" xml:base="/news/ha-gong-da-scirduo-ming-shi-sheng-can-jia-ijcai-2018/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -285,10 +285,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirduo-ming-shi-sheng-can-jia-acl-2018/"/>
-        <id>http://ir.hit.edu.cn/~la/news/ha-gong-da-scirduo-ming-shi-sheng-can-jia-acl-2018/</id>
+        <link rel="alternate" type="text/html" href="/news/ha-gong-da-scirduo-ming-shi-sheng-can-jia-acl-2018/"/>
+        <id>/news/ha-gong-da-scirduo-ming-shi-sheng-can-jia-acl-2018/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirduo-ming-shi-sheng-can-jia-acl-2018/"></content>
+        <content type="html" xml:base="/news/ha-gong-da-scirduo-ming-shi-sheng-can-jia-acl-2018/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -304,10 +304,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/wo-zhong-xin-che-mo-xiang-jiao-shou-shou-yao-can-jia-di-er-jie-teng-xun-ai-labxue-shu-lun-tan/"/>
-        <id>http://ir.hit.edu.cn/~la/news/wo-zhong-xin-che-mo-xiang-jiao-shou-shou-yao-can-jia-di-er-jie-teng-xun-ai-labxue-shu-lun-tan/</id>
+        <link rel="alternate" type="text/html" href="/news/wo-zhong-xin-che-mo-xiang-jiao-shou-shou-yao-can-jia-di-er-jie-teng-xun-ai-labxue-shu-lun-tan/"/>
+        <id>/news/wo-zhong-xin-che-mo-xiang-jiao-shou-shou-yao-can-jia-di-er-jie-teng-xun-ai-labxue-shu-lun-tan/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/wo-zhong-xin-che-mo-xiang-jiao-shou-shou-yao-can-jia-di-er-jie-teng-xun-ai-labxue-shu-lun-tan/"></content>
+        <content type="html" xml:base="/news/wo-zhong-xin-che-mo-xiang-jiao-shou-shou-yao-can-jia-di-er-jie-teng-xun-ai-labxue-shu-lun-tan/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -323,10 +323,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/wo-zhong-xin-shi-sheng-can-jia-di-liu-jie-zi-ran-yu-yan-chu-li-he-zhong-wen-ji-suan-hui-yi-nlpcc-2017/"/>
-        <id>http://ir.hit.edu.cn/~la/news/wo-zhong-xin-shi-sheng-can-jia-di-liu-jie-zi-ran-yu-yan-chu-li-he-zhong-wen-ji-suan-hui-yi-nlpcc-2017/</id>
+        <link rel="alternate" type="text/html" href="/news/wo-zhong-xin-shi-sheng-can-jia-di-liu-jie-zi-ran-yu-yan-chu-li-he-zhong-wen-ji-suan-hui-yi-nlpcc-2017/"/>
+        <id>/news/wo-zhong-xin-shi-sheng-can-jia-di-liu-jie-zi-ran-yu-yan-chu-li-he-zhong-wen-ji-suan-hui-yi-nlpcc-2017/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/wo-zhong-xin-shi-sheng-can-jia-di-liu-jie-zi-ran-yu-yan-chu-li-he-zhong-wen-ji-suan-hui-yi-nlpcc-2017/"></content>
+        <content type="html" xml:base="/news/wo-zhong-xin-shi-sheng-can-jia-di-liu-jie-zi-ran-yu-yan-chu-li-he-zhong-wen-ji-suan-hui-yi-nlpcc-2017/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -342,10 +342,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/wo-zhong-xin-shi-sheng-can-jia-di-shi-liu-jie-quan-guo-ji-suan-yu-yan-xue-hui-yi-ccl-2017/"/>
-        <id>http://ir.hit.edu.cn/~la/news/wo-zhong-xin-shi-sheng-can-jia-di-shi-liu-jie-quan-guo-ji-suan-yu-yan-xue-hui-yi-ccl-2017/</id>
+        <link rel="alternate" type="text/html" href="/news/wo-zhong-xin-shi-sheng-can-jia-di-shi-liu-jie-quan-guo-ji-suan-yu-yan-xue-hui-yi-ccl-2017/"/>
+        <id>/news/wo-zhong-xin-shi-sheng-can-jia-di-shi-liu-jie-quan-guo-ji-suan-yu-yan-xue-hui-yi-ccl-2017/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/wo-zhong-xin-shi-sheng-can-jia-di-shi-liu-jie-quan-guo-ji-suan-yu-yan-xue-hui-yi-ccl-2017/"></content>
+        <content type="html" xml:base="/news/wo-zhong-xin-shi-sheng-can-jia-di-shi-liu-jie-quan-guo-ji-suan-yu-yan-xue-hui-yi-ccl-2017/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -361,10 +361,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/wo-zhong-xin-shi-sheng-can-jia-emnlp-2017/"/>
-        <id>http://ir.hit.edu.cn/~la/news/wo-zhong-xin-shi-sheng-can-jia-emnlp-2017/</id>
+        <link rel="alternate" type="text/html" href="/news/wo-zhong-xin-shi-sheng-can-jia-emnlp-2017/"/>
+        <id>/news/wo-zhong-xin-shi-sheng-can-jia-emnlp-2017/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/wo-zhong-xin-shi-sheng-can-jia-emnlp-2017/"></content>
+        <content type="html" xml:base="/news/wo-zhong-xin-shi-sheng-can-jia-emnlp-2017/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -380,10 +380,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/wo-zhong-xin-qing-nian-jiao-shi-shou-yao-can-jia-di-shi-si-jie-zhong-guo-zi-ran-yu-yan-chu-li-qing-nian-xue-zhe-yan-tao-hui/"/>
-        <id>http://ir.hit.edu.cn/~la/news/wo-zhong-xin-qing-nian-jiao-shi-shou-yao-can-jia-di-shi-si-jie-zhong-guo-zi-ran-yu-yan-chu-li-qing-nian-xue-zhe-yan-tao-hui/</id>
+        <link rel="alternate" type="text/html" href="/news/wo-zhong-xin-qing-nian-jiao-shi-shou-yao-can-jia-di-shi-si-jie-zhong-guo-zi-ran-yu-yan-chu-li-qing-nian-xue-zhe-yan-tao-hui/"/>
+        <id>/news/wo-zhong-xin-qing-nian-jiao-shi-shou-yao-can-jia-di-shi-si-jie-zhong-guo-zi-ran-yu-yan-chu-li-qing-nian-xue-zhe-yan-tao-hui/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/wo-zhong-xin-qing-nian-jiao-shi-shou-yao-can-jia-di-shi-si-jie-zhong-guo-zi-ran-yu-yan-chu-li-qing-nian-xue-zhe-yan-tao-hui/"></content>
+        <content type="html" xml:base="/news/wo-zhong-xin-qing-nian-jiao-shi-shou-yao-can-jia-di-shi-si-jie-zhong-guo-zi-ran-yu-yan-chu-li-qing-nian-xue-zhe-yan-tao-hui/"></content>
         
     </entry>
 </feed>

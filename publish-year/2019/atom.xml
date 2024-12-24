@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title> - 2019</title>
-    <link rel="self" type="application/atom+xml" href="http://ir.hit.edu.cn/~la/publish-year/2019/atom.xml"/>
-    <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la"/>
+    <link rel="self" type="application/atom+xml" href="/publish-year/2019/atom.xml"/>
+    <link rel="alternate" type="text/html" href="/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2019-01-01T00:00:00+00:00</updated>
-    <id>http://ir.hit.edu.cn/~la/publish-year/2019/atom.xml</id>
+    <id>/publish-year/2019/atom.xml</id>
     <entry xml:lang="en">
         <title>A corpus-free state2seq user simulator for task-oriented dialogue</title>
         <published>2019-01-01T00:00:00+00:00</published>
@@ -19,10 +19,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2019-a-corpus-free-state2seq-user-simulator-for-task-oriented-dialogue/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2019-a-corpus-free-state2seq-user-simulator-for-task-oriented-dialogue/</id>
+        <link rel="alternate" type="text/html" href="/publications/2019-a-corpus-free-state2seq-user-simulator-for-task-oriented-dialogue/"/>
+        <id>/publications/2019-a-corpus-free-state2seq-user-simulator-for-task-oriented-dialogue/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2019-a-corpus-free-state2seq-user-simulator-for-task-oriented-dialogue/"></content>
+        <content type="html" xml:base="/publications/2019-a-corpus-free-state2seq-user-simulator-for-task-oriented-dialogue/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -38,10 +38,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2019-a-key-phrase-aware-end2end-neural-response-generation-model/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2019-a-key-phrase-aware-end2end-neural-response-generation-model/</id>
+        <link rel="alternate" type="text/html" href="/publications/2019-a-key-phrase-aware-end2end-neural-response-generation-model/"/>
+        <id>/publications/2019-a-key-phrase-aware-end2end-neural-response-generation-model/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2019-a-key-phrase-aware-end2end-neural-response-generation-model/"></content>
+        <content type="html" xml:base="/publications/2019-a-key-phrase-aware-end2end-neural-response-generation-model/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -57,10 +57,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2019-a-span-extraction-dataset-for-chinese-machine-reading-comprehension/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2019-a-span-extraction-dataset-for-chinese-machine-reading-comprehension/</id>
+        <link rel="alternate" type="text/html" href="/publications/2019-a-span-extraction-dataset-for-chinese-machine-reading-comprehension/"/>
+        <id>/publications/2019-a-span-extraction-dataset-for-chinese-machine-reading-comprehension/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2019-a-span-extraction-dataset-for-chinese-machine-reading-comprehension/"></content>
+        <content type="html" xml:base="/publications/2019-a-span-extraction-dataset-for-chinese-machine-reading-comprehension/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -76,10 +76,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2019-a-stack-propagation-framework-with-token-level-intent-detection-for-spoken-language-understanding/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2019-a-stack-propagation-framework-with-token-level-intent-detection-for-spoken-language-understanding/</id>
+        <link rel="alternate" type="text/html" href="/publications/2019-a-stack-propagation-framework-with-token-level-intent-detection-for-spoken-language-understanding/"/>
+        <id>/publications/2019-a-stack-propagation-framework-with-token-level-intent-detection-for-spoken-language-understanding/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2019-a-stack-propagation-framework-with-token-level-intent-detection-for-spoken-language-understanding/"></content>
+        <content type="html" xml:base="/publications/2019-a-stack-propagation-framework-with-token-level-intent-detection-for-spoken-language-understanding/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -95,10 +95,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2019-an-evaluation-of-chinese-human-computer-dialogue-technology/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2019-an-evaluation-of-chinese-human-computer-dialogue-technology/</id>
+        <link rel="alternate" type="text/html" href="/publications/2019-an-evaluation-of-chinese-human-computer-dialogue-technology/"/>
+        <id>/publications/2019-an-evaluation-of-chinese-human-computer-dialogue-technology/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2019-an-evaluation-of-chinese-human-computer-dialogue-technology/"></content>
+        <content type="html" xml:base="/publications/2019-an-evaluation-of-chinese-human-computer-dialogue-technology/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -114,10 +114,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2019-contextual-recurrent-units-for-cloze-style-reading-comprehension/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2019-contextual-recurrent-units-for-cloze-style-reading-comprehension/</id>
+        <link rel="alternate" type="text/html" href="/publications/2019-contextual-recurrent-units-for-cloze-style-reading-comprehension/"/>
+        <id>/publications/2019-contextual-recurrent-units-for-cloze-style-reading-comprehension/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2019-contextual-recurrent-units-for-cloze-style-reading-comprehension/"></content>
+        <content type="html" xml:base="/publications/2019-contextual-recurrent-units-for-cloze-style-reading-comprehension/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -133,10 +133,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2019-cross-lingual-bert-transformation-for-zero-shot-dependency-parsing/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2019-cross-lingual-bert-transformation-for-zero-shot-dependency-parsing/</id>
+        <link rel="alternate" type="text/html" href="/publications/2019-cross-lingual-bert-transformation-for-zero-shot-dependency-parsing/"/>
+        <id>/publications/2019-cross-lingual-bert-transformation-for-zero-shot-dependency-parsing/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2019-cross-lingual-bert-transformation-for-zero-shot-dependency-parsing/"></content>
+        <content type="html" xml:base="/publications/2019-cross-lingual-bert-transformation-for-zero-shot-dependency-parsing/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -152,10 +152,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2019-cross-lingual-machine-reading-comprehension/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2019-cross-lingual-machine-reading-comprehension/</id>
+        <link rel="alternate" type="text/html" href="/publications/2019-cross-lingual-machine-reading-comprehension/"/>
+        <id>/publications/2019-cross-lingual-machine-reading-comprehension/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2019-cross-lingual-machine-reading-comprehension/"></content>
+        <content type="html" xml:base="/publications/2019-cross-lingual-machine-reading-comprehension/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -171,10 +171,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2019-deep-contextualized-word-embeddings-for-universal-dependency-parsing/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2019-deep-contextualized-word-embeddings-for-universal-dependency-parsing/</id>
+        <link rel="alternate" type="text/html" href="/publications/2019-deep-contextualized-word-embeddings-for-universal-dependency-parsing/"/>
+        <id>/publications/2019-deep-contextualized-word-embeddings-for-universal-dependency-parsing/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2019-deep-contextualized-word-embeddings-for-universal-dependency-parsing/"></content>
+        <content type="html" xml:base="/publications/2019-deep-contextualized-word-embeddings-for-universal-dependency-parsing/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -190,10 +190,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2019-entity-consistent-end-to-end-task-oriented-dialogue-system-with-kb-retriever/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2019-entity-consistent-end-to-end-task-oriented-dialogue-system-with-kb-retriever/</id>
+        <link rel="alternate" type="text/html" href="/publications/2019-entity-consistent-end-to-end-task-oriented-dialogue-system-with-kb-retriever/"/>
+        <id>/publications/2019-entity-consistent-end-to-end-task-oriented-dialogue-system-with-kb-retriever/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2019-entity-consistent-end-to-end-task-oriented-dialogue-system-with-kb-retriever/"></content>
+        <content type="html" xml:base="/publications/2019-entity-consistent-end-to-end-task-oriented-dialogue-system-with-kb-retriever/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -209,10 +209,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2019-generating-natural-language-adversarial-examples-through-probability-weighted-word-saliency/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2019-generating-natural-language-adversarial-examples-through-probability-weighted-word-saliency/</id>
+        <link rel="alternate" type="text/html" href="/publications/2019-generating-natural-language-adversarial-examples-through-probability-weighted-word-saliency/"/>
+        <id>/publications/2019-generating-natural-language-adversarial-examples-through-probability-weighted-word-saliency/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2019-generating-natural-language-adversarial-examples-through-probability-weighted-word-saliency/"></content>
+        <content type="html" xml:base="/publications/2019-generating-natural-language-adversarial-examples-through-probability-weighted-word-saliency/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -228,10 +228,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2019-hit-scir-at-mrp-2019-a-unified-pipeline-for-meaning-representation-parsing-via-efficient-training-and-effective-encoding/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2019-hit-scir-at-mrp-2019-a-unified-pipeline-for-meaning-representation-parsing-via-efficient-training-and-effective-encoding/</id>
+        <link rel="alternate" type="text/html" href="/publications/2019-hit-scir-at-mrp-2019-a-unified-pipeline-for-meaning-representation-parsing-via-efficient-training-and-effective-encoding/"/>
+        <id>/publications/2019-hit-scir-at-mrp-2019-a-unified-pipeline-for-meaning-representation-parsing-via-efficient-training-and-effective-encoding/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2019-hit-scir-at-mrp-2019-a-unified-pipeline-for-meaning-representation-parsing-via-efficient-training-and-effective-encoding/"></content>
+        <content type="html" xml:base="/publications/2019-hit-scir-at-mrp-2019-a-unified-pipeline-for-meaning-representation-parsing-via-efficient-training-and-effective-encoding/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -247,10 +247,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2019-improving-machine-reading-comprehension-via-adversarial-training/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2019-improving-machine-reading-comprehension-via-adversarial-training/</id>
+        <link rel="alternate" type="text/html" href="/publications/2019-improving-machine-reading-comprehension-via-adversarial-training/"/>
+        <id>/publications/2019-improving-machine-reading-comprehension-via-adversarial-training/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2019-improving-machine-reading-comprehension-via-adversarial-training/"></content>
+        <content type="html" xml:base="/publications/2019-improving-machine-reading-comprehension-via-adversarial-training/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -266,10 +266,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2019-learning-semantic-hierarchies-a-continuous-vector-space-approach/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2019-learning-semantic-hierarchies-a-continuous-vector-space-approach/</id>
+        <link rel="alternate" type="text/html" href="/publications/2019-learning-semantic-hierarchies-a-continuous-vector-space-approach/"/>
+        <id>/publications/2019-learning-semantic-hierarchies-a-continuous-vector-space-approach/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2019-learning-semantic-hierarchies-a-continuous-vector-space-approach/"></content>
+        <content type="html" xml:base="/publications/2019-learning-semantic-hierarchies-a-continuous-vector-space-approach/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -285,10 +285,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2019-pre-training-with-whole-word-masking-for-chinese-bert/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2019-pre-training-with-whole-word-masking-for-chinese-bert/</id>
+        <link rel="alternate" type="text/html" href="/publications/2019-pre-training-with-whole-word-masking-for-chinese-bert/"/>
+        <id>/publications/2019-pre-training-with-whole-word-masking-for-chinese-bert/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2019-pre-training-with-whole-word-masking-for-chinese-bert/"></content>
+        <content type="html" xml:base="/publications/2019-pre-training-with-whole-word-masking-for-chinese-bert/"></content>
         
     </entry>
 </feed>

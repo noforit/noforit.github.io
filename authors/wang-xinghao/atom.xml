@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title> - Wang Xinghao</title>
-    <link rel="self" type="application/atom+xml" href="http://ir.hit.edu.cn/~la/authors/wang-xinghao/atom.xml"/>
-    <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la"/>
+    <link rel="self" type="application/atom+xml" href="/authors/wang-xinghao/atom.xml"/>
+    <link rel="alternate" type="text/html" href="/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-01-01T00:00:00+00:00</updated>
-    <id>http://ir.hit.edu.cn/~la/authors/wang-xinghao/atom.xml</id>
+    <id>/authors/wang-xinghao/atom.xml</id>
     <entry xml:lang="en">
         <title>Concise and Precise Context Compression for Tool-Using Language Models</title>
         <published>2024-01-01T00:00:00+00:00</published>
@@ -19,10 +19,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2024-concise-and-precise-context-compression-for-tool-using-language-models/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2024-concise-and-precise-context-compression-for-tool-using-language-models/</id>
+        <link rel="alternate" type="text/html" href="/publications/2024-concise-and-precise-context-compression-for-tool-using-language-models/"/>
+        <id>/publications/2024-concise-and-precise-context-compression-for-tool-using-language-models/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2024-concise-and-precise-context-compression-for-tool-using-language-models/"></content>
+        <content type="html" xml:base="/publications/2024-concise-and-precise-context-compression-for-tool-using-language-models/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -38,10 +38,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2024-semantic-guided-generative-image-augmentation-method-with-diffusion-models-for-image-classification/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2024-semantic-guided-generative-image-augmentation-method-with-diffusion-models-for-image-classification/</id>
+        <link rel="alternate" type="text/html" href="/publications/2024-semantic-guided-generative-image-augmentation-method-with-diffusion-models-for-image-classification/"/>
+        <id>/publications/2024-semantic-guided-generative-image-augmentation-method-with-diffusion-models-for-image-classification/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2024-semantic-guided-generative-image-augmentation-method-with-diffusion-models-for-image-classification/"></content>
+        <content type="html" xml:base="/publications/2024-semantic-guided-generative-image-augmentation-method-with-diffusion-models-for-image-classification/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -57,10 +57,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2022-fewjoint-few-shot-learning-for-joint-dialogue-understanding/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2022-fewjoint-few-shot-learning-for-joint-dialogue-understanding/</id>
+        <link rel="alternate" type="text/html" href="/publications/2022-fewjoint-few-shot-learning-for-joint-dialogue-understanding/"/>
+        <id>/publications/2022-fewjoint-few-shot-learning-for-joint-dialogue-understanding/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2022-fewjoint-few-shot-learning-for-joint-dialogue-understanding/"></content>
+        <content type="html" xml:base="/publications/2022-fewjoint-few-shot-learning-for-joint-dialogue-understanding/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -76,10 +76,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2022-metaprompting-learning-to-learn-better-prompts/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2022-metaprompting-learning-to-learn-better-prompts/</id>
+        <link rel="alternate" type="text/html" href="/publications/2022-metaprompting-learning-to-learn-better-prompts/"/>
+        <id>/publications/2022-metaprompting-learning-to-learn-better-prompts/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2022-metaprompting-learning-to-learn-better-prompts/"></content>
+        <content type="html" xml:base="/publications/2022-metaprompting-learning-to-learn-better-prompts/"></content>
         
     </entry>
 </feed>

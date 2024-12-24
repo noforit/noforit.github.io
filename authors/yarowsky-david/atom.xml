@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title> - Yarowsky David</title>
-    <link rel="self" type="application/atom+xml" href="http://ir.hit.edu.cn/~la/authors/yarowsky-david/atom.xml"/>
-    <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la"/>
+    <link rel="self" type="application/atom+xml" href="/authors/yarowsky-david/atom.xml"/>
+    <link rel="alternate" type="text/html" href="/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2016-01-01T00:00:00+00:00</updated>
-    <id>http://ir.hit.edu.cn/~la/authors/yarowsky-david/atom.xml</id>
+    <id>/authors/yarowsky-david/atom.xml</id>
     <entry xml:lang="en">
         <title>A distributed representation-based framework for cross-lingual transfer parsing</title>
         <published>2016-01-01T00:00:00+00:00</published>
@@ -19,10 +19,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2016-a-distributed-representation-based-framework-for-cross-lingual-transfer-parsing/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2016-a-distributed-representation-based-framework-for-cross-lingual-transfer-parsing/</id>
+        <link rel="alternate" type="text/html" href="/publications/2016-a-distributed-representation-based-framework-for-cross-lingual-transfer-parsing/"/>
+        <id>/publications/2016-a-distributed-representation-based-framework-for-cross-lingual-transfer-parsing/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2016-a-distributed-representation-based-framework-for-cross-lingual-transfer-parsing/"></content>
+        <content type="html" xml:base="/publications/2016-a-distributed-representation-based-framework-for-cross-lingual-transfer-parsing/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -38,10 +38,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/publications/2015-cross-lingual-dependency-parsing-based-on-distributed-representations/"/>
-        <id>http://ir.hit.edu.cn/~la/publications/2015-cross-lingual-dependency-parsing-based-on-distributed-representations/</id>
+        <link rel="alternate" type="text/html" href="/publications/2015-cross-lingual-dependency-parsing-based-on-distributed-representations/"/>
+        <id>/publications/2015-cross-lingual-dependency-parsing-based-on-distributed-representations/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/publications/2015-cross-lingual-dependency-parsing-based-on-distributed-representations/"></content>
+        <content type="html" xml:base="/publications/2015-cross-lingual-dependency-parsing-based-on-distributed-representations/"></content>
         
     </entry>
 </feed>

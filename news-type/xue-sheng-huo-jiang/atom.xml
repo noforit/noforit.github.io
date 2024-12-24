@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title> - 学生获奖</title>
-    <link rel="self" type="application/atom+xml" href="http://ir.hit.edu.cn/~la/news-type/xue-sheng-huo-jiang/atom.xml"/>
-    <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la"/>
+    <link rel="self" type="application/atom+xml" href="/news-type/xue-sheng-huo-jiang/atom.xml"/>
+    <link rel="alternate" type="text/html" href="/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-09-30T00:00:00+00:00</updated>
-    <id>http://ir.hit.edu.cn/~la/news-type/xue-sheng-huo-jiang/atom.xml</id>
+    <id>/news-type/xue-sheng-huo-jiang/atom.xml</id>
     <entry xml:lang="en">
         <title>今天，哈工大再获国家表彰！</title>
         <published>2024-09-30T00:00:00+00:00</published>
@@ -19,10 +19,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/jin-tian-ha-gong-da-zai-huo-guo-jia-biao-zhang/"/>
-        <id>http://ir.hit.edu.cn/~la/news/jin-tian-ha-gong-da-zai-huo-guo-jia-biao-zhang/</id>
+        <link rel="alternate" type="text/html" href="/news/jin-tian-ha-gong-da-zai-huo-guo-jia-biao-zhang/"/>
+        <id>/news/jin-tian-ha-gong-da-zai-huo-guo-jia-biao-zhang/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/jin-tian-ha-gong-da-zai-huo-guo-jia-biao-zhang/"></content>
+        <content type="html" xml:base="/news/jin-tian-ha-gong-da-zai-huo-guo-jia-biao-zhang/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -38,10 +38,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/qing-chun-de-xuan-ze-gun-ha-gong-da-zhe-ge-tuan-dui-li-yu-sheng-cheng-shi-aichao-tou/"/>
-        <id>http://ir.hit.edu.cn/~la/news/qing-chun-de-xuan-ze-gun-ha-gong-da-zhe-ge-tuan-dui-li-yu-sheng-cheng-shi-aichao-tou/</id>
+        <link rel="alternate" type="text/html" href="/news/qing-chun-de-xuan-ze-gun-ha-gong-da-zhe-ge-tuan-dui-li-yu-sheng-cheng-shi-aichao-tou/"/>
+        <id>/news/qing-chun-de-xuan-ze-gun-ha-gong-da-zhe-ge-tuan-dui-li-yu-sheng-cheng-shi-aichao-tou/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/qing-chun-de-xuan-ze-gun-ha-gong-da-zhe-ge-tuan-dui-li-yu-sheng-cheng-shi-aichao-tou/"></content>
+        <content type="html" xml:base="/news/qing-chun-de-xuan-ze-gun-ha-gong-da-zhe-ge-tuan-dui-li-yu-sheng-cheng-shi-aichao-tou/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -57,10 +57,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirbo-shi-sheng-tan-li-bo-huo-2021nian-wei-ruan-xue-zhe-cheng-hao/"/>
-        <id>http://ir.hit.edu.cn/~la/news/ha-gong-da-scirbo-shi-sheng-tan-li-bo-huo-2021nian-wei-ruan-xue-zhe-cheng-hao/</id>
+        <link rel="alternate" type="text/html" href="/news/ha-gong-da-scirbo-shi-sheng-tan-li-bo-huo-2021nian-wei-ruan-xue-zhe-cheng-hao/"/>
+        <id>/news/ha-gong-da-scirbo-shi-sheng-tan-li-bo-huo-2021nian-wei-ruan-xue-zhe-cheng-hao/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirbo-shi-sheng-tan-li-bo-huo-2021nian-wei-ruan-xue-zhe-cheng-hao/"></content>
+        <content type="html" xml:base="/news/ha-gong-da-scirbo-shi-sheng-tan-li-bo-huo-2021nian-wei-ruan-xue-zhe-cheng-hao/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -76,10 +76,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirbo-shi-sheng-tan-li-bo-huo-de-di-ba-jie-bai-du-jiang-xue-jin/"/>
-        <id>http://ir.hit.edu.cn/~la/news/ha-gong-da-scirbo-shi-sheng-tan-li-bo-huo-de-di-ba-jie-bai-du-jiang-xue-jin/</id>
+        <link rel="alternate" type="text/html" href="/news/ha-gong-da-scirbo-shi-sheng-tan-li-bo-huo-de-di-ba-jie-bai-du-jiang-xue-jin/"/>
+        <id>/news/ha-gong-da-scirbo-shi-sheng-tan-li-bo-huo-de-di-ba-jie-bai-du-jiang-xue-jin/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirbo-shi-sheng-tan-li-bo-huo-de-di-ba-jie-bai-du-jiang-xue-jin/"></content>
+        <content type="html" xml:base="/news/ha-gong-da-scirbo-shi-sheng-tan-li-bo-huo-de-di-ba-jie-bai-du-jiang-xue-jin/"></content>
         
     </entry>
     <entry xml:lang="en">
@@ -95,10 +95,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirbo-shi-sheng-liu-yi-jia-huo-de-di-liu-jie-bai-du-jiang-xue-jin/"/>
-        <id>http://ir.hit.edu.cn/~la/news/ha-gong-da-scirbo-shi-sheng-liu-yi-jia-huo-de-di-liu-jie-bai-du-jiang-xue-jin/</id>
+        <link rel="alternate" type="text/html" href="/news/ha-gong-da-scirbo-shi-sheng-liu-yi-jia-huo-de-di-liu-jie-bai-du-jiang-xue-jin/"/>
+        <id>/news/ha-gong-da-scirbo-shi-sheng-liu-yi-jia-huo-de-di-liu-jie-bai-du-jiang-xue-jin/</id>
         
-        <content type="html" xml:base="http://ir.hit.edu.cn/~la/news/ha-gong-da-scirbo-shi-sheng-liu-yi-jia-huo-de-di-liu-jie-bai-du-jiang-xue-jin/"></content>
+        <content type="html" xml:base="/news/ha-gong-da-scirbo-shi-sheng-liu-yi-jia-huo-de-di-liu-jie-bai-du-jiang-xue-jin/"></content>
         
     </entry>
 </feed>
