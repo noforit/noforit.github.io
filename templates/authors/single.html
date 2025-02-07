@@ -1,8 +1,0 @@
-{% extends "taxonomy_single.html" %}
-{% import 'partials/publications.html' as publications -%}
-
-{% block page %}
-{% for page in pages %}
-{{ publications::publish(page=page) }}
-{% endfor %}
-{% endblock page %}
